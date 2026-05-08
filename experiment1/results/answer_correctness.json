@@ -1,0 +1,1100 @@
+{
+  "metric": "answer_correctness",
+  "aggregated": 0.873279,
+  "num_scored": 163,
+  "num_skipped": 19,
+  "per_question": [
+    {
+      "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+      "score": 0.6127,
+      "response": "Peňaženku zdravia nájdete vo voľne dostupnej mobilnej aplikácii VšZP a v ePobočke. Využívať ju môžete po zaregistrovaní a aktivácii týchto elektronických služieb. Nie je spoplatnená.",
+      "reference": "Peňaženku zdravia nájdete vo voľne dostupnej mobilnej aplikácii VšZP a v ePobočke. Využívať ju môžete po zaregistrovaní a aktivácii týchto elektronických služieb. Stačí si v mobilnej aplikácii alebo ePobočke zvoliť Peňaženku zdravia, v ktorej môžete podávať žiadosti o finančné príspevky, získať informácie o stave žiadosti, čerpaní alebo aktuálnom zostatku finančného príspevku za kalendárny rok. Mobilná aplikácia je dostupná v App Store alebo Google Play."
+    },
+    {
+      "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+      "score": 0.55,
+      "response": "Mobilná aplikácia vám umožní rýchly prístup k Peňaženke zdravia, kdekoľvek sa nachádzate. Pokiaľ vám viac vyhovuje webové rozhranie, stačí si aktivovať elektronické služby VšZP, teda mať aktívnu ePobočku.",
+      "reference": "Mobilná aplikácia vám umožní rýchly prístup k Peňaženke zdravia, kdekoľvek sa nachádzate. Pokiaľ vám viac vyhovuje webové rozhranie, stačí si aktivovať elektronické služby VšZP, teda mať aktívnu ePobočku."
+    },
+    {
+      "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+      "score": 0.7486,
+      "response": "Na čerpanie príspevkov z Peňaženky zdravia stačí, ak máte zriadenú ePobočku.\n",
+      "reference": "Na čerpanie príspevkov z Peňaženky zdravia stačí, ak máte zriadenú ePobočku."
+    },
+    {
+      "question": "Ak som sa opäť vrátil do VšZP, môžem pre Peňaženku zdravia využívať svoje\nstaré konto v ePobočke?",
+      "score": 1.0,
+      "response": "Áno, so svojimi pôvodnými prihlasovacími údajmi sa viete prihlásiť v mobilnej aplikácii VšZP aj ePobočke.",
+      "reference": "Áno, so svojimi pôvodnými prihlasovacími údajmi sa viete prihlásiť v mobilnej aplikácii VšZP aj ePobočke."
+    },
+    {
+      "question": "Som váš dlhoročný poistenec, prečo aj ja nemám nárok na Peňaženku\nzdravia?",
+      "score": 0.4871,
+      "response": "Peňaženka zdravia je benefitný produkt určený pre verných aj nových poistencov Všeobecnej zdravotnej poisťovne. Ak ste dlhoročný poistenec, mali by ste mať nárok na Peňaženku zdravia MINI. Ak máte záujem o skupinový systém, môžete si založiť skupinu Peňaženky zdravia MAXI s bonusom až 800 € na zdravie, pokiaľ je skupina tvorená minimálne 3 až maximálne 8 členmi.\n",
+      "reference": "Peňaženka zdravia je určená pre všetkých našich poistencov."
+    },
+    {
+      "question": "Aktualizácia mobilnej aplikácie prebehne automaticky, alebo si novú verziu\nmusím stiahnuť sám? Prečo sa aplikácia neaktualizuje sama?",
+      "score": 0.9971,
+      "response": "Aktualizácia prebehne automaticky v prípade, že máte v mobilnom zariadení povolenú automatickú aktualizáciu. Pokiaľ ju povolenú nemáte, musíte ju vykonať manuálne.\n",
+      "reference": "Aktualizácia prebehne automaticky v prípade, že máte v mobilnom zariadení povolenú automatickú aktualizáciu. Pokiaľ ju povolenú nemáte, musíte ju vykonať manuálne."
+    },
+    {
+      "question": "Máte kontakt na podporu pre klientov? Mám problémy s inštaláciou mobilnej\naplikácie, pomôžete mi?",
+      "score": 0.9988,
+      "response": "V prípade otázok k mobilnej aplikácii kontaktujte naše call centrum na čísle 0850 003 003, alebo navštívte niektorú z našich pobočiek.\n",
+      "reference": "V prípade otázok k mobilnej aplikácii kontaktujte naše call centrum na čísle 0850 003 003, alebo navštívte niektorú z našich pobočiek."
+    },
+    {
+      "question": "Prečo je potrebná aktivácia mobilnej aplikácie? Nie je to zbytočná strata\nčasu?",
+      "score": 0.9309,
+      "response": "Mobilnú aplikáciu je potrebné stiahnuť a následne aktivovať, nakoľko obsahuje citlivé údaje o vašom zdravotnom stave. Aktiváciu môžete urobiť prostredníctvom tvárovej biometrie, osobne v našich pobočkách alebo vo vybraných lekárňach.\n",
+      "reference": "Mobilnú aplikáciu je potrebné stiahnuť a následne aktivovať, nakoľko obsahuje citlivé údaje o vašom zdravotnom stave. Aktiváciu môžete urobiť prostredníctvom tvárovej biometrie, osobne v našich pobočkách alebo vo vybraných lekárňach."
+    },
+    {
+      "question": "Ak mám nový telefón, musím si opätovne aktivovať mobilnú aplikáciu?",
+      "score": 0.9989,
+      "response": "Nie, nemusíte. Stačí, ak si po prihlásení do aplikácie, teda zadaní mena a hesla, zvolíte aktiváciu cez SMS kód. Aplikácia sa po doručení SMS kódu zaktivuje sama.\n",
+      "reference": "Nie, nemusíte. Stačí, ak si po prihlásení do aplikácie, teda zadaní mena a hesla zvolíte aktiváciu cez SMS kód. Aplikácia sa po doručení SMS kódu zaktivuje sama."
+    },
+    {
+      "question": "Ak si nanovo zaktivujem aplikáciu, musím si opätovne vytvoriť aj skupinu v\nPeňaženke zdravia MAXI?",
+      "score": 1.0,
+      "response": "Nie, po aktivácii mobilnej aplikácie sa všetky údaje obnovia.",
+      "reference": "Nie, po aktivácii mobilnej aplikácie sa všetky údaje obnovia."
+    },
+    {
+      "question": "Budú sa finančné príspevky časom meniť?",
+      "score": 0.165,
+      "response": "Na základe poskytnutého kontextu nie je uvedené, či sa finančné príspevky časom budú meniť. Kontext sa zameriava na podmienky čerpania, úhrady a správy peňaženky zdravia, ale neobsahuje informácie o potenciálnych zmenách výšky príspevkov.\n",
+      "reference": "Finančné príspevky v Peňaženke zdravia môže VšZP meniť a prispôsobiť potrebám klientov."
+    },
+    {
+      "question": "Prečo musím potvrdiť nejaké súhlasy, ak chcem čerpať príspevky z\nPeňaženky zdravia? Na čo slúžia?",
+      "score": 1.0,
+      "response": "Súhlasmi vyjadrujete, že ste sa oboznámili s podmienkami Peňaženky zdravia, že zdieľate informácie potrebné na čerpanie príspevkov, a v rámci Peňaženky zdravia MAXI zdieľate informácie so správcom skupiny. Zároveň vyhlasujete, že sa pravidelne podrobujete preventívnym prehliadkam a vediete zdravý životný štýl.",
+      "reference": "Súhlasmi vyjadrujete, že ste sa oboznámili s podmienkami Peňaženky zdravia, že zdieľate informácie potrebné na čerpanie príspevkov, a v rámci Peňaženky zdravia MAXI zdieľate informácie so správcom skupiny. Zároveň vyhlasujete, že sa pravidelne podrobujete preventívnym prehliadkam a vediete zdravý životný štýl."
+    },
+    {
+      "question": "Na čo slúži e-mailová adresa? Je to povinný údaj? Budem dostávať z\nmobilnej aplikácie nejaké správy?",
+      "score": 0.9997,
+      "response": "E-mailová adresa je povinný údaj. Slúži na spojenie sa s vami v prípade otázok k vašej žiadosti.",
+      "reference": "E-mailová adresa je povinný údaj. Slúži na spojenie sa s vami, v prípade otázok k vašej žiadosti."
+    },
+    {
+      "question": "Kde nájdem presný zoznam finančných príspevkov, ktoré môžem čerpať z\nPeňaženky zdravia?",
+      "score": 0.993,
+      "response": "Finančné príspevky z Peňaženky zdravia, podmienky čerpania a všeobecné podmienky nájdete na www.vszp.sk v časti Peňaženka zdravia. Stručný popis a link na všeobecné podmienky zároveň nájdete v aplikácii VšZP v časti Peňaženka zdravia po kliknutí na informačnú ikonku „i“.",
+      "reference": "Finančné príspevky z Peňaženky zdravia, podmienky čerpania a všeobecné podmienky nájdete na našej stránke v časti Peňaženka zdravia. Stručný popis a link na všeobecné podmienky zároveň nájdete v aplikácii VšZP v časti Peňaženka zdravia po kliknutí na informačnú ikonku „i“."
+    },
+    {
+      "question": "Môžem čerpať finančné príspevky z Peňaženky zdravia aj bez vytvárania\nskupiny, teda ako jednotlivec?",
+      "score": 0.9969,
+      "response": "Áno, finančné príspevky môžete čerpať ako jednotlivec v Peňaženke zdravia MINI.\n",
+      "reference": "Áno, finančné príspevky môžete čerpať ako jednotlivec v Peňaženke zdravia MINI."
+    },
+    {
+      "question": "Aký limit finančných prostriedkov mám k dispozícii?",
+      "score": 0.9984,
+      "response": "Z Peňaženky zdravia máte na čerpanie finančných príspevkov v kalendárnom roku k dispozícii 100 €. Nevyčerpané finančné prostriedky v danom roku sa neprenášajú do nasledujúceho roku. V Peňaženke zdravia MAXI máte možnosť solidárneho čerpania. Až polovicu finančných prostriedkov (až 50 €) môžete použiť v prospech iných členov skupiny. Skupina s 8 členmi tak môže v danom roku využívať až 800 € na zdravotnú starostlivosť.\n",
+      "reference": "Z Peňaženky zdravia máte na čerpanie finančných príspevkov v kalendárnom roku k dispozícii 100 €. Nevyčerpané finančné prostriedky v danom roku sa neprenášajú do nasledujúceho roku. V Peňaženke zdravia MAXI máte možnosť solidárneho čerpania. Až polovicu finančných prostriedkov (až 50 €) môžete použiť v prospech iných členov skupiny. Skupina s 8 členmi tak môže v danom roku využívať až 800 € na zdravotnú starostlivosť."
+    },
+    {
+      "question": "Kto môže čerpať finančné príspevky v Peňaženke zdravia MINI?",
+      "score": 0.8077,
+      "response": "Peňaženka zdravia MINI je určená pre všetkých, ktorí nemajú s kým vytvoriť skupinu. Ak ste ešte nevytvorili skupinu minimálne s 3 členmi s nárokom, môžete čerpať finančné príspevky z Peňaženky zdravia MINI.\n",
+      "reference": "Peňaženka zdravia MINI je určená pre všetkých, ktorí nemajú s kým vytvoriť skupinu. Ak ste ešte nevytvorili skupinu mini. 3 členov s nárokom, môžete čerpať finančné príspevky z Peňaženky zdravia MINI."
+    },
+    {
+      "question": "Mám pozvánku do skupiny. Môžem v tomto štádiu čerpať finančné príspevky?",
+      "score": 0.9302,
+      "response": "Pokiaľ ste dostali pozvánku do skupiny, ale zatiaľ nie ste členom s nárokom tejto skupiny, môžete využívať Peňaženku zdravia MINI. Ak potvrdíte členstvo v skupine na základe doručenej pozvánky, teda stanete sa členom skupiny min. s 3 potvrdenými členmi s nárokom, využívate Peňaženku zdravia MAXI.\n",
+      "reference": "Pokiaľ ste dostali pozvánku do skupiny, ale zatiaľ nie ste členom s nárokom tejto skupiny, môžete využívať Peňaženku zdravia MINI. Ak potvrdíte členstvo v skupine na základe doručenej pozvánky, teda stanete sa členom skupiny min. s 3 potvrdenými členmi s nárokom, využívate Peňaženku zdravia MAXI."
+    },
+    {
+      "question": "Začal som vytvárať skupinu, sme zatiaľ 2 a neviem, kedy sa nám podarí vytvoriť skupinu 3 členov,\nmôžem zatiaľ čerpať finančné príspevky?",
+      "score": 0.7416,
+      "response": "Áno, aj v tomto prípade môžete čerpať finančné príspevky. Ak ste ešte nevytvorili skupinu s min. s 3 členmi s nárokom na čerpanie, využívate Peňaženku zdravia MINI. Po vytvorení skupiny s min. 3 členmi s nárokom už čerpáte finančné príspevky z Peňaženky zdravia MAXI.\n",
+      "reference": "Áno, aj v tomto prípade môžete čerpať finančné príspevky. Ak ste ešte nevytvorili skupinu s min. s 3 členmi s nárokom na čerpanie, využívate Peňaženku zdravia MINI. Po vytvorení skupiny s min. 3 členmi s nárokom už čerpáte finančné príspevky z Peňaženky zdravia MAXI. Pokiaľ ste pred vstupom do skupiny už vyčerpali nejakú časť finančných príspevkov, tieto sa odrátajú z vášho limitu 100 € v Peňaženke zdravia MAXI. Príklad: Z Peňaženky zdravia MINI ste čerpali 20 € na doplatky na lieky. Následne ste sa stali členom Peňaženky zdravia MAXI, do ktorej svojím vstupom prinášate 80 € na čerpanie pre daný kalendárny rok."
+    },
+    {
+      "question": "Môže finančné príspevky z Peňaženky zdravia MINI čerpať aj dieťa?",
+      "score": 0.6944,
+      "response": "Áno, aj dieťa môže čerpať finančné príspevky z Peňaženky zdravia MINI až do limitu 100 €. Za dieťa koná jeho zákonný zástupca.\n",
+      "reference": "Áno, aj dieťa môže čerpať finančné príspevky z Peňaženky zdravia MINI až do limitu 100 €. Za dieťa koná jeho zákonný zástupca. V Peňaženke zdravia MINI môže dospelá osoba čerpať až za 2 svoje deti, resp. osoby pozbavené spôsobilosti na právne úkony."
+    },
+    {
+      "question": "Aký je postup čerpania finančných príspevkov z Peňaženky zdravia MINI pre dieťa?",
+      "score": 0.9988,
+      "response": "Čerpanie finančných príspevkov pre dieťa je rovnaké ako v prípade dospelého. Dieťa stačí mať zaevidované na svojom e-konte v mobilnej aplikácii alebo v ePobočke. Po pridaní dieťaťa do mobilnej aplikácie alebo ePobočky sa v Peňaženke zdravia automaticky zobrazí možnosť čerpania príspevku pre vás alebo pre dieťa.\n",
+      "reference": "Čerpanie finančných príspevkov pre dieťa je rovnaký ako v prípade dospelého. Dieťa stačí mať zaevidované na svojom e-konte v mobilnej aplikácii alebo v ePobočke. Po pridaní dieťaťa do mobilnej aplikácie alebo ePobočky sa v Peňaženke zdravia automaticky zobrazí možnosť čerpania príspevku pre vás alebo pre dieťa."
+    },
+    {
+      "question": "Môžem ako dospelý v Peňaženke zdravia MINI konať aj za dieťa, ktoré mi bolo zverené súdom do\nstarostlivosti?",
+      "score": 0.9937,
+      "response": "Áno, môžete. Potrebujeme však potvrdenie, že ste zákonným zástupcom dieťaťa. Dieťa si musíte zaevidovať na svojom e-konte v mobilnej aplikácii alebo ePobočke. Ďalší postup čerpania príspevkov je rovnaký ako v prípade zákonného zástupcu a dieťaťa.\n",
+      "reference": "Áno, potrebujeme však potvrdenie, že ste zákonným zástupcom dieťaťa. Dieťa si musíte zaevidovať na svojom e-konte v mobilnej aplikácii alebo ePobočke. Ďalší postup čerpania príspevkov je rovnaký ako v prípade zákonného zástupcu a dieťaťa."
+    },
+    {
+      "question": "Môže požiadať o čerpanie finančných príspevkov z Peňaženky zdravia MINI aj osoba pozbavená\nspôsobilosti na právne úkony?",
+      "score": 0.9167,
+      "response": "Áno, je to možné. Za každého poistenca, ktorý bol pozbavený spôsobilosti na právne úkony, koná v mobilnej aplikácii alebo ePobočke jeho zákonný zástupca (ktorý si ho pridá aj pod svoje e-konto v mobilnej aplikácii alebo ePobočke).",
+      "reference": "Áno, je to možné. Za každého poistenca, ktorý bol pozbavený spôsobilosti na právne úkony, koná v mobilnej aplikácii alebo ePobočke jeho zákonný zástupca (ktorý si ho pridá aj pod svoje e-konto v mobilnej aplikácii alebo ePobočke)."
+    },
+    {
+      "question": "Môžem požiadať o finančný príspevok ako fyzická osoba, ak som ako FO – podnikateľ, teda SZČO,\ndlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+      "score": 0.9992,
+      "response": "Áno, žiadosť o finančný príspevok môžete podať. V prípade, že v čase čerpania alebo úhrady finančného príspevku nebudete mať nárok na plnú zdravotnú starostlivosť *, nedôjde k vyhodnoteniu vašej žiadosti o poskytnutie finančného príspevku.\n\n*S výnimkou splnenia podmienok v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.",
+      "reference": "Áno, žiadosť o finančný príspevok môžete podať. V prípade, že v čase čerpania alebo úhrady finančného príspevku nebudete mať nárok na plnú zdravotnú starostlivosť*, nedôjde k vyhodnoteniu vašej žiadosti o poskytnutie finančného príspevku. *S výnimkou splnenia podmienok v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov."
+    },
+    {
+      "question": "Po príchode zo zahraničia sa poistím vo VšZP. Môžem požiadať o finančný príspevok z Peňaženky\nzdravia MINI? Dostanem aj ja 100 €?",
+      "score": 0.7484,
+      "response": "Áno, ak sa v priebehu roka poistíte vo VšZP, stiahnete si mobilnú aplikáciu alebo založíte ePobočku, môžete požiadať o finančný príspevok z Peňaženky zdravia MINI aj v priebehu roka. Každý poistenec VšZP má nárok na finančný príspevok vo výške 100 € na kalendárny rok, bez ohľadu na to, či je poistencom od 1. januára aktuálneho roka, alebo sa poistil v priebehu roka.",
+      "reference": "Ak sa v priebehu roka poistíte vo VšZP, stiahnete si mobilnú aplikáciu alebo založíte ePobočku, môžete požiadať o finančný príspevok z Peňaženky zdravia MINI aj v priebehu roka. Každý poistenec VšZP má nárok na finančný príspevok vo výške 100 € na kalendárny rok. Nie je podstatné, či je poistencom od 1.1. aktuálneho roka, alebo sa poistil v priebehu roka."
+    },
+    {
+      "question": "Preplatíte mi žiadosť o finančný príspevok v prípade, že odídem do zahraničia a ukončím poistenie\nvo VšZP? Čo sa stane s mojimi 100 €?",
+      "score": 0.9709,
+      "response": "V prípade, že odídete do zahraničia a ukončíte poistenie vo VšZP, zostávate v Peňaženke zdravia, ale nemáte nárok na čerpanie finančných príspevkov, ktoré sa vzťahujú na zdravotnú starostlivosť uhradenú a absolvovanú po ukončení poistenia.\n\nAk ste absolvovali zdravotnú starostlivosť pred ukončením poistného vzťahu a žiadosť o čerpanie príspevku ste podali až po jeho ukončení a budú splnené ostatné podmienky, príspevok vám uhradíme.\n",
+      "reference": "V tomto prípade zostávate v Peňaženke zdravia, nemáte však nárok na čerpanie finančných príspevkov, ktoré sa vzťahujú na zdravotnú starostlivosť uhradenú a absolvovanú po ukončení poistenia. Ak ste absolvovali zdravotnú starostlivosť pred ukončením poistného vzťahu a žiadosť o čerpanie príspevku ste podali až po jeho ukončení a budú splnené ostatné podmienky, príspevok vám uhradíme."
+    },
+    {
+      "question": "Dostal som pozvánku do skupiny, môžem v tomto štádiu čerpať nejaké finančné príspevky?",
+      "score": null,
+      "response": "Nie, čerpať finančné príspevky nie je možné v štádiu po prijatí pozvánky. Pre potvrdenie členstva je potrebné potvrdiť na konte člena súhlas s pozvánkou a s podmienkami. Nárok na čerpanie finančných príspevkov vzniká po potvrdení členstva minimálne 2 pozvanými poistencami.\n",
+      "reference": "Áno, aj v prípade, že ste už dostali pozvánku do skupiny, môžete čerpať z Peňaženky zdravia MINI až do času, kedy sa stanete členom skupiny s nárokom (min. 3 potvrdení členovia s nárokom). Od tohto momentu už môžete využívať Peňaženku zdravia MAXI."
+    },
+    {
+      "question": "Ako požiadam o finančný príspevok?",
+      "score": 0.9915,
+      "response": "Po absolvovaní a uhradení výkonu/uhradení lieku, ktoré sú súčasťou Peňaženky zdravia MINI, je potrebné do 60 dní od úhrady a absolvovania zdravotnej starostlivosti podať v mobilnej aplikácii alebo ePobočke žiadosť o čerpanie príspevku.\n\nV prípade Peňaženky zdravia MAXI, člen skupiny požiada správcu, aby do 60 dní od úhrady zdravotnej starostlivosti podal v mobilnej aplikácii alebo ePobočke žiadosť o čerpanie finančného príspevku.\n",
+      "reference": "Po absolvovaní a uhradení výkonu/uhradení lieku, ktoré sú súčasťou Peňaženky zdravia MINI je potrebné do 60 dní od úhrady a absolvovania zdravotnej starostlivosti podať v mobilnej aplikácii alebo ePobočke žiadosť o čerpanie príspevku."
+    },
+    {
+      "question": "Do akej doby musím podať žiadosť?",
+      "score": 0.5851,
+      "response": "Žiadosť o úhradu finančného príspevku je potrebné podať najneskôr do 60 dní odo dňa úhrady zdravotnej starostlivosti.",
+      "reference": "V Peňaženke zdravia MINI a Peňaženke zdravia MAXI je potrebné podať žiadosť o úhradu finančného príspevku s nárokom najneskôr do 60 dní odo dňa úhrady zdravotnej starostlivosti."
+    },
+    {
+      "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+      "score": null,
+      "response": "Žiadosť podávate online prostredníctvom mobilnej aplikácie alebo v ePobočke. Pre vyplnenie žiadosti potrebujete nasledujúce informácie:\n\n*   druh finančného príspevku, o ktorý žiadate;\n*   IČO poskytovateľa zdravotnej starostlivosti z dokladu o úhrade;\n*   sumu, ktorú ste zaplatili;\n*   sumu, ktorú žiadate v príspevku (môže byť iná ako suma na doklade o úhrade);\n*   doklad o úhrade.\n\nPri vyplňovaní žiadosti:\n\n1.  Vyberiete konkrétny druh finančného príspevku, doplníte IČO poskytovateľa a dátum z dokladu o úhrade.\n2.  Uvediete uhradenú sumu z dokladu o úhrade a priložíte jeho sken alebo fotografiu (doklad by mal obsahovať QR kód).\n3.  Ak je suma, o ktorú žiadate, nižšia ako úhrada u lekára, vyplníte pole „požadovaná suma“. Ak je suma rovnaká, pole vyplníte tiež.\n4.  V mobilnej aplikácii alebo v ePobočke si skontrolujte, či máte absolvované potrebné preventívne prehliadky.",
+      "reference": "Žiadosť podávate online prostredníctvom mobilnej aplikácie alebo v ePobočke. Pre vyplnenie žiadosti potrebujete nasledujúce informácie: • druh finančného príspevku, o ktorý žiadate; • IČO poskytovateľa zdravotnej starostlivosti z dokladu o úhrade; • sumu, ktorú ste zaplatili; • sumu, ktorú žiadate v príspevku, môže byť iná ako suma na doklade o úhrade; • doklad o úhrade.1.V žiadosti vyberiete konkrétny druh finančného príspevku, doplníte IČO poskytovateľa\na dátum, ktorý je uvedený na doklade o úhrade zdravotnej starostlivosti.\n2. Uvediete uhradenú sumu z dokladu o úhrade, ktorého sken alebo fotografiu priložíte do\nžiadosti. Doklad o úhrade by mal obsahovať QR kód.\n3. V prípade, že suma, o ktorú žiadate je nižšia ako úhrada u lekára, vyplníte pole „požadovaná\nsuma“ vo výške, ktorú požadujete. Ak je suma rovnaká, pole vyplníte tiež.\n4. V mobilnej aplikácii v záložke Moja prevencia alebo v ePobočke si skontrolujte absolvované\npotrebné preventívne prehliadky, ktoré je nutné absolvovať max. do termínu určeného vo\nvšeobecných podmienkach Peňaženky zdravia.\nPreventívna prehliadka u nezmluvného poskytovateľa alebo v zahraničí\nV tomto prípade podáte žiadosť o príspevok a počkáte na notifikáciu o nesplnení prevencie. Následne\ndo žiadosti v mobilnej aplikácii VšZP alebo ePobočke priložíte doklad o absolvovaní preventívnej\nprehliadky."
+    },
+    {
+      "question": "Sú obmedzenia pri podávaní prílohy k žiadosti?",
+      "score": 0.7222,
+      "response": "K žiadosti je potrebné priložiť povinnú prílohu dokladujúcu úhradu poistencom, ktorá nesmie byť väčšia ako 5 MB a akceptované formáty sú: jpg, jpeg, jpe, png, pdf. Sken/fotografia dokladu o úhrade by mal obsahovať QR kód a musí obsahovať všetky náležitosti účtovného dokladu vrátane druhu poskytnutej zdravotnej starostlivosti zhodnej s uplatňovaným finančným príspevkom.",
+      "reference": "K žiadosti je potrebné priložiť povinnú prílohu, ktorá preukazuje úhradu, nesmie byť väčšia ako 5 MB a akceptované formáty sú: jpg, jpeg, jpe, png, pdf."
+    },
+    {
+      "question": "Ako zistím, kto je zmluvný lekár?",
+      "score": 0.9955,
+      "response": "Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec.\n\nZoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete na www.vszp.sk v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI.\n\nZoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na www.vszp.sk v časti Peňaženka zdravia MAXI.\n",
+      "reference": "Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec. Zoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete na našej webovej stránke v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI. Zoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na našej stránke v časti Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Môžem si podať žiadosť o finančný príspevok aj v prípade, že som navštívil súkromného lekára\nalebo zariadenie?",
+      "score": 0.7435,
+      "response": "Zdravotná starostlivosť musí byť absolvovaná u zmluvného lekára, s ktorým má VšZP uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti. Výnimkou je športová preventívna prehliadka a laserová operácia očí, ktoré stačí absolvovať na vybranom pracovisku. Zoznam vybraných pracovísk nájdete na webovej stránke VšZP.\n",
+      "reference": "Zdravotná starostlivosť musí byť absolvovaná u zmluvného lekára. Ide o takého lekára, s ktorým má VšZP uzatvorenú zmluvu o poskytovaní zdravotnej starostlivosti. Výnimkou je športová preventívna prehliadka a laserová operácia očí, ktoré stačí absolvovať na vybranom pracovisku. Zoznam vybraných pracovísk, v ktorých môžete absolvovať športové preventívne prehliadky, nájdete na našej webovej stránke v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI. Zoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na webovej stránke v časti Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Musím mať absolvované všetky preventívne prehliadky?",
+      "score": 0.9311,
+      "response": "Podmienkou čerpania akéhokoľvek finančného príspevku je, že poistenec má absolvované preventívne prehliadky, na ktoré má zo zákona nárok.\n\nKonkrétne to znamená:\n\n*   **Žena:** Preventívna prehliadka u všeobecného lekára pre dospelých (do 75 rokov vrátane) a gynekológa (do 70 rokov vrátane).\n*   **Muž:** Preventívna prehliadka u všeobecného lekára pre dospelých (do 75 rokov vrátane) a ak má 50 – 70 rokov vrátane, aj preventívna prehliadka u urológa.\n*   **Dieťa:** Preventívna prehliadka u všeobecného lekára pre deti a dorast.\n*   **Príspevok na zuby:** Preventívna prehliadka u zubára.\n\nAk ste preventívnu prehliadku absolvovali u nezmluvného lekára, je potrebné doložiť doklad o jej absolvovaní.",
+      "reference": "Jednou z podmienkou čerpania finančných príspevkov je, že poistenec má absolvované preventívne prehliadky, na ktoré má zo zákona nárok. Táto podmienka nie je samoúčelná, VšZP záleží na tom, aby poistenci prežili čo najviac rokov v zdraví. To znamená: Žena musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre dospelých (do 75 rokov veku - vrátane) a gynekológa (do 70 rokov veku - vrátane). Muž musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre dospelých (do 75 rokov veku - vrátane) a preventívnu prehliadku u urológa (50 – 70 rokov – vrátane). Dieťa musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre deti a dorast. Podmienkou pre čerpanie finančného príspevku na zuby je preventívna prehliadka u zubára."
+    },
+    {
+      "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+      "score": 0.9781,
+      "response": "V prípade, že ste absolvovali preventívnu prehliadku u nezmluvného lekára, podáte žiadosť o príspevok a počkáte na notifikáciu o nesplnení prevencie. Následne do žiadosti v mobilnej aplikácii VšZP alebo ePobočke priložíte doklad o absolvovaní preventívnej prehliadky.\n",
+      "reference": "V tomto prípade podáte žiadosť o príspevok a počkáte na notifikáciu o nesplnení prevencie. Následne do žiadosti v mobilnej aplikácii VšZP alebo ePobočke priložíte doklad o absolvovaní preventívnej prehliadky."
+    },
+    {
+      "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+      "score": 0.9739,
+      "response": "Je potrebné požiadať lekára o vystavenie dokladu na účel čerpania finančných príspevkov z Peňaženky zdravia.",
+      "reference": "Je potrebné požiadať lekára o vystavenie dokladu. Je potrebný k preplateniu výkonov v rámci Peňaženky zdravia."
+    },
+    {
+      "question": "Ako si pozriem, koľko som už na príspevky vyčerpal?",
+      "score": 1.0,
+      "response": "V mobilnej aplikácii ako aj v ePobočke v záložke Peňaženka zdravia máte zoznam žiadostí aj so žiadanými a uhradenými sumami.",
+      "reference": "V mobilnej aplikácii ako aj v ePobočke v záložke Peňaženka zdravia máte zoznam žiadostí aj so žiadanými a uhradenými sumami."
+    },
+    {
+      "question": "Ako si do Peňaženky zdravia MINI vložím číslo účtu?",
+      "score": 0.75,
+      "response": "Číslo účtu vkladáte hneď po vstupe do Peňaženky zdravia MINI po vyjadrení potrebných súhlasov.",
+      "reference": "Číslo účtu vkladáte hneď po vstupe do Peňaženky zdravia MINI po vyjadrení potrebných súhlasov."
+    },
+    {
+      "question": "Môžem zmeniť číslo účtu?",
+      "score": 0.5621,
+      "response": "Áno, správca môže v priebehu roka zmeniť číslo účtu, ktorý zadal pri vytváraní skupiny. Číslo účtu vkladáte hneď po vstupe do Peňaženky zdravia MINI po vyjadrení potrebných súhlasov a kedykoľvek počas roka ho môžete zmeniť.\n",
+      "reference": "Áno, kedykoľvek počas roka môžete zmeniť číslo účtu, ktoré ste zadali"
+    },
+    {
+      "question": "Pošlete mi peniaze aj na zahraničný účet?",
+      "score": 0.7377,
+      "response": "Finančné príspevky z Peňaženky zdravia MAXI aj MINI je možné zaslať iba na účty registrované na Slovensku.\n",
+      "reference": "Finančné príspevky z Peňaženky zdravia MINI je možné zaslať iba na účty registrované na Slovensku."
+    },
+    {
+      "question": "Kedy zasielate finančné príspevky?",
+      "score": 0.9985,
+      "response": "Finančné príspevky uhrádzame priebežne počas roka, ak sú splnené všetky podmienky pre úhradu.\n\nŽiadosti podané od 1. januára do 30. júna daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 30. septembru najneskôr do 31. októbra daného roka.\nŽiadosti podané od 1. júla do 31. decembra daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 31. marcu najneskôr do 30. apríla nasledujúceho roka.\n",
+      "reference": "Finančné príspevky uhrádzame priebežne počas roka, ak sú splnené všetky podmienky pre úhradu. Žiadosti podané od 1. januára do 30. júna daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 30. septembru najneskôr do 31. októbra daného roka. Žiadosti podané od 1. júla do 31. decembra daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 31. marcu najneskôr do 30. apríla nasledujúceho roka."
+    },
+    {
+      "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+      "score": 0.7482,
+      "response": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške sumy, na ktorú máte nárok.\n",
+      "reference": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške sumy, na ktorú máte nárok."
+    },
+    {
+      "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+      "score": 0.9981,
+      "response": "Žiadosti majú 4 stavy: evidovaná, rozpracovaná, schválená, ukončená.\n\n*   Ak je žiadosť vedená v stave **schválená**, môžete očakávať pripísanie finančných prostriedkov na Váš účet v už krátkej dobe.\n*   Ak je žiadosť v stave **evidovaná** resp. **rozpracovaná**, ešte čakáme na overenie informácií zadaných v žiadosti, aby sme mohli žiadosť schváliť a následne uhradiť. Pre relevantnosť údajov žiadosti je potrebné ich porovnanie s informáciami od lekárov a lekární.\n*   Ak je žiadosť v stave **ukončená**, nesplnili ste podmienky na čerpanie finančného príspevku a na Váš email a mobilný telefón sme zaslali správu s uvedením detailu, ktoré podmienky ste nesplnili.",
+      "reference": "Žiadosti majú 4 stavy: evidovaná, rozpracovaná, schválená, ukončená. Ak je žiadosť vedená v stave schválená, môžete očakávať pripísanie finančných prostriedkov na Váš účet v už krátkej dobe. Ak je žiadosť v stave evidovaná resp. rozpracovaná, ešte čakáme na overenie informácií zadaných v žiadosti, aby sme mohli žiadosť schváliť a následne uhradiť. Pre relevantnosť údajov v žiadosti je potrebné ich porovnanie s informáciami od lekárov a lekární. Ak je žiadosť v stave ukončená, nesplnili ste podmienky na čerpanie finančného príspevku a na Váš e- mail a mobilné telefónne číslo sme zaslali správu s uvedením detailu, ktoré podmienky ste nesplnili."
+    },
+    {
+      "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+      "score": 0.9992,
+      "response": "Informácie o stave žiadosti vidí poistenec v mobilnej aplikácii alebo ePobočke, v časti „Žiadosti a reklamácie/Moje žiadosti“ – „Stav žiadosti“, „Detail žiadosti“. O schválení resp. ukončení žiadosti bude poistenec informovaný push správou ako aj mailovou notifikáciou.\n",
+      "reference": "Informácie o stave žiadosti vidí poistenec v mobilnej aplikácii alebo ePobočke, v časti „Žiadosti a reklamácie/Moje žiadosti“ – „Stav žiadosti“, „Detail žiadosti“. O schválení resp. ukončení žiadosti bude poistenec informovaný push správou ako aj mailovou notifikáciou."
+    },
+    {
+      "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+      "score": 0.8675,
+      "response": "Dôvod ukončenia žiadosti bez úhrady bude uvedený v mailovej notifikácii o ukončení žiadosti ako aj v aplikácii či v ePobočke v časti Žiadosti a reklamácie/Moje žiadosti a reklamácie – Stav žiadosti. \n\nV prípade nesúhlasu s rozhodnutím môžete vytvoriť v mobilnej aplikácii reklamáciu, napísať nám v sekcii Kontakty, kontaktovať naše call centrum na telefónnom čísle 0850 003 003, alebo navštíviť niektorú z našich pobočiek.\n",
+      "reference": "Dôvod ukončenia žiadosti bez úhrady príspevku bude uvedený v e-mailovej notifikácii o ukončení žiadosti ako aj v aplikácii, či v ePobočke v časti Žiadosti a reklamácie/Moje žiadosti a reklamácie – Stav žiadosti. V prípade nesúhlasu s rozhodnutím, môžete vytvoriť v mobilnej aplikácii reklamáciu v časti Žiadosti a reklamácie v detaile v žiadosti, cez tlačidlo reklamovať. Môžete nám napísať cez kontaktný formulár, kontaktovať call centrum na čísle 0850 003 003 alebo navštíviť niektorú z našich pobočiek."
+    },
+    {
+      "question": "Môžem podať viac žiadostí na jeden doklad?",
+      "score": 0.5421,
+      "response": "Viac žiadostí s rovnakým dokladom môžete podať iba v prípade, ak je na doklade o úhrade informácia o rôznych druhoch zdravotnej starostlivosti alebo informácia o absolvovaní zdravotnej starostlivosti viacerými členmi skupiny. Žiadosť musí byť podaná individuálne na člena a individuálne na druh žiadaného finančného príspevku.",
+      "reference": "Viac žiadostí s rovnakým dokladom môžete podať iba v prípade, ak je na doklade o úhrade informácia o rôznych druhoch zdravotnej starostlivosti alebo informácia o absolvovaní zdravotnej starostlivosti viacerými členmi skupiny. Žiadosť musí byť podaná individuálne na druh žiadaného benefitu."
+    },
+    {
+      "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+      "score": 0.9962,
+      "response": "Áno, ak boli dodatočne splnené podmienky čerpania finančného príspevku, je možné žiadosť znova podať. Aj opakovanú žiadosť je však možné podať len do 60 dní od úhrady zdravotnej starostlivosti, ktorej sa finančný príspevok týka.\n",
+      "reference": "Ak boli dodatočne splnené podmienky čerpania finančného príspevku, je možné žiadosť znova podať. Aj opakovanú žiadosť je však možné podať len do 60 dní od úhrady zdravotnej starostlivosti, ktorej sa finančný príspevok týka."
+    },
+    {
+      "question": "Budem musieť vrátiť príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+      "score": 0.9982,
+      "response": "Nie, našim poistencom musíte byť v čase absolvovania a úhrady zdravotnej starostlivosti. Už vyplatené príspevky v tomto prípade nie ste povinný vrátiť.\n",
+      "reference": "Nie, našim poistencom musíte byť v čase absolvovania a úhrady zdravotnej starostlivosti. Už vyplatené príspevky v tomto prípade nie ste povinný vrátiť."
+    },
+    {
+      "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MINI?",
+      "score": 0.7376,
+      "response": "Z Peňaženky zdravia MINI môžete čerpať tieto finančné príspevky na zuby:\n\n*   **1x ročne 30 €** na zubný strojček pre deti do dovŕšenia 18. roku veku (nevzťahuje sa na „neviditeľné“ strojčeky, napr. Invisalign).\n*   **1x ročne 40 €** na dentálnu hygienu pre dospelých a deti (od dovŕšenia 3. roku veku).",
+      "reference": "Z Peňaženky zdravia MINI môžu naši detskí poistenci do dosiahnutia 18 rokov čerpať 1× ročne finančný príspevok na zubný strojček vo výške 30 €. Zároveň môžu od 3 rokov využiť 1× ročne finančný príspevok na dentálnu hygienu vo výške 40 €. Pre dospelých poistencov je určený 1× ročne finančný príspevok na dentálnu hygienu vo výške 40 €."
+    },
+    {
+      "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+      "score": 0.4714,
+      "response": "Zoznam našich zmluvných poskytovateľov zdravotnej starostlivosti nájdete na webovej stránke v Peňaženke zdravia pri konkrétnom finančnom príspevku.",
+      "reference": "Zoznam našich zmluvných poskytovateľov zdravotnej starostlivosti u ktorých môžete absolvovať dentálnu hygienu."
+    },
+    {
+      "question": "Na čo je určený finančný príspevok na zuby 1× 40 € ročne?",
+      "score": 0.9815,
+      "response": "Príspevok 1 x 40 € ročne je možné využiť na výkony dentálnej hygieny, ktoré sú čiastočne hradené na základe verejného zdravotného poistenia. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia.",
+      "reference": "Príspevok 1× 40 € ročne môžu využiť naši poistenci už od 3 rokov veku na výkony dentálnej hygieny, ktoré sú čiastočne hradené na základe verejného zdravotného poistenia. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia."
+    },
+    {
+      "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 1× 40 € ročne?",
+      "score": 0.9971,
+      "response": "Podmienka čerpania príspevku 1 x 40 € ročne sa vzťahuje na výkony v oblasti dentálnej hygieny. Konkrétne sa jedná o:\n\n*   **Výkon N03:** odstránenie zubného povlaku alebo zubného kameňa v celom úseku chrupu ultrazvukom.\n*   **Výkon N11:** inštruktáž a nácvik ústnej hygieny, poučenie o prevencii zubného kazu a ochorení paradontu, odstránenie zubných povlakov.",
+      "reference": "Podmienka čerpania príspevku 1× 40 € ročne sa vzťahuje na výkony v oblasti dentálnej hygieny: Výkon N03: odstránenie zubného povlaku alebo zubného kameňa v celom úseku chrupu ultrazvukom. Výkon N11: inštruktáž a nácvik ústnej hygieny, poučenie o prevencii zubného kazu a ochorení parodontu, odstránenie zubných povlakov."
+    },
+    {
+      "question": "Môžem použiť príspevok 1× 30 € ročne na strojček pre dieťa z Peňaženky zdravia MINI?",
+      "score": 0.9399,
+      "response": "Áno, príspevok 1x30 € ročne z Peňaženky zdravia MINI môžu využiť naši poistenci do dovŕšenia 18. roku veku na strojček na zuby (nevzťahuje sa na „neviditeľné“ strojčeky, napr. Invisalign). Finančný príspevok sa vzťahuje na čelustnoortopedické výkony, čiastočne hradené na základe verejného zdravotného poistenia absolvované u lekára, ktorý má s VšZP zmluvu.",
+      "reference": "Áno, príspevok 1× 30 € ročne z Peňaženky zdravia MINI môžu využiť naši poistenci do dovŕšenia 18 rokov veku na strojček na zuby (nevzťahuje sa na „neviditeľné“ strojčeky, napr. Invisalign). Finančný príspevok sa vzťahuje na čelustnoortopedické výkony, čiastočne hradené na základe verejného zdravotného poistenia, absolvované u lekára, ktorý má s VšZP zmluvu. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia."
+    },
+    {
+      "question": "Finančné príspevky na lieky bude môcť čerpať dospelý poistenec aj dieťa?",
+      "score": 0.7499,
+      "response": "Možnosť čerpania finančných príspevkov na lieky sa vzťahuje na dospelého poistenca od dovŕšenia 18. roku veku.",
+      "reference": "Možnosť čerpania finančných príspevkov na lieky sa vzťahuje na dospelého poistenca od dovŕšenia 18. rokov veku."
+    },
+    {
+      "question": "Vzťahuje sa finančný príspevok na lieky aj na dietetické potraviny?",
+      "score": 0.6689,
+      "response": "V Peňaženke zdravia MINI sa finančné príspevky vzťahujú výlučne na kategorizované lieky, ktoré sú čiastočne hradené z verejného zdravotného poistenia. Finančný príspevok na lieky a dietetické potraviny je súčasťou Peňaženky zdravia MAXI.",
+      "reference": "V Peňaženke zdravia MINI sa finančné príspevky vzťahujú výlučne na kategorizované lieky, ktoré sú čiastočne hradené z verejného zdravotného poistenia. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR. Finančný príspevok na lieky sa týka aj kategorizovaných vakcín, ktoré sú čiastočne hradené z verejného zdravotného poistenia. Finančný príspevok na lieky a dietetické potraviny je súčasťou Peňaženky zdravia MAXI."
+    },
+    {
+      "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia?",
+      "score": null,
+      "response": "Nie, doplatky za lieky, na ktoré máte nárok zo zákona, nie sú uhrádzané z Peňaženky zdravia. Ak zo zákona máte nárok na vrátenie doplatkov, poisťovne ich uhrádzajú automaticky vo výške doplatku za najlacnejšiu alternatívu lieku, prípadne sú Vám priamo odpočítané v lekárni.\n\nV príspevku na lieky v Peňaženke zdravia MINI VšZP uhradí po splnení podmienok doplatky za jednotlivé lieky do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR, maximálne však 20 € ročne. Nebude to len doplatok za najlacnejší alternatívny liek.\n",
+      "reference": "Nie, doplatky za lieky, na ktoré máte nárok zo zákona, nie sú uhrádzané z Peňaženky zdravia. Ak zo zákona máte nárok na vrátenie doplatkov, poisťovne ich uhrádzajú automaticky vo výške doplatku za najlacnejšiu alternatívu lieku, prípadne sú Vám priamo odpočítané v lekárni. V príspevku na lieky v Peňaženke zdravia MINI VšZP uhradí po splnení podmienok doplatky za jednotlivé lieky do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR, maximálne však 20 € ročne. Nebude to len doplatok za najlacnejší alternatívny liek."
+    },
+    {
+      "question": "Čerpanie finančného príspevku na lieky je maximálne vo výške 20 € na poistenca na kalendárny rok\nalebo na celé obdobie poistenia vo VšZP?",
+      "score": 1.0,
+      "response": "Nárok na finančný príspevok na lieky do výšky 20 € vzniká poistencovi na kalendárny rok.",
+      "reference": "Nárok na finančný príspevok na lieky do výšky 20 € vzniká poistencovi na kalendárny rok."
+    },
+    {
+      "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+      "score": 0.6698,
+      "response": "Doplatky za lieky a dietetické potraviny pre deti a zákonných zástupcov vrátime kumulatívne do výšky 200 €, za jednotlivé lieky a dietetické potraviny do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR. Rovnako to platí v prípade liekov pre dospelých do výšky 20 €. Nebude to len doplatok za najlacnejší náhradný liek. Poistencovi, ktorý je v čase výdaja lieku zároveň osobou, na ktorú sa v zmysle platnej legislatívy vzťahuje limit spoluúčasti, preplatíme sumu na konkrétny liek vo výške rozdielu medzi skutočným doplatkom a prepočítaným doplatkom.\n",
+      "reference": "Doplatky za lieky pre poistenca vrátime kumulatívne do výšky 20 €, za jednotlivé lieky do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR. Nebude to len doplatok za najlacnejší náhradný liek. Poistencovi, ktorý je v čase výdaja lieku zároveň osobou, na ktorú sa v zmysle platnej legislatívy vzťahuje limit spoluúčasti, preplatíme benefit na konkrétny liek vo výške rozdielu medzi skutočným doplatkom a prepočítaným doplatkom."
+    },
+    {
+      "question": "V lekárni mi namiešali masť alebo kvapky. Môžem v tomto prípade požiadať o finančný príspevok\nna lieky?",
+      "score": 0.7486,
+      "response": "Individuálne pripravované lieky nepatria medzi kategorizované a finančný príspevok sa na ne nevzťahuje. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR.\n",
+      "reference": "Individuálne pripravované lieky nepatria medzi kategorizované a finančný príspevok sa na ne nevzťahuje. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR."
+    },
+    {
+      "question": "Má dieťa nárok na finančný príspevok z Peňaženky zdravia MINI v prípade, že absolvovalo lekárske\nvyšetrenie u zmluvného oftalmológa v decembri a okuliare budú zakúpené až v januári nasledujúci\nrok?",
+      "score": 0.9989,
+      "response": "Ak zdravotnícka pomôcka bude vydaná a uhradená v januári nasledujúceho roka, príspevok si môže v tomto prípade uplatniť.\n",
+      "reference": "Ak zdravotnícka pomôcka bude vydaná a uhradená v januári nasledujúceho roka, príspevok si môže v tomto prípade uplatniť."
+    },
+    {
+      "question": "Môžem získať z Peňaženky zdravia MINI príspevok na kontaktné šošovky?",
+      "score": 0.9988,
+      "response": "Z Peňaženky zdravia nie je možné získať príspevok na kontaktné šošovky. Čerpať finančný príspevok je možné len na okuliarové šošovky pre deti.\n",
+      "reference": "Z Peňaženky zdravia nie je možné získať príspevok na kontaktné šošovky. Čerpať finančný príspevok je možné len na okuliarové šošovky pre deti."
+    },
+    {
+      "question": "Môžem si prevziať okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+      "score": 1.0,
+      "response": "Nie, pomôcku si môžete prevziať iba v optike, s ktorou má VšZP uzatvorenú zmluvu.",
+      "reference": "Nie, pomôcku si môžete prevziať iba v optike, s ktorou má VšZP uzatvorenú zmluvu."
+    },
+    {
+      "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+      "score": 0.819,
+      "response": "Príspevok na okuliarový rám pre dospelých poskytujeme od výšky dioptrie +1/-1 raz za dva roky.",
+      "reference": "Príspevok na okuliarový rám pre dospelých z Peňaženky zdravia MINI poskytujeme od výšky dioptrie najmenej +1/-1 raz za dva roky."
+    },
+    {
+      "question": "Aké podmienky musím splniť, aby som dostal príspevok na okuliarový rám pre dospelých?",
+      "score": 0.9872,
+      "response": "Pre podanie žiadosti musíte mať vyšetrenie u zmluvného oftalmológa, ktorý Vám dá poukaz na okuliare alebo optickú pomôcku. Vyšetrenie u tohto lekára musí byť absolvované maximálne 90 dní pred úhradou zdravotníckej pomôcky. Pomôcku si musíte vybrať v optike, s ktorou má VšZP uzatvorenú zmluvu. Všeobecné pravidlá čerpania príspevkov v Peňaženky zdravia zostávajú pri príspevkoch na oči nezmenené. Príspevok na okuliarový rám pre dospelých z Peňaženky zdravia MINI poskytujeme od výšky dioptrie najmenej +1/-1 raz za dva roky.\n",
+      "reference": "Pre podanie žiadosti musíte mať vyšetrenie u zmluvného oftalmológa, ktorý Vám dá poukaz na okuliare alebo optickú pomôcku. Vyšetrenie u tohto lekára musí byť absolvované maximálne 90 dní pred úhradou zdravotníckej pomôcky. Pomôcku si musíte vybrať v optike, s ktorou má VšZP uzatvorenú zmluvu. Všeobecné pravidlá čerpania príspevkov v Peňaženky zdravia zostávajú pri príspevkoch na oči nezmenené."
+    },
+    {
+      "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+      "score": 0.9992,
+      "response": "Nie, príspevok pre deti 100 € na okuliarový rám alebo okuliarové šošovky pre deti je len jeden. Bez ohľadu na to, či sa jedná o preplatenie rámu alebo okuliarových šošoviek. To znamená, že dieťa má nárok na preplatenie príspevku v maximálnej výške 100 €. V prípade, že poistenec žiada v jednej žiadosti o príspevok v sume nižšej ako 100 € nemá nárok na podanie druhej žiadosti na zostatok sumy do výšky 100 €. Zároveň nie je možné kumulovať úhrady z viacerých očných optík.\n",
+      "reference": "Nie, príspevok pre deti 100 € na okuliarový rám alebo okuliarové šošovky pre deti je len jeden. Bez ohľadu na to, či sa jedná o preplatenie rámu alebo okuliarových šošoviek. To znamená, že dieťa má nárok na preplatenie príspevku v maximálnej výške 100 €. V prípade, že poistenec žiada v jednej žiadosti o príspevok v sume nižšej ako 100 € nemá nárok na podanie druhej žiadosti na zostatok sumy do výšky 100 €. Zároveň nie je možné kumulovať úhrady z viacerých očných optík."
+    },
+    {
+      "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+      "score": 0.5276,
+      "response": "Nie je potrebné byť členom športového klubu. Preventívne športové prehliadky musia byť vykonané vybraným pracoviskom telovýchovného lekárstva.",
+      "reference": "Nie je potrebné byť členom športového klubu. Preventívne športové prehliadky musia byť vykonané vybraným pracoviskom telovýchovného lekárstva. Finančný príspevok z Peňaženky zdravia MINI pre deti je poskytnutý je vo výške 50 % uhradenej sumy, maximálne vo výške 100 €. Pre dospelých z Peňaženky zdravia MINI je finančný príspevok vo výške 50 % uhradenej sumy, avšak max. vo výške 50 € pre poistenca. Žiadosť musí obsahovať doklad o úhrade prehliadky. Nie je nutné prikladať do žiadosti aj potvrdenia o vykonávaní športovej činnosti. Zoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Je možné čerpať finančný príspevok aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+      "score": 0.8008,
+      "response": "Áno, finančný príspevok je možné uplatniť aj pri preočkovaní, ak je dodržaný správny interval očkovaní. Napríklad, ak sa s vakcináciou začne na začiatku roka, po prvej dávke nasleduje druhá v intervale 1 mesiaca a tretia o 6 mesiacov. Ochrana po takto vykonanom očkovaní trvá 3 roky, preto po ich uplynutí treba vykonať preočkovanie jednou dávkou. Preočkovanie v intervale 3 roky treba vykonávať dovtedy, kým riziko nákazy trvá.",
+      "reference": "Áno, finančný príspevok je možné čerpať aj pri preočkovaní, ak je dodržaný správny interval očkovaní. Napríklad, ak sa s vakcináciou začne na začiatku roka, po prvej dávke nasleduje druhá v intervale 1 mesiaca a tretia o 6 mesiacov. Prvé 2 dávky ochránia človeka už pred tzv. jarnou aktivitou kliešťov a tretia dávka posilní imunitu pred jesennou aktivitou kliešťov. Ochrana po takto vykonanom očkovaní trvá 3 roky, preto po ich uplynutí treba vykonať preočkovanie jednou dávkou. Preočkovanie v intervale 3 roky treba vykonávať dovtedy, kým riziko nákazy trvá."
+    },
+    {
+      "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+      "score": 0.989,
+      "response": "V Peňaženka zdravia MINI aj MAXI môžete požiadať o príspevok na každú dávku očkovania, nie je nutné čakať s podaním žiadosti do podania poslednej dávky vakcíny. Žiadosť je potrebné podať do 60 dní od zakúpenia vakcíny.\n",
+      "reference": "V Peňaženka zdravia MINI môže poistenec požiadať o príspevok na každú dávku očkovania, nie je nutné čakať s podaním žiadosti do podania poslednej dávky vakcíny. Žiadosť je potrebné podať do 60 dní od zakúpenia vakcíny."
+    },
+    {
+      "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+      "score": null,
+      "response": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI vo výške 50% z uhradenej ceny každého samoodberového testu, maximálne do 45 € na nasledujúce testy:\n\n*   HPV rozšírený pre mužov aj ženy,\n*   BRCA na odhalenie DNA predispozície rakoviny prsníka a vaječníkov,\n*   Trombofilné mutácie,\n*   Sexuálne prenosné choroby.\n\nFinančný príspevok na tieto testy je dostupný po dosiahnutí 18. roku života a je možné ho uplatniť na testy zakúpené prostredníctvom stránky www.meditesty.sk.",
+      "reference": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI vo výške 50 % z uhradenej ceny každého samoodberového testu zakúpeného prostredníctvom stránky www.meditesty.sk, max. vo výške 45 € na nasledujúce testy: • HPV rozšírený pre mužov aj ženy, • BRCA na odhalenie DNA predispozície rakoviny prsníka a vaječníkov, • Trombofilné mutácie, • Sexuálne prenosné choroby."
+    },
+    {
+      "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+      "score": 0.9989,
+      "response": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI a nárok na očkovanie očkovacou látkou Varivax na každú dávku vakcíny má každý poistenec dňom dovŕšenia 1. roku veku.\n",
+      "reference": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI a nárok na očkovanie očkovacou látkou Varivax na každú dávku vakcíny má každý poistenec dňom dovŕšenia 1. roku veku."
+    },
+    {
+      "question": "Ako si požičať monitor dychu?",
+      "score": 0.6713,
+      "response": "Monitor dychu je možné zapožičať si vo vybraných nemocniciach a lekárňach. Možnosť prenajatia monitora dychu z Peňaženky zdravia MINI aj MAXI majú aj nepoistení rodičia, ktorí do VšZP poistia bábätko. Zapožičať monitor dychu si môžete na oddeleniach nemocníc v zozname: http://www.nadaciakrizovatka.sk/vypozicne-miesta.\n",
+      "reference": "Monitor dychu je možné zapožičať si vo vybraných nemocniciach a lekárňach. Možnosť prenajatia monitora dychu z Peňaženke zdravia MINI majú aj nepoistení rodičia, ktorí do VšZP poistia bábätko."
+    },
+    {
+      "question": "Aká je maximálna výška príspevku, ktorú môže žena získať na moderné cytologické vyšetrenie LBC?",
+      "score": 0.9998,
+      "response": "Maximálna výška príspevku pri voľbe Liquid Based Cytology v rámci gynekologickej preventívnej prehliadky je 30 € na jednu žiadosť. Príspevok môžu využiť ženy od 18 rokov. Ak je odber indikovaný lekárom aj mimo preventívnej prehliadky, je možné požiadať o finančný príspevok aj v takomto prípade.",
+      "reference": "Maximálna výška príspevku pri voľbe Liquid Based Cytology v rámci gynekologickej preventívnej prehliadky je max. 30 € na jednu žiadosť. Príspevok môžu využiť ženy od 18 rokov. Ak je odber indikovaný lekárom aj mimo preventívnej prehliadky, je možné požiadať o finančný príspevok aj v takomto prípade."
+    },
+    {
+      "question": "Ako môžem začať používať skupinovú Peňaženku zdravia MAXI?",
+      "score": null,
+      "response": "Ak máte záujem o skupinovú Peňaženku zdravia MAXI, je potrebné založiť skupinu už od 3 do 8 členov priamo v mobilnej aplikácii VšZP. Každý člen skupiny získa 100 €, z ktorých zdieľa 50 % pre iných členov.",
+      "reference": "Ak chcete byť správcom, pri vstupe do záložky Peňaženka zdravia si vyberiete button „Založiť skupinu a získať až 800 €“ a potvrdíte súhlas s podmienkami (všeobecné podmienky, súhlas so spracovaním osobných údajov o zdraví a vyhlásenie, že sa pravidelne podrobujete preventívnym prehliadkam a vediete zdravý životný štýl), zadáte číslo účtu, na ktorý chcete zasielať čerpané príspevky a pridáte ďalších 2 až 7 členov. Pridaným členom sa automaticky odošlú pozvánky na potvrdenie členstva. Nárok na čerpanie finančných príspevkov vzniká poisteným členom po potvrdení členstva minimálne 2 pozvanými poistencami. Ak chcete byť členom, nájdite si skupinu ďalších 2 členov, kde si určíte svojho správcu, a nechajte sa pozvať do skupiny."
+    },
+    {
+      "question": "Dokedy si môžem vytvoriť skupinu v Peňaženke zdravia MAXI?",
+      "score": 0.4074,
+      "response": "Na základe poskytnutého kontextu nie je uvedené, dokedy si môžete vytvoriť skupinu v Peňaženke zdravia MAXI. Kontext však uvádza, že novú Peňaženku zdravia MAXI si môžete vytvoriť už od 3 členov s nárokom, ak Vaša pôvodná Peňaženka zdravia nemá dostatočný počet členov pre jej ďalšie fungovanie v roku 2025.",
+      "reference": "Skupinu v Peňaženke zdravia MAXI si môžete vytvoriť kedykoľvek. Treba však myslieť na to, že ak chcete podať žiadosť o úhradu finančného príspevku, je už potrebné mať vo svojej skupine 3 členov s nárokom (vrátane správcu). Skupina má dva druhy členov, a to člen s nárokom (poistenec, ktorý potvrdil členstvo a tvorí skupinu v počte minimálne 3 osôb s týmto statusom) a člen (osoba, ktorá zatiaľ nesplnila vyššie uvedené podmienky na vznik členstva s nárokom). Na podanie žiadosti máte 60 dní od úhrady zdravotnej starostlivosti. Odporúčame preto vytvoriť si skupinu čo najskôr."
+    },
+    {
+      "question": "Kto je správca? Čo bude robiť?",
+      "score": 0.9991,
+      "response": "Správca je plnoletý poistenec VšZP, ktorý založil skupinu a pozýva do nej ďalších členov. Na základe ich následného súhlasu bude za všetkých členov podávať žiadosti na úhradu finančného príspevku. Správca bude zodpovedný aj za správne rozdelenie finančných príspevkov medzi členov, o ktorých úhradu žiadal.\n",
+      "reference": "Správca je plnoletý poistenec VšZP, ktorý založil skupinu a pozýva do nej ďalších členov. Na základe ich následného súhlasu bude za všetkých členov podávať žiadosti na úhradu finančného príspevku. Správca bude zodpovedný aj za správne rozdelenie finančných príspevkov medzi členov, o ktorých úhradu žiadal."
+    },
+    {
+      "question": "Ako sa stanem správcom?",
+      "score": 0.8396,
+      "response": "Správca je prvý člen skupiny, ktorý pri vstupe do záložky Peňaženka zdravia začne vytvárať skupinu prostredníctvom tlačidla „Založiť skupinu a získať až 800 €“. Následne potvrdí súhlas s podmienkami (všeobecné podmienky, súhlas so spracovaním osobných údajov o zdraví a vyhlásenie, že sa pravidelne podrobuje preventívnym prehliadkam a vedie zdravý životný štýl), zadá číslo účtu, na ktorý chce zasielať čerpané príspevky a pridá členov.",
+      "reference": "Správca je prvý člen skupiny, ktorý pri vstupe do záložky Peňaženka zdravia začne vytvárať skupinu prostredníctvom buttonu „Založiť skupinu a získať až 800 €, potvrdí súhlas s podmienkami (všeobecné podmienky, súhlas so spracovaním osobných údajov o zdraví a vyhlásenie, že sa pravidelne podrobuje preventívnym prehliadkam a vedie zdravý životný štýl), zadá číslo účtu, na ktorý chce zasielať čerpané príspevky a pridá členov. Správca môže prostredníctvom mobilnej aplikácie VšZP alebo ePobočky do skupiny pozvať 2 až 7 členov, nárok na čerpanie finančných príspevkov však vzniká, až keď skupina obsahuje minimálne 3 členov s nárokom."
+    },
+    {
+      "question": "Ako pridám člena? Aké údaje o ňom musím vedieť?",
+      "score": 0.8848,
+      "response": "Správca v mobilnej aplikácii alebo ePobočke v záložke „Peňaženka zdravia“ po začatí vytvárania skupiny a po kliknutí na „Pridať člena“ vyplní osobné údaje člena v rozsahu meno, priezvisko, rodné číslo, mobilné telefónne číslo a email. Ak niekto nemá email, odporúčame zadať email správcu.\n",
+      "reference": "Správca v mobilnej aplikácii alebo ePobočke v záložke „Peňaženka zdravia“ po začatí vytvárania skupiny a po kliknutí na Pridať člena vyplní osobné údaje člena v rozsahu meno, priezvisko, rodné číslo, mobilné telefónne číslo a email. Pozvánka sa zobrazí pozvanému členovi pri jeho vstupe do mobilnej aplikácie a ePobočky. Ak niekto nemá email, odporúčame zadať email správcu"
+    },
+    {
+      "question": "Pridá sa mi dieťa do skupiny automaticky?",
+      "score": 0.9993,
+      "response": "Dieťa do skupiny pridáte bežným spôsobom, ako každého iného člena v mobilnej aplikácii alebo ePobočke v záložke „Peňaženka zdravia MAXI“. Po kliknutí na Pridať člena je potrebné vyplniť osobné údaje člena v rozsahu meno, priezvisko, rodné číslo, mobilné telefónne číslo a e-mail.\n\nAk ide o dieťa správcu, bude mu pri vytváraní skupiny ponúknutá možnosť vybrať si zo zoznamu detí, ktoré má pridané v mobilnej aplikácii alebo ePobočke.\n",
+      "reference": "Dieťa do skupiny pridáte bežným spôsobom, ako každého iného člena v mobilnej aplikácii alebo ePobočke v záložke „Peňaženka zdravia MAXI“. Po kliknutí na Pridať člena je potrebné vyplniť osobné údaje člena v rozsahu meno, priezvisko, rodné číslo, mobilné telefónne číslo a e-mail. Ak ide o dieťa správcu, bude mu pri vytváraní skupiny ponúknutá možnosť vybrať si zo zoznamu detí, ktoré má pridané v mobilnej aplikácii alebo ePobočke."
+    },
+    {
+      "question": "Ako sa stanem členom?",
+      "score": 0.7794,
+      "response": "Správca skupiny pridaním členov odošle pozvánky do mobilnej aplikácie a ePobočky. Každý pozvaný je členom skupiny, no pre potvrdenie členstva je potrebné potvrdiť na konte člena v mobilnej aplikácii alebo ePobočke súhlas s pozvánkou a s podmienkami (všeobecné podmienky, súhlas so spracovaním osobných údajov o zdraví a vyhlásenie, že sa pravidelne podrobuje preventívnym prehliadkam a vedie zdravý životný štýl).",
+      "reference": "Správca skupiny pridaním členov odošle pozvánky do mobilnej aplikácie a ePobočky. Každý pozvaný je členom skupiny, no pre potvrdenie členstva je potrebné potvrdiť na konte člena v mobilnej aplikácii alebo ePobočke súhlas s pozvánkou a s podmienkami (všeobecné podmienky, súhlas so spracovaním osobných údajov o zdraví a vyhlásenie, že sa pravidelne podrobuje preventívnym prehliadkam a vedie zdravý životný štýl). Každý člen vo veku od 18 rokov potvrdí svoje členstvo elektronicky cez mobilnú aplikáciu alebo ePobočku, za každého člena vo veku do 18 rokov potvrdzuje členstvo elektronicky cez mobilnú aplikáciu alebo ePobočku jeho zákonný zástupca a za každého člena vo veku od 18 rokov, ktorý bol pozbavený spôsobilosti na právne úkony, potvrdzuje členstvo jeho zákonný zástupca."
+    },
+    {
+      "question": "Ako uvidím, že ma niekto pozval do skupiny?",
+      "score": 0.9987,
+      "response": "Ak vás niekto pozval do svojej skupiny a máte aktívnu mobilnú aplikáciu, príde vám push notifikácia a email na mailovú adresu zadanú správcom pri vytváraní skupiny. Pozvánka sa zobrazí pri vstupe do mobilnej aplikácie a ePobočky.\n",
+      "reference": "Ak vás niekto pozval do svojej skupiny a máte aktívnu mobilnú aplikáciu, príde vám push notifikácia a email na mailovú adresu zadanú správcom pri vytváraní skupiny. Pozvánka sa zobrazí pri vstupe do mobilnej aplikácie a ePobočky."
+    },
+    {
+      "question": "Keď si pridám do Peňaženky zdravia MAXI člena, ktorý nemá nainštalovanú mobilnú aplikáciu ani\nzriadenú ePobočku, dokedy musí potvrdiť súhlas, že bude členom?",
+      "score": 1.0,
+      "response": "Nie je určený časový limit, dokedy musí súhlas potvrdiť. Odporúčame však stiahnuť a aktivovať si mobilnú aplikáciu čím skôr, aby mohla skupina naplno využívať Peňaženku zdravia MAXI.",
+      "reference": "Nie je určený časový limit, dokedy musí súhlas potvrdiť. Odporúčame však stiahnuť a aktivovať si mobilnú aplikáciu čím skôr, aby mohla skupina naplno využívať Peňaženku zdravia MAXI."
+    },
+    {
+      "question": "Ako sa správca dozvie, že som potvrdil prijatie do skupiny?",
+      "score": 0.9985,
+      "response": "Správcovi pri prijatí alebo odmietnutí pozvánky príde push notifikácia, ktorú uvidí v mobilnej aplikácii, alebo email, ak má zriadenú iba e-Pobočku.\n",
+      "reference": "Správcovi pri prijatí alebo odmietnutí pozvánky príde push notifikácia, ktorú uvidí v mobilnej aplikácii, alebo email, ak má zriadenú iba e-Pobočku."
+    },
+    {
+      "question": "Chcem niekoho pridať, ale ukazuje mi, že už je v inej skupine. Ako si ho pridám?",
+      "score": 0.999,
+      "response": "Peňaženka zdravia MAXI neumožňuje pridať do skupiny osobu, ktorá už je členom inej skupiny. Je možné byť členom iba jednej skupiny, nie je možné byť vo viacerých skupinách súčasne.\n\nSprávca môže upozorniť danú osobu, že je už pozvaná do inej skupiny. Ak ešte pozvánku nepotvrdila, členstvo môže odmietnuť a správca ho môže pridať do svojej skupiny. Ak už pozvánku prijal, zo skupiny môže odísť iba pred podaním prvej žiadosti o čerpanie finančného príspevku v skupine.\n",
+      "reference": "Peňaženka zdravia MAXI neumožňuje pridať do skupiny osobu, ktorá už je členom inej skupiny. Je možné byť členom iba jednej skupiny, nie je možné byť vo viacerých skupinách súčasne. Správca môže upozorniť danú osobu, že je už pozvaná do inej skupiny. Ak ešte pozvánku nepotvrdila, členstvo môže odmietnuť a správca ho môže pridať do svojej skupiny. Ak už pozvánku prijal, zo skupiny môže odísť iba pred podaním prvej žiadosti o čerpanie finančného príspevku v skupine."
+    },
+    {
+      "question": "Môžem si pridať do skupiny v Peňaženke zdravia MAXI okrem rodiny a príbuzných aj napríklad\ndobrých známych?",
+      "score": 0.9995,
+      "response": "Áno, môžete. Platí pravidlo, čím viac máte členov, tým získate viac, až do výšky 800 € hodnoty Peňaženky zdravia MAXI. Najviac však môžete mať 8 členov vrátane správcu.",
+      "reference": "Áno, môžete, platí pravidlo, čím viac máte členov, tým získate viac, až do výšky 800 € hodnoty Peňaženky zdravia MAXI. Najviac však môžete mať 8 členov vrátane správcu."
+    },
+    {
+      "question": "Peňaženka zdravia MAXI je založená na princípe solidarity. Čo to znamená?",
+      "score": null,
+      "response": "Peňaženka zdravia MAXI je založená na princípe solidarity, ktorý umožňuje jednotlivcovi získať vyššiu sumu na starostlivosť o zdravie. Členovia skupiny sa môžu dohodnúť a zdieľať polovicu zo svojej pridelenej sumy (50 €) v prospech iného člena skupiny. Čím viac členov je v skupine, tým vyššiu sumu je možné zdieľať a pomôcť tak členovi, ktorý to aktuálne potrebuje viac. Zvyšných 50 € si každý člen ponecháva pre seba.\n",
+      "reference": "Hlavnou myšlienkou Peňaženky zdravia MAXI je solidárnosť, ktorá je daná členstvom v skupine. Vďaka princípu solidarity môže jednotlivec získať vyššiu sumu a následne ju môže použiť na starostlivosť o vlastné zdravie. Ak sa v skupine využije možnosť solidárneho čerpania, môže byť až polovica (až 50 €) použitá v prospech iného člena skupiny. Jednou z výhod Peňaženky zdravia MAXI je, že čím viac členov sa v nej nachádza tým vyššia suma môže byť použitá, v prospech iného člena, ktorý to aktuálne viac potrebuje (napr. na oči alebo na doplatky za lieky). Takto vedia pomôcť blízkej osobe. Zároveň zvyšné finančné prostriedky môžu použiť vo svoj prospech na čerpanie príspevku, ktorý im vyhovuje najviac. Do skupiny si môžete pridať kohokoľvek, s kým sa dohodnete. Nemusia to byť len rodinní príslušníci, ale môžu to byť aj osoby, ktoré nie sú v rodinnom vzťahu. Odporúčame, aby naši poistenci boli v skupine s ľuďmi, s ktorými si navzájom dôverujú."
+    },
+    {
+      "question": "Čo so staršími ľuďmi, ktorí nemajú mobil? Ako môžu využiť finančné príspevky z Peňaženky zdravia\nMAXI?",
+      "score": null,
+      "response": "Mysleli sme aj na starších poistencov. Každá skupina si určí svojho správcu skupiny, ktorý všetky úkony urobí za ostatných členov. Správca založí skupinu pridaním jednotlivých členov, ktorým sa automaticky zašle pozvánka. Pozvánku je možné potvrdiť po prihlásení do mobilnej aplikácie alebo cez internet v ePobočke v sekcii Peňaženka zdravia. Aby člen mohol pozvánku potvrdiť, musí mať aktivované elektronické služby VšZP. S ich aktiváciou môže v prípade potreby staršej osobe pomôcť správca alebo iný člen skupiny, prípadne sa môže obrátiť na našu pobočku. Starším osobám bez mobilného telefónu s prístupom na internet odporúčame využiť služby ePobočky.\n",
+      "reference": "Mysleli sme aj na starších poistencov. Každá skupina si určí svojho správcu skupiny, ktorý všetky úkony urobí za ostatných členov. Správca založí skupinu pridaním jednotlivých členov, ktorým sa automaticky zašle pozvánka. Pozvánku je možné potvrdiť po prihlásení do mobilnej aplikácie alebo cez internet v ePobočke v sekcii Peňaženka zdravia. Aby člen mohol pozvánku potvrdiť, musí mať aktivované elektronické služby VšZP. S ich aktiváciou môže v prípade potreby staršej osobe pomôcť správca alebo iný člen skupiny, prípadne sa môže obrátiť na našu pobočku. Starším osobám bez mobilného telefónu s prístupom na internet odporúčame využiť služby ePobočky."
+    },
+    {
+      "question": "Je Peňaženka zdravia MAXI iba pre poistencov?",
+      "score": 0.189,
+      "response": "Áno, Peňaženka zdravia MAXI je určená pre poistencov Všeobecnej zdravotnej poisťovne. Je to skupinový produkt pre rodiny a skupiny dobrých známych.",
+      "reference": "Členmi skupiny v Peňaženke zdravia MAXI môžu byť aj tí, ktorí nie sú poistení vo VšZP, no nemajú nárok na finančný príspevok, a preto nie sú považovaní za člena s nárokom."
+    },
+    {
+      "question": "Keď chcem pridať do svojej skupiny osobu pozbavenú spôsobilosti na právne úkony, bude to\nmožné?",
+      "score": 1.0,
+      "response": "Áno, bude to možné. Správca osobu pozbavenú spôsobilosti na právne úkony pridá rovnakým spôsobom ako ostatných členov. Za každého člena, ktorý bol pozbavený spôsobilosti na právne úkony, potvrdzuje členstvo v mobilnej aplikácii alebo ePobočke jeho zákonný zástupca (ktorý si ho pridá aj pod svoje konto v mobilnej aplikácii alebo ePobočke).",
+      "reference": "Áno, bude to možné. Správca osobu pozbavenú spôsobilosti na právne úkony pridá rovnakým spôsobom ako ostatných členov. Za každého člena, ktorý bol pozbavený spôsobilosti na právne úkony, potvrdzuje členstvo v mobilnej aplikácii alebo ePobočke jeho zákonný zástupca (ktorý si ho pridá aj pod svoje konto v mobilnej aplikácii alebo ePobočke)."
+    },
+    {
+      "question": "V roku 2024 som bol v skupine. Prečo ju teraz nevidím?",
+      "score": null,
+      "response": "Skupinu vytvorenú v roku 2024 uvidíte v záložke Peňaženky zdravia na ľavej strane „2024“, kde uvidíte svoju Peňaženku zdravia, ktorá bola v tomto roku aktívna. Ak však jej správca už nie je poistencom VšZP alebo sa zmenil počet členov v skupine na nedostatočný, Vaša Peňaženka zdravia už nie je aktívnou v roku 2025. V prípade, že si chcete zvoliť nového správcu v Peňaženke zdravia s dostatočným počtom členov s nárokom, zašlite nám Vašu požiadavku cez kontaktný formulár https://www.vszp.sk/napiste-nam.html. Ak však Vaša pôvodná Peňaženka zdravia nemá už dostatočný počet členov pre jej ďalšie fungovanie v roku 2025, môžete si vytvoriť novú Peňaženku zdravia MAXI už od 3 členov s nárokom. O zmenách v skupine alebo prípadnom rozpustení skupiny ste boli informovaný push správou v mobilnej aplikácii a tiež mailom.\n",
+      "reference": "Skupinu vytvorenú v roku 2024 uvidíte v záložke Peňaženky zdravia na ľavej strane „2024“, kde uvidíte svoju Peňaženku zdravia, ktorá bola v tomto roku aktívna. Ak však jej správca už nie je poistencom VšZP alebo sa zmenil počet členov v skupine na nedostatočný, Vaša Peňaženka zdravia už nie je aktívnou v roku 2025. V prípade, že si chcete zvoliť nového správcu v Peňaženke zdravia s dostatočným počtom členov s nárokom, zašlite nám Vašu požiadavku cez kontaktný formulár. Ak však Vaša pôvodná Peňaženka zdravia nemá už dostatočný počet členov pre jej ďalšie fungovanie v roku 2025, môžete si vytvoriť novú Peňaženku zdravia MAXI už od 3 členov s nárokom. O zmenách v skupine alebo prípadnom rozpustení skupiny ste boli informovaný push správou v mobilnej aplikácii a tiež mailom."
+    },
+    {
+      "question": "Ak som už členom/správcom aktívnej skupiny, bude táto skupina pokračovať aj v nasledujúcom\nroku?",
+      "score": 1.0,
+      "response": "Rozhodnutie pokračovať v existujúcej skupine je výlučne na vás. Doteraz vytvorené skupiny pokračujú aj v nasledujúcom roku v nezmenenej podobe aj v prípade, že počet členov s nárokom klesol na 3. Členstvo v skupine je možné ukončiť dobrovoľným odchodom člena alebo odchodom člena z vôle správcu skupiny. Je potrebné tak urobiť do času, kým v skupine nebude v danom roku podaná žiadosť o finančný príspevok. Následne môže člen čerpať finančné prostriedky z Peňaženky zdravia MINI alebo sa stať správcom či členom inej skupiny.",
+      "reference": "Rozhodnutie pokračovať v existujúcej skupine je výlučne na vás. Doteraz vytvorené skupiny pokračujú aj v nasledujúcom roku v nezmenenej podobe aj v prípade, že počet členov s nárokom klesol na 3. Členstvo v skupine je možné ukončiť dobrovoľným odchodom člena alebo odchodom člena z vôle správcu skupiny. Je potrebné tak urobiť do času, kým v skupine nebude v danom roku podaná žiadosť o finančný príspevok. Následne môže člen čerpať finančné prostriedky z Peňaženky zdravia MINI alebo sa stať správcom či členom inej skupiny."
+    },
+    {
+      "question": "Kde nájdem presný zoznam poskytovaných finančných príspevkov v rámci Peňaženky zdravia?",
+      "score": 0.9698,
+      "response": "Finančné príspevky z Peňaženky zdravia, podmienky čerpania a všeobecné podmienky nájdete na www.vszp.sk v časti Peňaženka zdravia. Stručný popis a link na všeobecné podmienky zároveň nájdete v aplikácii VšZP v časti Peňaženka zdravia po kliknutí na informačnú ikonku „i“.\n",
+      "reference": "Finančné príspevky, podmienky ich čerpania, ako aj všeobecné podmienky Peňaženky zdravia MAXI nájdete na našej stránke. Stručný popis príspevkov a link na všeobecné podmienky nájdete aj priamo v mobilnej aplikácii v časti Peňaženka zdravia. Stačí kliknúť na informačnú ikonku „i“."
+    },
+    {
+      "question": "Kedy môže skupina začať čerpať finančný príspevok z Peňaženky zdravia MAXI?",
+      "score": 0.6775,
+      "response": "Podať žiadosť o finančný príspevok môže len skupina, v ktorej sú minimálne 3 členovia s nárokom. Skupina má dva druhy členov, a to člen s nárokom (poistenec, ktorý potvrdil členstvo a tvorí skupinu v počte 3 osôb s týmto statusom) a člen (osoba, ktorá zatiaľ nesplnila vyššie uvedené podmienky na vznik členstva s nárokom).\n",
+      "reference": "Podať žiadosť o finančný príspevok môže len skupina, v ktorej sú minimálne 3 členovia s nárokom. Skupina má dva druhy členov, a to člen s nárokom (poistenec, ktorý potvrdil členstvo a tvorí skupinu v počte 3 osôb s týmto statusom) a člen (osoba, ktorá zatiaľ nesplnila vyššie uvedené podmienky na vznik členstva s nárokom)."
+    },
+    {
+      "question": "Akým spôsobom je možné zdieľať 50 % sumy medzi členmi v skupine? Je potrebné na to vyvinúť\nnejakú konkrétnu aktivitu?",
+      "score": 1.0,
+      "response": "Súhlas so zdieľaním 50 % sumy medzi členmi v skupine dáva člen pri vytváraní skupiny, preto pre zdieľanie nie je potrebné vyvíjať žiadnu ďalšiu aktivitu.",
+      "reference": "Súhlas so zdieľaním 50 % sumy medzi členmi v skupine dáva člen pri vytváraní skupiny, preto pre zdieľanie nie je potrebné vyvíjať žiadnu ďalšiu aktivitu."
+    },
+    {
+      "question": "Má na to právo len správca skupiny alebo kto o tom rozhoduje?",
+      "score": 0.995,
+      "response": "Peňaženka zdravia MAXI je založená na princípe solidarity. Člen pri vstupe do skupiny dáva súhlas správcovi, že je oprávnený konať v jeho mene a je zástupcom všetkých členov. Rozhodnutie má teda správca skupiny.",
+      "reference": "Peňaženka zdravia MAXI je založená na princípe solidarity. Člen pri vstupe do skupiny dáva súhlas správcovi, že je oprávnený konať v jeho mene a je zástupcom všetkých členov."
+    },
+    {
+      "question": "Zdieľanú sumu je možné využiť na akýkoľvek finančný príspevok?",
+      "score": 0.8083,
+      "response": "Áno, zdieľanú sumu je možné využiť na všetky finančné príspevky v Peňaženke zdravia MAXI, na ktoré má člen nárok.\n",
+      "reference": "Áno, na všetky finančné príspevky v Peňaženke zdravia MAXI, na ktoré má člen nárok."
+    },
+    {
+      "question": "V prípade, že člen už určitú časť svojej sumy minul a má k dispozícii napríklad už len 70 €, môže\nzdieľať 50 % len z tejto sumy alebo môže zdieľať celých 50 €?",
+      "score": 0.9983,
+      "response": "Môže zdieľať svoju časť, čiže 50 €.\n",
+      "reference": "Môže zdieľať svoju časť, čiže 50 €."
+    },
+    {
+      "question": "Môže si moje neplnoleté dieťa pridať do skupiny niekto iný, keď mu to odsúhlasím cez mobilnú\naplikáciu alebo cez ePobočku (pokiaľ nie je zatiaľ v žiadnej skupine)?",
+      "score": 0.7611,
+      "response": "Áno, je to možné. Správca môže pridať vaše neplnoleté dieťa do skupiny, ak mu udelíte súhlas s jeho pridaním cez mobilnú aplikáciu alebo ePobočku. Dôležité je, aby dieťa nebolo v tom čase členom inej skupiny. Za každého člena vo veku do 18 rokov potvrdzuje členstvo elektronicky cez mobilnú aplikáciu alebo ePobočku jeho zákonný zástupca.\n",
+      "reference": "Áno, podmienkou je, aby účasť v inej skupine schválil zákonný zástupca dieťaťa cez mobilnú aplikáciu alebo ePobočku. Informáciu, v akej skupine sa dieťa nachádza uvidí zákonný zástupca vo svojej mobilnej aplikácii."
+    },
+    {
+      "question": "Môžem sa stať členom Peňaženky zdravia MAXI ako fyzická osoba, ak som ako FO – podnikateľ,\nteda SZČO, dlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+      "score": 0.969,
+      "response": "Členom Peňaženky zdravia MAXI sa môžete stať, ale ak v čase čerpania alebo úhrady finančného príspevku nebudete mať nárok na plnú zdravotnú starostlivosť, dôjde k ukončeniu žiadosti o poskytnutie finančného príspevku bez úhrady. Výnimku predstavuje splnenie podmienok v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.",
+      "reference": "Členom sa môžete stať, ale ak v čase čerpania alebo úhrady finančného príspevku nebudete mať nárok na plnú zdravotnú starostlivosť*, tak dôjde k ukončeniu žiadosti o poskytnutie finančného príspevku bez úhrady. *s výnimkou splnenia podmienok v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov"
+    },
+    {
+      "question": "Môžem odísť zo skupiny?",
+      "score": 0.8116,
+      "response": "Ak v priebehu kalendárneho roka bola v skupine podaná žiadosť o úhradu finančného príspevku, žiaden potvrdený člen nemôže v rámci jedného kalendárneho roka odísť zo svojej zvolenej skupiny z vlastnej vôle ani z vôle správcu. Člen sa môže stať členom inej skupiny, resp. požiadať o finančný príspevok z Peňaženky zdravia MINI až od 1.1. nasledujúceho kalendárneho roka.\n\nPred podaním prvej žiadosti o úhradu v skupine môže člen zo skupiny odísť, stlačením ikony Odstrániť člena pri svojom mene v zozname členov skupiny a následne požiadať o finančný príspevok z Peňaženky zdravia MINI.\n",
+      "reference": "Ak v priebehu kalendárneho roka bola v skupine podaná žiadosť o úhradu finančného príspevku, žiaden potvrdený člen nemôže v rámci jedného kalendárneho roka odísť zo svojej zvolenej skupiny z vlastnej vôle ani z vôle správcu. Člen sa môže stať členom inej skupiny, resp. požiadať o finančný príspevok z Peňaženky zdravia MINI až od 1.1. nasledujúceho kalendárneho roka. Pred podaním prvej žiadosti o úhradu v skupine môže člen zo skupiny odísť, stlačením ikony Odstrániť člena pri svojom mene v zozname členov skupiny a následne požiadať o finančný príspevok z Peňaženky zdravia MINI."
+    },
+    {
+      "question": "Môže správca niekoho vyradiť zo skupiny?",
+      "score": null,
+      "response": "Správca môže počas celého roka odstrániť zo skupiny členov prostredníctvom ikony Odstrániť člena pri mene člena. Skupina má dva druhy členov: člen s nárokom (poistenec, ktorý potvrdil členstvo a tvorí skupinu v počte 3 osôb s týmto statusom) a člen (osoba, ktorá zatiaľ nesplnila vyššie uvedené podmienky na vznik členstva s nárokom). Člen môže odísť zo skupiny kedykoľvek alebo môže kedykoľvek odísť zo skupiny z vôle správcu. Člen s nárokom môže odísť z vlastnej vôle alebo z vôle správcu tiež kedykoľvek, výnimkou je prípad, ak v priebehu kalendárneho roka bola v skupine podaná žiadosť o úhradu finančného príspevku.\n",
+      "reference": "Správca môže počas celého roka odstrániť zo skupiny členov prostredníctvom ikony Odstrániť člena pri mene člena. Skupina má dva druhy členov, a to člen s nárokom (poistenec, ktorý potvrdil členstvo a tvorí skupinu v počte 3 osôb s týmto statusom) a člen (osoba, ktorá zatiaľ nesplnila vyššie uvedené podmienky na vznik členstva s nárokom). Člen môže odísť zo skupiny kedykoľvek alebo môže kedykoľvek odísť zo skupiny z vôle správcu. Člen s nárokom môže odísť z vlastnej vôle alebo z vôle správcu tiež kedykoľvek, výnimkou je prípad, ak v priebehu kalendárneho roka bola v skupine podaná žiadosť o úhradu finančného príspevku. Ak už bola v priebehu kalendárneho roka podaná v skupine žiadosť o úhradu finančného príspevku, môže sa člen s nárokom stať členom inej skupiny, resp. požiadať o finančný príspevok z Peňaženky zdravia MINI až od 1.1. nasledujúceho kalendárneho roka."
+    },
+    {
+      "question": "Čo ak prídem zo zahraničia a poistím sa vo VšZP? Môžem sa pripojiť do skupiny? Dostanem aj ja 100\n€?",
+      "score": 0.9997,
+      "response": "Každý sa môže pripojiť do skupiny, ktorá ešte nemá maximálny počet členov (8), aj v priebehu roka. Každý člen, ktorý je poistencom VšZP, má nárok na finančný príspevok vo výške 100 € na kalendárny rok. Nie je podstatné, či je poistencom od 1. 1. v danom roku, alebo sa poistil v priebehu roka.",
+      "reference": "Každý sa môže pripojiť do skupiny, ktorá ešte nemá maximálny počet členov (8), aj v priebehu roka. Každý člen, ktorý je poistencom VšZP, má nárok na finančný príspevok vo výške 100 € na kalendárny rok. Nie je podstatné, či je poistencom od 1. 1. v danom roku, alebo sa poistil v priebehu roka"
+    },
+    {
+      "question": "Čo keď odídem do zahraničia a ukončím poistenie vo VšZP? Dostanem finančný príspevok? Čo sa\nstane s mojimi 100 €?",
+      "score": null,
+      "response": "V prípade ukončenia poistenia vo VšZP a odchodu do zahraničia zostávate v Peňaženke zdravia, avšak nemáte nárok na čerpanie finančných príspevkov, ktoré sa vzťahujú na zdravotnú starostlivosť uhradenú a absolvovanú po ukončení poistenia.\n\nAk ste absolvovali zdravotnú starostlivosť pred ukončením poistného vzťahu a žiadosť o čerpanie príspevku ste podali až po jeho ukončení a budú splnené ostatné podmienky, príspevok vám uhradíme.\n",
+      "reference": "Ostávate naďalej členom skupiny, ale nemáte nárok na čerpanie finančných príspevkov, ktoré sa vzťahujú na zdravotnú starostlivosť uhradenú a absolvovanú po ukončení poistenia. Ak ste absolvovali zdravotnú starostlivosť pred ukončením poistného vzťahu a žiadosť o čerpanie finančného príspevku podal správca až po jeho ukončení a budú splnené ostatné podmienky, príspevok vám uhradíme. Ak ste ešte neposkytli ostatným členom celú polovicu zo svojich 100 €, môžu jej zostatok využiť na svoje príspevky do konca kalendárneho roka."
+    },
+    {
+      "question": "Čo ak správca prestane byť poistencom, zomrie alebo odíde do zahraničia?",
+      "score": 0.9978,
+      "response": "Ak správca skupiny zomrie alebo iným spôsobom stratí schopnosť vykonávať funkciu správcu, členovia kontaktujú VšZP a jeho nahradenie novým správcom sa bude riešiť individuálne. \n\nKontaktovať nás môžete prostredníctvom call centra na telefónnom čísle 0850 003 003, alebo môžete navštíviť niektorú z našich pobočiek, či napísať cez kontaktný formulár dostupný na www.vszp.sk.\n",
+      "reference": "Ak správca skupiny zomrie alebo iným spôsobom stratí schopnosť vykonávať funkciu správcu, členovia kontaktujú VšZP a jeho nahradenie novým správcom sa bude riešiť individuálne. Kontaktovať nás môžete prostredníctvom call centra na telefónnom čísle 0850 003 003, alebo môžete navštíviť niektorú z našich pobočiek, či napísať cez kontaktný formulár."
+    },
+    {
+      "question": "Čo ak sme 3 členovia s nárokom v skupine a niekto odíde do zahraničia/zomrie?",
+      "score": 0.8116,
+      "response": "Nie je nutné rozšíriť počet členov a nahradiť člena, ktorý zomrel alebo sa mu z iného dôvodu ukončí poistný vzťah s VšZP. Skupina môže pokračovať v čerpaní finančných príspevkov do 31.12. v danom roku, keď k takejto situácii došlo.\n",
+      "reference": "Nie je nutné rozšíriť počet členov a nahradiť člena, ktorý zomrel alebo sa mu z iného dôvodu ukončí poistný vzťah s VšZP. Skupina môže pokračovať v čerpaní finančných príspevkov do 31.12. v danom roku, keď k takejto situácii došlo."
+    },
+    {
+      "question": "Ako požiadam o čerpanie finančných príspevkov?",
+      "score": 0.4904,
+      "response": "Po absolvovaní a uhradení výkonu, uhradení zdravotníckej pomôcky, lieku alebo dietetickej potraviny, ktoré sú súčasťou Peňaženky zdravia MAXI, člen skupiny požiada správcu, aby do 60 dní od úhrady zdravotnej starostlivosti podal v mobilnej aplikácii alebo ePobočke žiadosť o čerpanie finančného príspevku.\n\nV prípade Peňaženky zdravia MINI je potrebné po absolvovaní a uhradení výkonu/lieku, ktoré sú súčasťou Peňaženky zdravia MINI, podať žiadosť o čerpanie príspevku do 60 dní od úhrady a absolvovania zdravotnej starostlivosti v mobilnej aplikácii alebo ePobočke.\n",
+      "reference": "Po absolvovaní a uhradení výkonu, uhradení zdravotníckej pomôcky, lieku a dietetickej potraviny, ktoré sú súčasťou Peňaženka zdravia MAXI, člen skupiny požiada správcu, aby do 60 dní od úhrady zdravotnej starostlivosti podal v mobilnej aplikácii alebo ePobočke žiadosť o čerpanie finančného príspevku."
+    },
+    {
+      "question": "Som správca, musím podať žiadosť o finančný príspevok za každého člena individuálne?",
+      "score": 0.999,
+      "response": "Áno, správca musí podať žiadosť o finančný príspevok individuálne za každého člena a individuálne na každý druh finančného príspevku na toho člena (napríklad na člena č. 2 musí správca podať separátne žiadosť o príspevok na oči a separátne žiadosť o príspevok na lieky).\n",
+      "reference": "Áno, správca musí podať žiadosť o finančný príspevok individuálne za každého člena a individuálne na každý druh finančného príspevku na toho člena (napríklad na člena č. 2 musí správca podať separátne žiadosť o príspevok na oči a separátne žiadosť o príspevok na lieky)."
+    },
+    {
+      "question": "Je nejaký čas, dokedy musím žiadosť podať?",
+      "score": 0.8313,
+      "response": "Na podanie žiadosti má správca 60 dní odo dňa, keď člen skupiny uhradil zdravotnú starostlivosť, na ktorú chce finančný príspevok žiadať. V Peňaženke zdravia MINI a Peňaženke zdravia MAXI je potrebné podať žiadosť o úhradu finančného príspevku s nárokom najneskôr do 60 dní odo dňa úhrady zdravotnej starostlivosti.\n",
+      "reference": "Na podanie žiadosti má správca 60 dní odo dňa, keď člen skupiny uhradil zdravotnú starostlivosť, na ktorú chce finančný príspevok žiadať."
+    },
+    {
+      "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+      "score": null,
+      "response": "Žiadosť podávate online prostredníctvom mobilnej aplikácie alebo v ePobočke. Pre vyplnenie žiadosti potrebujete nasledujúce informácie:\n\n*   druh finančného príspevku, o ktorý žiadate;\n*   IČO poskytovateľa zdravotnej starostlivosti z dokladu o úhrade;\n*   sumu, ktorú ste zaplatili;\n*   sumu, ktorú žiadate v príspevku (môže byť iná ako suma na doklade o úhrade);\n*   doklad o úhrade.\n\nPri vyplňovaní žiadosti:\n\n1.  Vyberiete konkrétny druh finančného príspevku, doplníte IČO poskytovateľa a dátum z dokladu o úhrade.\n2.  Uvediete uhradenú sumu z dokladu o úhrade a priložíte jeho sken alebo fotografiu (doklad by mal obsahovať QR kód).\n3.  Ak je suma, o ktorú žiadate, nižšia ako úhrada u lekára, vyplníte pole „požadovaná suma“. Ak je suma rovnaká, pole vyplníte tiež.\n4.  V mobilnej aplikácii alebo v ePobočke si skontrolujte, či máte absolvované potrebné preventívne prehliadky.",
+      "reference": "V mobilnej aplikácii alebo v ePobočke správca podáva žiadosti za všetkých členov skupiny. Dajte správcovi vašej skupiny všetky potrebné informácie (o aký príspevok žiadate; IČO poskytovateľa zdravotnej starostlivosti z dokladu o úhrade; sumu, ktorú ste zaplatili; sumu, ktorú žiadate v príspevku, ak je iná ako suma na bločku, a nezabudnite mu dať doklad o zaplatení). Odporúčame si v mobilnej aplikácii v záložke Moja prevencia alebo v ePobočke skontrolovať, či máte absolvované potrebné preventívne prehliadky. Ak vám tam preventívna prehliadka chýba a absolvovali ste ju napríklad u nezmluvného lekára, pohľadajte doma doklad o jej absolvovaní. Správca vyberie člena, za ktorého chce podať žiadosť o finančný príspevok, vyberie druh príspevku (napríklad preplatenie športovej prehliadky), doplní IČO poskytovateľa zdravotnej starostlivosti, kde bol výkon absolvovaný, vypíše dátum a sumu, ktorú člen alebo jeho zákonný zástupca uhradil, a priloží sken alebo odfotený doklad o úhrade, ktorý by mal obsahovať QR kód. V prípade, že suma, ktorú chce žiadať je nižšia ako úhrada u poskytovateľa, vyplní aj nepovinné políčko požadovaná suma na preplatenie. V prípade, že člen absolvoval napríklad preventívnu prehliadku u všeobecného lekára u nezmluvného poskytovateľa alebo v zahraničí v rámci EÚ (v prípade ak tu v čase prevencie nebol poistený), priloží si sám po zaslaní notifikácie o nesplnení PP do jednotlivých žiadostí aj doklad o jej absolvovaní."
+    },
+    {
+      "question": "Sú nejaké obmedzenia pri podávaní prílohy k žiadosti?",
+      "score": 0.7377,
+      "response": "K žiadosti je potrebné priložiť povinnú prílohu dokladujúcu úhradu poistencom, ktorá nesmie byť väčšia ako 5 MB a akceptované formáty sú: jpg, jpeg, jpe, png, pdf. Sken/fotografia dokladu o úhrade by mal obsahovať QR kód a musí obsahovať všetky náležitosti účtovného dokladu vrátane druhu poskytnutej zdravotnej starostlivosti zhodnej s uplatňovaným finančným príspevkom.",
+      "reference": "K žiadosti je potrebné priložiť povinnú prílohu dokladujúcu úhradu poistencom, ktorá nesmie byť väčšia ako 5 MB, a akceptované formáty sú: jpg, jpeg, jpe, png., pdf."
+    },
+    {
+      "question": "Prečo si nemôžem podať žiadosť sám?",
+      "score": 0.9492,
+      "response": "Peňaženka zdravia MAXI je určená pre skupinu, a preto má každá skupina správcu, ktorý sa stará o jej správne fungovanie. Správca má na základe súhlasu členov prehľad o príspevkoch, na ktoré majú členovia nárok, a o ich podaných žiadostiach. Je preto zodpovedný za podávanie žiadostí za jednotlivých členov. Z dôvodu ochrany súkromia a udržania prehľadu o žiadostiach preto nemôžu jednotliví členovia žiadosti podávať samostatne.\n",
+      "reference": "Peňaženka zdravia MAXI je určená pre skupinu, a preto má každá skupina správcu, ktorý sa stará o jej správne fungovanie. Správca má na základe súhlasu členov prehľad o príspevkoch, na ktoré majú členovia nárok, a o ich podaných žiadostiach. Je preto zodpovedný za podávanie žiadostí za jednotlivých členov. Z dôvodu ochrany súkromia a udržania prehľadu o žiadostiach preto nemôžu jednotliví členovia žiadosti podávať samostatne."
+    },
+    {
+      "question": "Ako zistím, kto je zmluvný lekár?",
+      "score": 0.9955,
+      "response": "Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec.\n\nZoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete na www.vszp.sk v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI.\n\nZoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na www.vszp.sk v časti Peňaženka zdravia MAXI.\n",
+      "reference": "Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec. Zoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete na našej webovej stránke v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI. Zoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na našej stránke v časti Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Môžem si dať preplatiť doklad o úhrade aj od súkromného lekára alebo zariadenia?",
+      "score": null,
+      "response": "Všetky výkony musia byť absolvované u zmluvného lekára. Výnimkou je športová preventívna prehliadka a laserová operácia očí, ktoré stačí absolvovať na vybranom pracovisku. Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec. Zoznam vybraných pracovísk pre športové prehliadky a zoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na www.vszp.sk v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI.\n",
+      "reference": "Všetky výkony musia byť absolvované u zmluvného lekára. Výnimkou je športová preventívna prehliadka a laserová operácia očí, ktoré stačí absolvovať na vybranom pracovisku. Zoznam zmluvných lekárov a poskytovateľov nájdete na našej webovej stránke v časti Poistenec. Zoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete na našej stránke v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI. Zoznam zmluvných poskytovateľov pre laserovú operáciu očí nájdete na našej stránke v časti Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Som správcom skupiny. Ako si pozriem, kto a koľko si už na príspevky vyčerpal?",
+      "score": 0.9994,
+      "response": "V mobilnej aplikácii, ako aj v ePobočke v záložke Peňaženka zdravia správca uvidí zoznam žiadostí za každého člena aj so žiadanými a uhradenými sumami a uvidí aj, akú sumu má jeho skupina ešte k dispozícii.\n",
+      "reference": "V mobilnej aplikácii, ako aj v ePobočke v záložke Peňaženka zdravia správca uvidí zoznam žiadostí za každého člena aj so žiadanými a uhradenými sumami a uvidí aj, akú sumu má jeho skupina ešte k dispozícii."
+    },
+    {
+      "question": "Kde uvidím, koľko si dali preplatiť iní členovia skupiny?",
+      "score": 0.8918,
+      "response": "Čerpanie finančných príspevkov na jednotlivých členov vidí iba správca. Ako člen skupiny máte v súlade s ochranou údajov prístup iba k svojim údajom o čerpaní finančných príspevkov a sume, ktorú ešte môžete čerpať.\n",
+      "reference": "Čerpanie finančných príspevkov na jednotlivých členov vidí iba správca. Ako člen skupiny máte v súlade s ochranou údajov prístup iba k svojim údajom o čerpaní finančných príspevkov a sume, ktorú ešte môžete čerpať."
+    },
+    {
+      "question": "Musím mať absolvované všetky preventívne prehliadky?",
+      "score": 0.817,
+      "response": "Podmienkou čerpania akéhokoľvek finančného príspevku je, že poistenec má absolvované preventívne prehliadky, na ktoré má zo zákona nárok. \n\nKonkrétne to znamená:\n\n*   **Žena:** Preventívna prehliadka u všeobecného lekára pre dospelých (do 75 rokov vrátane) a gynekológa (do 70 rokov vrátane).\n*   **Muž:** Preventívna prehliadka u všeobecného lekára pre dospelých (do 75 rokov vrátane) a ak má 50 – 70 rokov vrátane, aj preventívna prehliadka u urológa.\n*   **Dieťa:** Preventívna prehliadka u všeobecného lekára pre deti a dorast.\n*   **Príspevok na zuby:** Preventívna prehliadka u zubára.\n\nAk ste preventívnu prehliadku absolvovali u nezmluvného lekára, je potrebné doložiť doklad o jej absolvovaní.",
+      "reference": "Podmienkou čerpania akéhokoľvek finančného príspevku je, že poistenec má absolvované preventívne prehliadky, na ktoré má zo zákona nárok. Táto podmienka nie je samoúčelná, VšZP záleží na tom, aby poistenci prežili čo najviac rokov v zdraví. To znamená: Žena musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre dospelých (do 75 rokov veku - vrátane) a gynekológa (do 70 rokov veku - vrátane). Muž musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre dospelých (do 75 rokov veku - vrátane), a ak má 50 – 70 rokov – vrátane, aj preventívnu prehliadku u urológa. Dieťa musí mať absolvovanú preventívnu prehliadku u všeobecného lekára pre deti a dorast. Podmienkou pre čerpanie finančného príspevku na zuby je preventívna prehliadka u zubára."
+    },
+    {
+      "question": "Som správca skupiny a podávam žiadosť za člena. Musíme mať všetci absolvované preventívne\nprehliadky, aby mal člen nárok na finančný príspevok?",
+      "score": 0.9985,
+      "response": "Nie. Ostatní členovia skupiny nemusia mať absolvované preventívne prehliadky. Tie musí mať absolvované člen, za ktorého podávate žiadosť.\n",
+      "reference": "Nie. Ostatní členovia skupiny nemusia mať absolvované preventívne prehliadky. Tie musí mať absolvované člen, za ktorého podávate žiadosť."
+    },
+    {
+      "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+      "score": 0.7759,
+      "response": "V prípade, že ste absolvovali preventívnu prehliadku u nezmluvného lekára, podáte žiadosť o príspevok a počkáte na notifikáciu o nesplnení prevencie. Následne do žiadosti v mobilnej aplikácii VšZP alebo ePobočke priložíte doklad o absolvovaní preventívnej prehliadky.\n",
+      "reference": "V tomto prípade podá správca žiadosť o príspevok a počkáte na notifikáciu o nesplnení prevencie. Následne do žiadosti v mobilnej aplikácii VšZP alebo ePobočke priložíte doklad o absolvovaní preventívnej prehliadky. Každý člen si potvrdenie musí vložiť sám, správca túto možnosť má iba za seba, prípadne za svoje deti do 18 rokov."
+    },
+    {
+      "question": "Musia mať všetci v našej skupine preventívne prehliadky?",
+      "score": 0.8106,
+      "response": "VšZP dbá na prevenciu a všetci poistenci by mali mať absolvované preventívne prehliadky, na ktoré majú nárok. To, že niektorí členovia sa preventívnym prehliadkam pravidelne nepodrobujú, však neobmedzí čerpanie finančných príspevkov pre tých, ktorí sa o svoje zdravie starajú. Aj člen, ktorý neabsolvuje preventívne prehliadky, môže poskytnúť iným členom polovicu svojho finančného príspevku, teda 50 €.\n",
+      "reference": "VšZP dbá na prevenciu a všetci poistenci by mali mať absolvované preventívne prehliadky, na ktoré majú nárok. To, že niektorí členovia sa preventívnym prehliadkam pravidelne nepodrobujú, však neobmedzí čerpanie finančných príspevkov pre tých, ktorí sa o svoje zdravie starajú. Aj člen, ktorý neabsolvuje preventívne prehliadky, môže poskytnúť iným členom polovicu svojho finančného príspevku, teda 50 €."
+    },
+    {
+      "question": "Máme v skupine dlžníka. Čo máme robiť?",
+      "score": null,
+      "response": "Ak má člen v momente čerpania alebo úhrady finančného príspevku nárok na plnú zdravotnú starostlivosť z dôvodu, že je dlžníkom, tak dôjde k ukončeniu jeho žiadosti o poskytnutie finančného príspevku bez úhrady.\n\nAk však dlžník splatí svoj dlh alebo si dohodne s VšZP splátkový kalendár (alebo splní inú podmienku v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov), nie je osobou s nárokom len na neodkladnú zdravotnú starostlivosť a môže čerpať finančný príspevok. Na čerpanie ostatných členov skupiny ani na poskytnutie polovice svojho finančného príspevku iným členom (50 €) evidencia v zozname dlžníkov vplyv nemá.\n",
+      "reference": "Ak nemá člen v momente čerpania alebo úhrady finančného príspevku nárok na plnú zdravotnú starostlivosť z dôvodu, že je dlžníkom, tak dôjde k ukončeniu jeho žiadosti o poskytnutie finančného príspevku bez úhrady. Ak však dlžník splatí svoj dlh alebo si dohodne s VšZP splátkový kalendár (alebo splní inú podmienku v zmysle § 9 ods. 2 zákona č. 580/2004 Z. z. o zdravotnom poistení a o zmene a doplnení zákona č. 95/2002 Z. z. o poisťovníctve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov), nie je osobou s nárokom len na neodkladnú zdravotnú starostlivosť a môže čerpať finančný príspevok. Na čerpanie ostatných členov skupiny ani na poskytnutie polovice svojho finančného príspevku iným členom (50 €) evidencia v zozname dlžníkov vplyv nemá."
+    },
+    {
+      "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+      "score": 1.0,
+      "response": "Je potrebné požiadať lekára o vystavenie dokladu na účel čerpania finančných príspevkov z Peňaženky zdravia.",
+      "reference": "Je potrebné požiadať lekára o vystavenie dokladu na účel čerpania finančných príspevkov z Peňaženky zdravia."
+    },
+    {
+      "question": "Na aký účet prídu peniaze?",
+      "score": 0.999,
+      "response": "Peniaze prídu na účet, ktorý zadal správca vašej skupiny. Správca zadá jedno číslo účtu a finančný príspevok uhradený VšZP poskytne tomu členovi, ktorý žiadanú zdravotnú starostlivosť absolvoval. Účet je v prípade potreby možné počas roka zmeniť.\n",
+      "reference": "Peniaze prídu na účet, ktorý zadal správca vašej skupiny. Správca zadá jedno číslo účtu a finančný príspevok uhradený VšZP poskytne tomu členovi, ktorý žiadanú zdravotnú starostlivosť absolvoval. Účet je v prípade potreby možné počas roka zmeniť."
+    },
+    {
+      "question": "Ako si do Peňaženky zdravia MAXI vložím číslo účtu?",
+      "score": 0.999,
+      "response": "Správca vloží číslo účtu, na ktorý chce zasielať finančné príspevky, pri vytváraní skupiny. Účet je v prípade potreby možné počas roka zmeniť.\n",
+      "reference": "Správca vloží číslo účtu, na ktorý chce zasielať finančné príspevky, pri vytváraní skupiny. Účet je v prípade potreby možné počas roka zmeniť."
+    },
+    {
+      "question": "Môžem zmeniť číslo účtu?",
+      "score": 0.786,
+      "response": "Áno, správca môže v priebehu roka zmeniť číslo účtu, ktorý zadal pri vytváraní skupiny. Číslo účtu vkladáte hneď po vstupe do Peňaženky zdravia MINI po vyjadrení potrebných súhlasov a kedykoľvek počas roka ho môžete zmeniť.\n",
+      "reference": "Áno, správca môže v priebehu roka zmeniť číslo účtu, ktorý zadal pri vytváraní skupiny."
+    },
+    {
+      "question": "Pošlete mi peniaze aj na zahraničný účet?",
+      "score": 0.7441,
+      "response": "Finančné príspevky z Peňaženky zdravia MAXI aj MINI je možné zaslať iba na účty registrované na Slovensku.\n",
+      "reference": "Finančné príspevky z Peňaženky zdravia MAXI je možné zaslať iba na účty registrované na Slovensku."
+    },
+    {
+      "question": "Kedy mi uhradíte finančný príspevok?",
+      "score": 0.9985,
+      "response": "Finančné príspevky uhrádzame priebežne počas roka, ak sú splnené všetky podmienky pre úhradu.\n\nŽiadosti podané od 1. januára do 30. júna daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 30. septembru najneskôr do 31. októbra daného roka.\nŽiadosti podané od 1. júla do 31. decembra daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 31. marcu najneskôr do 30. apríla nasledujúceho roka.\n",
+      "reference": "Finančné príspevky uhrádzame priebežne počas roka, ak sú splnené všetky podmienky pre úhradu. Žiadosti podané od 1. januára do 30. júna daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 30. septembru najneskôr do 31. októbra daného roka. Žiadosti podané od 1. júla do 31. decembra daného roka budú finálne spracované podľa stavu splnenia podmienok používania k 31. marcu najneskôr do 30. apríla nasledujúceho roka."
+    },
+    {
+      "question": "Môžem podať žiadosť, aj keď žiadam viac, ako je výška sumy v našej skupine?",
+      "score": 0.9984,
+      "response": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške zostatkovej sumy.\n",
+      "reference": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške zostatkovej sumy."
+    },
+    {
+      "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+      "score": 0.9982,
+      "response": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške sumy, na ktorú máte nárok.\n",
+      "reference": "Žiadosť podať môžete, no po splnení podmienok ju uhradíme iba vo výške sumy, na ktorú máte nárok."
+    },
+    {
+      "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+      "score": 0.8243,
+      "response": "Žiadosti majú štyri stavy: evidovaná, rozpracovaná, schválená a ukončená.\n\n*   Ak je žiadosť v stave **schválená**, môžete očakávať pripísanie finančných prostriedkov na Váš účet v krátkej dobe.\n*   Ak je žiadosť v stave **evidovaná** alebo **rozpracovaná**, čakáme na overenie informácií zadaných v žiadosti, aby sme ju mohli schváliť a následne uhradiť. Pre relevantnosť údajov je potrebné ich porovnanie s informáciami od lekárov a lekární.\n*   Ak je žiadosť v stave **ukončená**, nesplnili ste podmienky na čerpanie finančného príspevku. Detailné informácie o tom, ktoré podmienky ste nesplnili, Vám boli zaslané e-mailom a SMS správou.",
+      "reference": "Žiadosti majú 4 stavy: evidovaná, rozpracovaná, schválená, ukončená. Ak je žiadosť vedená v stave schválená, môžete očakávať pripísanie finančných prostriedkov na Váš účet v už krátkej dobe. Ak je žiadosť v stave evidovaná resp. rozpracovaná, ešte čakáme na overenie informácií zadaných v žiadosti, aby sme mohli žiadosť schváliť a následne uhradiť. Pre relevantnosť údajov žiadosti je potrebné ich porovnanie s informáciami od lekárov a lekární. Ak je žiadosť v stave ukončená, nesplnili ste podmienky na čerpanie finančného príspevku a na Váš email a mobilný telefón sme zaslali správu s uvedením detailu, ktoré podmienky ste nesplnili."
+    },
+    {
+      "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+      "score": 0.9993,
+      "response": "Informácie o stave žiadosti vidí poistenec v mobilnej aplikácii alebo ePobočke v časti „Žiadosti a reklamácie/Moje žiadosti“ – „Stav žiadosti“, „Detail žiadosti“. O schválení resp. ukončení žiadosti bude poistenec informovaný push správou ako aj mailovou notifikáciou.\n",
+      "reference": "Informácie o stave žiadosti vidí poistenec v mobilnej aplikácii alebo ePobočke v časti „Žiadosti a reklamácie/Moje žiadosti“ – „Stav žiadosti“. O schválení resp. ukončení žiadosti bude poistenec informovaný push správou a mailovou notifikáciou."
+    },
+    {
+      "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+      "score": 0.9276,
+      "response": "Dôvod ukončenia žiadosti bez úhrady bude uvedený v mailovej notifikácii o ukončení žiadosti ako aj v aplikácii či v ePobočke v časti Žiadosti a reklamácie/Moje žiadosti a reklamácie – Stav žiadosti. \n\nV prípade nesúhlasu s rozhodnutím môžete vytvoriť v mobilnej aplikácii reklamáciu, napísať nám v sekcii Kontakty, kontaktovať naše call centrum na telefónnom čísle 0850 003 003, alebo navštíviť niektorú z našich pobočiek.\n",
+      "reference": "Dôvod ukončenia žiadosti bez úhrady bude uvedený v mailovej notifikácii o ukončení žiadosti ako aj v aplikácii či v ePobočke v časti Žiadosti a reklamácie/Moje žiadosti a reklamácie – Stav žiadosti. V prípade nesúhlasu s rozhodnutím môžete vytvoriť v mobilnej aplikácii reklamáciu v menu aplikácie v sekcii Moje zdravie alebo napísať nám v sekcii Kontakty, kontaktovať naše call centrum na telefónnom čísle 0850 003 003, alebo navštíviť niektorú z našich pobočiek."
+    },
+    {
+      "question": "Môžem podať viac žiadostí na jeden doklad?",
+      "score": 1.0,
+      "response": "Viac žiadostí s rovnakým dokladom môžete podať iba v prípade, ak je na doklade o úhrade informácia o rôznych druhoch zdravotnej starostlivosti alebo informácia o absolvovaní zdravotnej starostlivosti viacerými členmi skupiny. Žiadosť musí byť podaná individuálne na člena a individuálne na druh žiadaného finančného príspevku.",
+      "reference": "Viac žiadostí s rovnakým dokladom môžete podať iba v prípade, ak je na doklade o úhrade informácia o rôznych druhoch zdravotnej starostlivosti alebo informácia o absolvovaní zdravotnej starostlivosti viacerými členmi skupiny. Žiadosť musí byť podaná individuálne na člena a individuálne na druh žiadaného finančného príspevku."
+    },
+    {
+      "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+      "score": 0.9955,
+      "response": "Áno, ak boli dodatočne splnené podmienky čerpania finančného príspevku, je možné žiadosť znova podať. Aj opakovanú žiadosť je však možné podať len do 60 dní od úhrady zdravotnej starostlivosti, ktorej sa finančný príspevok týka.\n",
+      "reference": "Ak boli dodatočne splnené podmienky čerpania finančného príspevku je možné žiadosť znova podať. Aj opakovanú žiadosť je však možné podať len do 60 dní od úhrady zdravotnej starostlivosti, ktorej sa finančný príspevok týka."
+    },
+    {
+      "question": "Budem musieť vrátiť finančný príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+      "score": 0.843,
+      "response": "Nie, našim poistencom musíte byť v čase absolvovania a úhrady zdravotnej starostlivosti. Už vyplatené príspevky v tomto prípade nie ste povinný vrátiť.\n",
+      "reference": "Našim poistencom musíte byť v čase absolvovania a úhrady zdravotnej starostlivosti. Už vyplatené príspevky v tomto prípade nie ste povinný vrátiť."
+    },
+    {
+      "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MAXI?",
+      "score": null,
+      "response": "Z Peňaženky zdravia MAXI môžete čerpať tieto finančné príspevky na zuby:\n\n*   **Pre deti do 18 rokov:** až 450 € na zubný strojček (nevzťahuje sa na „neviditeľné“ strojčeky, napr. Invisalign) a 2x ročne 40 € na dentálnu hygienu (od dovŕšenia 3. roku veku).\n*   **Pre dospelých:** 2x 40 € ročne na dentálnu hygienu.",
+      "reference": "Na princípe solidarity môžu naši detskí poistenci do dosiahnutia 18 rokov z Peňaženky zdravia MAXI čerpať finančný príspevok na zubný strojček až do 450 €. Zároveň môžu od 3 rokov využiť 2× 40 € ročne finančný príspevok na dentálnu hygienu. Pre dospelých poistencov je určený 2× 40 € ročne na dentálnu hygienu."
+    },
+    {
+      "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+      "score": 0.4714,
+      "response": "Zoznam našich zmluvných poskytovateľov zdravotnej starostlivosti nájdete na webovej stránke v Peňaženke zdravia pri konkrétnom finančnom príspevku.",
+      "reference": "Zoznam našich zmluvných poskytovateľov zdravotnej starostlivosti u ktorých môžete absolvovať dentálnu hygienu."
+    },
+    {
+      "question": "Na čo je určený finančný príspevok na zuby 2× 40 ročne?",
+      "score": 0.8807,
+      "response": "Príspevok 2 x 40 € ročne je možné využiť na výkony dentálnej hygieny, ktoré sú čiastočne hradené na základe verejného zdravotného poistenia. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia.",
+      "reference": "Príspevok 2× 40 € ročne môžu využiť naši poistenci už od 3 rokov na výkony dentálnej hygieny, ktoré sú čiastočne hradené na základe verejného zdravotného poistenia. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia."
+    },
+    {
+      "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 2× 40 € ročne?",
+      "score": 0.8618,
+      "response": "Limit 2 x 40 € ročne sa vzťahuje na výkony v oblasti dentálnej hygieny, konkrétne na:\n\n*   **Výkon N03:** odstránenie zubného povlaku alebo zubného kameňa v celom úseku chrupu ultrazvukom.\n*   **Výkon N11:** inštruktáž a nácvik ústnej hygieny, poučenie o prevencii zubného kazu a ochorení paradontu, odstránenie zubných povlakov.\n\nTieto výkony musia byť čiastočne hradené na základe verejného zdravotného poistenia.",
+      "reference": "Podmienka čerpania príspevku 2 × 40 € ročne sa vzťahuje na výkony v oblasti dentálnej hygieny: Výkon N03: odstránenie zubného povlaku alebo zubného kameňa v celom úseku chrupu ultrazvukom. Výkon N11: inštruktáž a nácvik ústnej hygieny, poučenie o prevencii zubného kazu a ochorení parodontu, odstránenie zubných povlakov."
+    },
+    {
+      "question": "Môžem požiadať o príspevok na strojček pre dieťa z Peňaženky zdravia MAXI?",
+      "score": null,
+      "response": "Áno, v Peňaženke zdravia MAXI máte možnosť získať až 450 € na zubný strojček pre deti (od dovŕšenia 3. roku veku do dovŕšenia 18. roku veku). Príspevok sa vzťahuje na čelustnoortopedické výkony, čiastočne hradené na základe verejného zdravotného poistenia, absolvované u lekára, ktorý má s VšZP zmluvu. V tejto sume sú zahrnuté aj kontroly spojené so strojčekom.\n",
+      "reference": "Áno, príspevok na zubný strojček z Peňaženky zdravia MAXI môžu využiť naši detskí poistenci do dovŕšenia 18 rokov veku (nevzťahuje sa na „neviditeľné“ strojčeky, napr. Invisalign). Príspevok na zubný strojček môžete čerpať na princípe solidarity až do výšky 450 € ročne, vzťahuje sa na čelustnoortopedické výkony, čiastočne hradené na základe verejného zdravotného poistenia, absolvované u lekára, ktorý má s VšZP zmluvu. Druhy vybraných výkonov sú uvedené vo Všeobecných podmienkach pre používanie produktu Peňaženky zdravia."
+    },
+    {
+      "question": "Sú v limite 450 € na strojček pre dieťa zahrnuté aj kontroly?",
+      "score": 0.9332,
+      "response": "Áno, v limite 450 € na strojček pre dieťa sú zahrnuté aj kontroly spojené so strojčekom.\n",
+      "reference": "Áno, v tejto sume sú zahrnuté aj kontroly spojené so strojčekom."
+    },
+    {
+      "question": "Je možné u dieťaťa čerpať benefit z Peňaženky zdravia MAXI na strojček, ak je výkon absolvovaný u\nzmluvného čeľustného ortopéda a poistenec má nezmluvného stomatológa, ktorý výkon odporučí?",
+      "score": 0.9991,
+      "response": "Áno, ak dieťa čerpá zdravotnú starostlivosť u zmluvného poskytovateľa, v tomto prípade čeľustného ortopéda, má možnosť využiť príspevok z Peňaženky zdravia MAXI.\n",
+      "reference": "Áno, ak dieťa čerpá zdravotnú starostlivosť u zmluvného poskytovateľa, v tomto prípade čeľustného ortopéda, má možnosť využiť príspevok z Peňaženky zdravia MAXI."
+    },
+    {
+      "question": "Ak je suma na doklade za dentálnu hygienu vyššia ako 40 €, môžem ju rozdeliť do dvoch žiadosti?",
+      "score": 0.1806,
+      "response": "Viac žiadostí s rovnakým dokladom môžete podať iba v prípade, ak je na doklade o úhrade informácia o rôznych druhoch zdravotnej starostlivosti alebo informácia o absolvovaní zdravotnej starostlivosti viacerými členmi skupiny. Žiadosť musí byť podaná individuálne na druh žiadaného benefitu.\n",
+      "reference": "Nie, na jeden doklad o úhrade je možné podať len jednu žiadosť."
+    },
+    {
+      "question": "Finančné príspevky vo výške 200 € na lieky, dietetické potraviny budú môcť čerpať v Peňaženke\nzdravia MAXI deti aj obaja ich rodičia?",
+      "score": 0.7777,
+      "response": "V Peňaženke zdravia MAXI môžete čerpať až 200 € ročne na doplatky za lieky, dietetické potraviny, ktoré predpísal zmluvný lekár a sú čiastočne hradené na základe verejného zdravotného poistenia pre deti do dovŕšenia 18 rokov, ich rodičov či ich zákonných zástupcov.",
+      "reference": "V Peňaženke zdravia MAXI môžete čerpať až 200 € ročne na doplatky za lieky, dietetické potraviny, ktoré predpísal zmluvný lekár a sú čiastočne hradené na základe verejného zdravotného poistenia pre deti do dovŕšenia 18 rokov, ich rodičov či ich zákonných zástupcov. Podmienkou čerpania je podanie žiadosti o úhradu finančného príspevku, ktorá musí obsahovať doklad o zaplatení doplatkov za lieky a v prípade, že žiada o finančný príspevok zákonný zástupca, musí byť aj dieťa poistené vo VšZP. Finančný príspevok na lieky sa týka aj kategorizovaných vakcín, ktoré sú čiastočne hradené z verejného zdravotného poistenia."
+    },
+    {
+      "question": "Majú nárok na finančný príspevok na lieky v Peňaženke zdravia MAXI aj dospelí, ktorí nie sú\nzákonnými zástupcami detí?",
+      "score": 0.9991,
+      "response": "Áno, dospelí, ktorí nie sú zákonnými zástupcami detí majú nárok na čerpanie finančného príspevku na lieky vo výške 20 €/ročne. Tento príspevok sa nevzťahuje na dietetické potraviny, ale iba na doplatky za kategorizované lieky na predpis. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR.\n",
+      "reference": "Áno, dospelí, ktorí nie sú zákonnými zástupcami detí majú nárok na čerpanie finančného príspevku na lieky vo výške 20 €/ročne. Tento príspevok sa nevzťahuje na dietetické potraviny, ale iba na doplatky za kategorizované lieky na predpis. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR."
+    },
+    {
+      "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia\nMAXI?",
+      "score": null,
+      "response": "Nie, doplatky za lieky, na ktoré máte nárok zo zákona, nie sú uhrádzané z Peňaženky zdravia MAXI. Ak zo zákona máte nárok na vrátenie doplatkov, poisťovne ich uhrádzajú automaticky vo výške doplatku za najlacnejšiu alternatívu lieku. Z finančných príspevkov na lieky v Peňaženke zdravia MAXI VšZP uhradí po splnení podmienok doplatky za jednotlivé lieky a dietetické potraviny do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR.",
+      "reference": "Nie, doplatky za lieky, na ktoré máte nárok zo zákona, nie sú uhrádzané z Peňaženky zdravia MAXI. Ak zo zákona máte nárok na vrátenie doplatkov, poisťovne ich uhrádzajú automaticky vo výške doplatku za najlacnejšiu alternatívu lieku. Z finančných príspevkov na lieky v Peňaženke zdravia MAXI VšZP uhradí po splnení podmienok doplatky za jednotlivé lieky a dietetické potraviny do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR. Nebude to len doplatok za najlacnejší alternatívny liek."
+    },
+    {
+      "question": "Čerpanie finančného príspevku na lieky a dietetické potraviny pre deti a ich zákonných zástupcov vo\nvýške 200 € a príspevku na lieky pre dospelých vo výške 20 € je v Peňaženke zdravia MAXI na\nkalendárny rok alebo na celé obdobie poistenia vo VšZP?",
+      "score": 0.9969,
+      "response": "Nárok na finančný príspevok na lieky a dietetické potraviny pre deti a ich zákonných zástupcov do výšky 200 € vzniká deťom a ich rodičom každý kalendárny rok, rovnako ako dospelým do výšky 20 € na doplatky za lieky.\n",
+      "reference": "Nárok na finančný príspevok na lieky a dietetické potraviny pre deti a ich zákonných zástupcov do výšky 200 € vzniká deťom a ich rodičom každý kalendárny rok, rovnako ako dospelým do výšky 20 € na doplatky za lieky."
+    },
+    {
+      "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+      "score": 0.9986,
+      "response": "Doplatky za lieky a dietetické potraviny pre deti a zákonných zástupcov vrátime kumulatívne do výšky 200 €, za jednotlivé lieky a dietetické potraviny do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR. Rovnako to platí v prípade liekov pre dospelých do výšky 20 €. Nebude to len doplatok za najlacnejší náhradný liek. Poistencovi, ktorý je v čase výdaja lieku zároveň osobou, na ktorú sa v zmysle platnej legislatívy vzťahuje limit spoluúčasti, preplatíme sumu na konkrétny liek vo výške rozdielu medzi skutočným doplatkom a prepočítaným doplatkom.\n",
+      "reference": "Doplatky za lieky a dietetické potraviny pre deti a zákonných zástupcov vrátime kumulatívne do výšky 200 €, za jednotlivé lieky a dietetické potraviny do výšky maximálneho doplatku určeného Ministerstvom zdravotníctva SR. Rovnako to platí v prípade liekov pre dospelých do výšky 20 €. Nebude to len doplatok za najlacnejší náhradný liek. Poistencovi, ktorý je v čase výdaja lieku zároveň osobou, na ktorú sa v zmysle platnej legislatívy vzťahuje limit spoluúčasti, preplatíme sumu na konkrétny liek vo výške rozdielu medzi skutočným doplatkom a prepočítaným doplatkom."
+    },
+    {
+      "question": "Môžem čerpať finančný príspevok na lieky a dietetické potraviny ako zákonný zástupca dieťaťa,\nktoré je poistené v inej zdravotnej poisťovni, a zatiaľ nie som rozhodnutá, že by som dieťa prepoistila\ndo VšZP?",
+      "score": 1.0,
+      "response": "Finančný príspevok na lieky a dietetické potraviny sa vzťahuje len na zákonných zástupcov dieťaťa, ktoré je poistené vo VšZP. Zákonný zástupca má možnosť prepoistiť dieťa do VšZP a po zmene zdravotnej poisťovne podať žiadosť o finančné príspevky. V prípade, že dieťa zostáva poistené v inej zdravotnej poisťovni, môže zákonný zástupca ako náš poistenec čerpať finančné príspevky na lieky pre dospelého do výšky 20 €/ročne.",
+      "reference": "Finančný príspevok na lieky a dietetické potraviny sa vzťahuje len na zákonných zástupcov dieťaťa, ktoré je poistené vo VšZP. Zákonný zástupca má možnosť prepoistiť dieťa do VšZP a po zmene zdravotnej poisťovne podať žiadosť o finančné príspevky. V prípade, že dieťa zostáva poistené v inej zdravotnej poisťovni, môže zákonný zástupca ako náš poistenec čerpať finančné príspevky na lieky pre dospelého do výšky 20 €/ročne."
+    },
+    {
+      "question": "V lekárni mi namiešali masť alebo kvapky, môžem pri nich požiadať o finančný príspevok na lieky?",
+      "score": 0.8355,
+      "response": "Individuálne pripravované lieky nepatria medzi kategorizované lieky a finančný príspevok sa na ne nevzťahuje. Zoznam kategorizovaných liekov nájdete na stránke Ministerstva zdravotníctva SR.\n",
+      "reference": "Individuálne pripravované lieky nepatria medzi kategorizované lieky. Na takto pripravené lieky nie je možné uplatniť žiadosť o finančný príspevok."
+    },
+    {
+      "question": "Má dieťa nárok na príspevok z Peňaženky zdravia MAXI v prípade, že absolvovalo vyšetrenie u\nzmluvného oftalmológa v decembri, ale okuliare budú uhradené až v januári nasledujúceho roka?",
+      "score": 0.6711,
+      "response": "Áno, ak zdravotnícka pomôcka bude vydaná a uhradená v januári nasledujúceho roka, príspevok si môže uplatniť.\n",
+      "reference": "Ak zdravotnícka pomôcka bude vydaná a uhradená v januári nasledujúceho roka, príspevok si môže uplatniť."
+    },
+    {
+      "question": "Môžem získať z Peňaženky zdravia MAXI príspevok na kontaktné šošovky?",
+      "score": 0.7484,
+      "response": "Z Peňaženky zdravia nie je možné získať príspevok na kontaktné šošovky. Finančný príspevok na oči je príspevok na doplatky na okuliarové rámy a okuliarové šošovky a pre dospelých aj na laserovú operáciu očí.\n",
+      "reference": "Z Peňaženky zdravia nie je možné získať príspevok na kontaktné šošovky. Finančný príspevok na oči je príspevok na doplatky na okuliarové rámy a okuliarové šošovky a pre dospelých aj na laserovú operáciu očí."
+    },
+    {
+      "question": "Môžem si zakúpiť okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+      "score": 0.999,
+      "response": "Nie, pomôcku si môžete zakúpiť iba v optike, s ktorou má VšZP uzatvorenú zmluvu.\n",
+      "reference": "Nie, pomôcku si môžete zakúpiť iba v optike, s ktorou má VšZP uzatvorenú zmluvu."
+    },
+    {
+      "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+      "score": 0.9989,
+      "response": "Príspevok na laserovú operáciu excimerovým alebo femtosekundovým laserom až do výšky 450 € sa vzťahuje na obe oči dokopy. Nie je možné získať vyšší príspevok ako 450 € na laserovú operáciu očí.\n",
+      "reference": "Príspevok na laserovú operáciu excimerovým alebo femtosekundovým laserom až do výšky 450 € sa vzťahuje na obe oči dokopy. Nie je možné získať vyšší príspevok ako 450 € na laserovú operáciu očí."
+    },
+    {
+      "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+      "score": 1.0,
+      "response": "Príspevok na laserovú operáciu excimerovým alebo femtosekundovým laserom až do výšky 450 € sa vzťahuje na obe oči dokopy. Nie je možné získať vyšší príspevok ako 450 € na laserovú operáciu očí.",
+      "reference": "Príspevok na laserovú operáciu excimerovým alebo femtosekundovým laserom až do výšky 450 € sa vzťahuje na obe oči dokopy. Nie je možné získať vyšší príspevok ako 450 € na laserovú operáciu očí."
+    },
+    {
+      "question": "Je možné absolvovať laserovú operáciu očí aj na nezmluvnej klinike?",
+      "score": 0.5233,
+      "response": "Nie, operáciu je potrebné absolvovať u zmluvného poskytovateľa zdravotnej starostlivosti, resp. na zmluvnej klinike, aby bol finančný príspevok schválený a uhradený. Zoznam zmluvných kliník nájdete tu: https://prihlaska.vszp.sk/fm_source/Laserova_operacia_oci.pdf.\n",
+      "reference": "Jednou z podmienok na schválenie a úhradu finančného príspevku na laserovú operáciu dioptrickej vady pomocou excimerového či femtosekundového lasera je absolvovanie operácie u zmluvného poskytovateľa zdravotnej starostlivosti, resp. na zmluvnej klinike. Pre jednoduché vyhľadanie zmluvných poskytovateľov sme pre vás vytvorili zoznam kliník, kde môžete operáciu absolvovať:"
+    },
+    {
+      "question": "Mám sivý zákal oka. Je možné príspevok na laserovú operáciu použiť aj na tento úkon?",
+      "score": 1.0,
+      "response": "Nie, príspevok na laserovú operáciu excimerovým či femtosekundovým laserom sa vzťahuje iba na operáciu dioptrickej vady od výšky dioptrií +1/-1.",
+      "reference": "Nie, príspevok na laserovú operáciu excimerovým či femtosekundovým laserom sa vzťahuje iba na operáciu dioptrickej vady od výšky dioptrií +1/-1."
+    },
+    {
+      "question": "Mám dcéru, ktorá má 16 rokov. Je možné použiť príspevok na laserovú operáciu aj pre ňu?",
+      "score": 0.9991,
+      "response": "Príspevok na laserovú operáciu očí femtosekundovým či excimerovým laserom môžu využiť iba poistenci od 18. roku veku. Mladším poistencom sa tento typ operácie neodporúča aj vzhľadom na to, že oko sa v mladšom veku stále vyvíja. Z tohto dôvodu by sa mohlo oko po operácii vrátiť do pôvodného stavu.\n",
+      "reference": "Príspevok na laserovú operáciu očí femtosekundovým či excimerovým laserom môžu využiť iba poistenci od 18. roku veku. Mladším poistencom sa tento typ operácie neodporúča aj vzhľadom na to, že oko sa v mladšom veku stále vyvíja. Z tohto dôvodu by sa mohlo oko po operácii vrátiť do pôvodného stavu."
+    },
+    {
+      "question": "Prečo ste stanovili podmienku na absolvovanie laserovej operácie očí od výšky dioptrií +1/-1?",
+      "score": 1.0,
+      "response": "Podmienka výšky dioptrií je stanovená po konzultácii so špičkovými odborníkmi v oblasti oftalmológie, ktorí pri výške dioptrii nižšej ako +1/-1 ešte neodporúčajú laserovú operáciu absolvovať.",
+      "reference": "Podmienka výšky dioptrií je stanovená po konzultácii so špičkovými odborníkmi v oblasti oftalmológie, ktorí pri výške dioptrii nižšej ako +1/-1 ešte neodporúčajú laserovú operáciu absolvovať."
+    },
+    {
+      "question": "Je možné získať príspevok do maximálnej výšky 450 € aj na operáciu dioptrickej vady, pri ktorej sa\npoužíva kombinácia excimerového a femtosekundového laseru?",
+      "score": 0.9992,
+      "response": "Áno, príspevok do výšky 450 € sa vzťahuje aj na operáciu dioptrickej vady, pri ktorej sa používa kombinácia týchto dvoch typov laserov.\n",
+      "reference": "Áno, príspevok do výšky 450 € sa vzťahuje aj na operáciu dioptrickej vady, pri ktorej sa používa kombinácia týchto dvoch typov laserov."
+    },
+    {
+      "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+      "score": 0.9975,
+      "response": "Príspevok na okuliarový rám pre dospelých poskytujeme od výšky dioptrie +1/-1 raz za dva roky.",
+      "reference": "Príspevok na okuliarový rám poskytujeme pre dospelých od výšky dioptrie +1/-1 raz za dva roky."
+    },
+    {
+      "question": "Aké podmienky musím splniť, aby som príspevok na okuliarový rám pre dospelých dostal?",
+      "score": 0.9987,
+      "response": "Pre podanie žiadosti musíte mať vyšetrenie u zmluvného oftalmológa, ktorý Vám dá poukaz na okuliare alebo optickú pomôcku. Vyšetrenie u tohto lekára musí byť absolvované maximálne 90 dní pred úhradou zdravotníckej pomôcky. Pomôcku si musíte vybrať v optike, s ktorou má VšZP uzatvorenú zmluvu. Všeobecné pravidlá čerpania finančných príspevkov z Peňaženky zdravia pri príspevku na oči ostávajú nezmenené.\n",
+      "reference": "Pre podanie žiadosti musíte mať vyšetrenie u zmluvného oftalmológa, ktorý Vám dá poukaz na okuliare alebo optickú pomôcku. Vyšetrenie u tohto lekára musí byť absolvované maximálne 90 dní pred úhradou zdravotníckej pomôcky. Pomôcku si musíte vybrať v optike, s ktorou má VšZP uzatvorenú zmluvu. Všeobecné pravidlá čerpania finančných príspevkov z Peňaženky zdravia pri príspevku na oči ostávajú nezmenené."
+    },
+    {
+      "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+      "score": 0.9975,
+      "response": "Nie, príspevok pre deti 100 € na okuliarový rám alebo okuliarové šošovky pre deti je len jeden. Bez ohľadu na to, či sa jedná o preplatenie rámu alebo okuliarových šošoviek. To znamená, že dieťa má nárok na preplatenie príspevku v maximálnej výške 100 €. V prípade, že poistenec žiada v jednej žiadosti o príspevok v sume nižšej ako 100 € nemá nárok na podanie druhej žiadosti na zostatok sumy do výšky 100 €. Zároveň nie je možné kumulovať úhrady z viacerých očných optík.\n",
+      "reference": "Nie, príspevok pre deti 100 € na okuliarový rám alebo okuliarové šošovky pre deti je len jeden. Bez ohľadu na to, či sa jedná o preplatenie rámu alebo okuliarových šošoviek. To znamená, že dieťa má nárok na preplatenie príspevku v maximálnej výške 100 €. V prípade, že poistenec žiada v jednej žiadosti o preplatenie príspevku v sume nižšej ako 100 € nemá nárok na podanie druhej žiadosti na zostatok sumy do výšky 100 €. Zároveň nie je možné kumulovať úhrady z viacerých očných optík."
+    },
+    {
+      "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+      "score": null,
+      "response": "Nie je potrebné byť členom športového klubu. Preventívne športové prehliadky musia byť vykonané vybraným pracoviskom telovýchovného lekárstva.",
+      "reference": "Nie je potrebné byť členom športového klubu. Preventívne športové prehliadky pre deti a dospelých musia byť vykonané vybraným pracoviskom telovýchovného lekárstva. Finančný príspevok z Peňaženky zdravia MAXI pre deti je poskytnutý vo výške 50 % z uhradenej sumy, maximálne vo výške 100 € na člena. Pre dospelých z Peňaženky zdravia MAXI je finančný príspevok vo výške 50 % uhradenej sumy, avšak vo výške 50 € na člena. Stačí podať žiadosť, ktorá obsahuje doklad o úhrade prehliadky. Nie je potrebné byť členom športového klubu a nie je nutné prikladať do žiadosti potvrdenia o vykonávaní športovej činnosti. Zoznam vybraných pracovísk, kde môžete absolvovať športové preventívne prehliadky, nájdete v časti Peňaženka zdravia MINI a Peňaženka zdravia MAXI."
+    },
+    {
+      "question": "Dá sa finančný príspevok uplatniť aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+      "score": 0.7655,
+      "response": "Áno, finančný príspevok je možné čerpať aj pri preočkovaní, ak je dodržaný správny interval očkovaní. Napríklad, ak sa s vakcináciou začne na začiatku roka, po prvej dávke nasleduje druhá v intervale 1 mesiaca a tretia o 6 mesiacov.",
+      "reference": "Áno, finančný príspevok je možné uplatniť aj pri preočkovaní, ak je dodržaný správny interval očkovaní. Napríklad, ak sa s vakcináciou začne na začiatku roka, po prvej dávke nasleduje druhá v intervale 1 mesiaca a tretia o 6 mesiacov. Prvé 2 dávky ochránia človeka už pred tzv. jarnou aktivitou kliešťov a tretia dávka posilní imunitu pred jesennou aktivitou kliešťov. Ochrana po takto vykonanom očkovaní trvá 3 roky, preto po ich uplynutí treba vykonať preočkovanie jednou dávkou. Preočkovanie v intervale 3 roky treba vykonávať dovtedy, kým riziko nákazy trvá."
+    },
+    {
+      "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+      "score": 0.9853,
+      "response": "V Peňaženka zdravia MINI aj MAXI môžete požiadať o príspevok na každú dávku očkovania, nie je nutné čakať s podaním žiadosti do podania poslednej dávky vakcíny. Žiadosť je potrebné podať do 60 dní od zakúpenia vakcíny.\n",
+      "reference": "V Peňaženka zdravia MAXI môže poistenec požiadať o príspevok na každú dávku očkovania, nie je nutné čakať s podaním žiadosti do podania poslednej dávky vakcíny. Žiadosť je potrebné podať do 60 dní od zakúpenia vakcíny."
+    },
+    {
+      "question": "Kto si môže uplatniť finančný príspevok z Peňaženky zdravia na očkovanie proti vírusu HPV?",
+      "score": 0.999,
+      "response": "Očkovanie proti HPV vakcínou Gardasil 9 je plne hradené z verejného zdravotného poistenia pre deti vo veku od 12 do 14 rokov (14 rokov + 364 dní). V prípade očkovania vo veku 15 až 24 rokov (24 rokov + 364 dní) vakcínou Gardasil 9 je možné požiadať o finančný príspevok z Peňaženky zdravia, ktorý je vo výške 50 % z ceny každej vakcíny. Poistenci vo veku 25 rokov a viac už nemajú nárok na finančný príspevok z Peňaženky zdravia.\n",
+      "reference": "Očkovanie proti HPV vakcínou Gardasil 9 je plne hradené z verejného zdravotného poistenia pre deti vo veku od 12 do 14 rokov (14 rokov + 364 dní). V prípade očkovania vo veku 15 až 24 rokov (24 rokov + 364 dní) vakcínou Gardasil 9 je možné požiadať o finančný príspevok z Peňaženky zdravia, ktorý je vo výške 50 % z ceny každej vakcíny. Poistenci vo veku 25 rokov a viac už nemajú nárok na finančný príspevok z Peňaženky zdravia."
+    },
+    {
+      "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+      "score": null,
+      "response": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI vo výške 50% z uhradenej ceny každého samoodberového testu, maximálne do 45 € na nasledujúce testy:\n\n*   HPV rozšírený pre mužov aj ženy,\n*   BRCA na odhalenie DNA predispozície rakoviny prsníka a vaječníkov,\n*   Trombofilné mutácie,\n*   Sexuálne prenosné choroby.\n\nFinančný príspevok na tieto testy je dostupný po dosiahnutí 18. roku života a je možné ho uplatniť na testy zakúpené prostredníctvom stránky www.meditesty.sk.",
+      "reference": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI vo výške 50% z uhradenej ceny každého samoodberového testu zakúpeného prostredníctvom stránky www.meditesty.sk, max. vo výške 45 € na nasledujúce testy: • HPV rozšírený pre mužov aj ženy, • BRCA na odhalenie DNA predispozície rakoviny prsníka a vaječníkov, • Trombofilné mutácie, • Sexuálne prenosné choroby."
+    },
+    {
+      "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+      "score": 0.9989,
+      "response": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI a nárok na očkovanie očkovacou látkou Varivax na každú dávku vakcíny má každý poistenec dňom dovŕšenia 1. roku veku.\n",
+      "reference": "Finančný príspevok sa dá uplatniť v Peňaženke zdravia MINI aj MAXI a nárok na očkovanie očkovacou látkou Varivax na každú dávku vakcíny má každý poistenec dňom dovŕšenia 1. roku veku."
+    },
+    {
+      "question": "Ako si požičať monitor dychu?",
+      "score": 0.7423,
+      "response": "Monitor dychu je možné zapožičať si vo vybraných nemocniciach a lekárňach. Možnosť prenajatia monitora dychu z Peňaženky zdravia MINI aj MAXI majú aj nepoistení rodičia, ktorí do VšZP poistia bábätko. Zapožičať monitor dychu si môžete na oddeleniach nemocníc v zozname: http://www.nadaciakrizovatka.sk/vypozicne-miesta.\n",
+      "reference": "Monitor dychu je možné zapožičať si vo vybraných nemocniciach a lekárňach. Možnosť prenajatia monitora dychu z Peňaženky zdravia MINI aj MAXI majú aj nepoistení rodičia, ktorí do VšZP poistia bábätko."
+    },
+    {
+      "question": "Do akej maximálnej výšky a na aké typy testov si môžem uplatniť finančný príspevok na prenatálne\ntestovanie?",
+      "score": 0.9979,
+      "response": "Finančný príspevok z Peňaženky zdravia MAXI na neinvazívne prenatálne testovanie môžete použiť napr. na Harmony, MaterniT21, NIFTY, Panorama, PRENASCAN, Tomorrow či Trisomy testy a je možné ho čerpať až do výšky 450 €. Maximálnu výšku finančného príspevku 450 € môžete získať v prípade, ak má vaša skupina v Peňaženke zdravia MAXI 8 členov.\n",
+      "reference": "Finančný príspevok z Peňaženky zdravia MAXI na neinvazívne prenatálne testovanie môžete použiť napr. na Harmony, MaterniT21, NIFTY, Panorama, PRENASCAN, Tomorrow či Trisomy testy a je možné ho čerpať až do výšky 450 €. Maximálnu výšku finančného príspevku 450 € môžete získať v prípade, ak má vaša skupina v Peňaženke zdravia MAXI 8 členov."
+    },
+    {
+      "question": "Môže získať finančný príspevok na prenatálne testovanie aj žena vo veku 30 rokov v 5. mesiaci\ntehotenstva?",
+      "score": 0.6713,
+      "response": "Žiaľ, finančný príspevok môžu získať iba ženy od 35. roku života. VšZP nestanovuje podmienku konkrétneho mesiaca tehotenstva na uplatnenie finančného príspevku na prenatálne testovanie.",
+      "reference": "Žiaľ, finančný príspevok môžu získať iba ženy od 35. roku života. VšZP nestanovuje podmienku konkrétneho mesiaca tehotenstva na uplatnenie finančného príspevku na prenatálne testovanie. Avšak už v prvých troch mesiacoch gravidity vie žena vďaka prenatálnym testom vylúčiť vybrané chromozómové poruchy plodu."
+    },
+    {
+      "question": "Aká je maximálna výška finančného príspevku, ktorú môže žena získať na moderné cytologické\nvyšetrenie LBC?",
+      "score": 0.9986,
+      "response": "Maximálna výška finančného príspevku pri voľbe Liquid Based Cytology v rámci gynekologickej preventívnej prehliadky je 30 € na jednu žiadosť. Príspevok môžu využiť ženy od 18 rokov. Ak je odber indikovaný lekárom aj mimo preventívnej prehliadky, je možné požiadať o finančný príspevok aj v takomto prípade.\n",
+      "reference": "Maximálna výška finančného príspevku pri voľbe Liquid Based Cytology v rámci gynekologickej preventívnej prehliadky je 30 € na jednu žiadosť. Príspevok môžu využiť ženy od 18 rokov. Ak je odber indikovaný lekárom aj mimo preventívnej prehliadky, je možné požiadať o finančný príspevok aj v takomto prípade."
+    },
+    {
+      "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie finančného príspevku na 4.cyklus\nasistovanej reprodukcie?",
+      "score": 0.85,
+      "response": "Nie, nie je. Predchádzajúci súhlas poisťovne je potrebný iba v prípade, ak chce pacientka absolvovať prvé 3 cykly, ktoré sú štandardne hradené z verejného zdravotného poistenia v iných členských štátoch EÚ ako na Slovensku.",
+      "reference": "Nie, nie je. Predchádzajúci súhlas poisťovne je potrebný iba v prípade, ak chce pacientka absolvovať prvé 3 cykly, ktoré sú štandardne hradené z verejného zdravotného poistenia v iných členských štátoch EÚ ako na Slovensku."
+    },
+    {
+      "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie príspevku na 4.cyklus asistovanej\nreprodukcie?",
+      "score": 0.8552,
+      "response": "Nie, nie je potrebný predchádzajúci súhlas poisťovne na získanie finančného príspevku na 4. cyklus asistovanej reprodukcie. Predchádzajúci súhlas poisťovne je potrebný iba v prípade, ak chce pacientka absolvovať prvé 3 cykly, ktoré sú štandardne hradené z verejného zdravotného poistenia v iných členských štátoch EÚ ako na Slovensku.\n",
+      "reference": "Nie nie je. Predchádzajúci súhlas poisťovne je potrebný iba v prípade, ak chce pacientka absolvovať prvé 3 cykly, ktoré sú štandardne hradené z verejného zdravotného poistenia v iných členských štátoch EÚ ako na Slovensku."
+    },
+    {
+      "question": "Dá sa získať finančný príspevok aj na 4. cyklus asistovanej reprodukcie IVF mimo Slovenska?",
+      "score": 0.8479,
+      "response": "Žiaľ nie. Podmienkou získania príspevku na 4. cyklus asistovanej reprodukcie je absolvovanie výkonu na Slovensku u zmluvného poskytovateľa zdravotnej starostlivosti.\n",
+      "reference": "Žiaľ nie. Podmienkou získania príspevku na 4. cyklus asistovanej reprodukcie je absolvovanie výkonu na Slovensku u zmluvného poskytovateľa zdravotnej starostlivosti."
+    },
+    {
+      "question": "Má nárok na získanie finančný príspevku na 4.cyklus asistovanej reprodukcie IVF aj žena vo veku 40\nrokov?",
+      "score": 0.9999,
+      "response": "Vekový limit na získanie finančného príspevku na 4. cyklus IVF je 39 rokov + 364 dní, tzn. do dovŕšenia 40. roku veku ženy.",
+      "reference": "Vekový limit na získanie finančného príspevku na 4. cyklus IVF je 39 rokov + 364 dní, tzn. do dovŕšenia 40.roku veku ženy."
+    },
+    {
+      "question": "Je možné v rámci finančného príspevku 100 €/ročne na doplatky za glukózové senzory ho využiť aj\npo čiastkach?",
+      "score": 0.9986,
+      "response": "Áno. V prípade finančného príspevku na doplatky za glukózové senzory je možné v Peňaženke zdravia MAXI využiť príspevok aj na viac krát, tzn. je možné podať viacero žiadostí na doplatky za glukózové senzory avšak do maximálnej výšky kumulatívne 100 €/ročne.\n",
+      "reference": "Áno. V prípade finančného príspevku na doplatky za glukózové senzory je možné v Peňaženke zdravia MAXI využiť príspevok aj na viac krát, tzn. je možné podať viacero žiadostí na doplatky za glukózové senzory avšak do maximálnej výšky kumulatívne 100 €/ročne."
+    },
+    {
+      "question": "Prečo je stanovená podmienka uplatnenia finančného príspevku na glukózové senzory iba na 6-7 a\n10 dňové senzory?",
+      "score": 0.8918,
+      "response": "Finančný príspevok na glukózové senzory sa vzťahuje iba na doplatky za glukózové senzory. Pri 6-7 a 10 dňových senzoroch poistencovi vznikajú doplatky, pričom pri 14 dňových senzoroch doplatky nevznikajú. Z toho dôvodu nie je tento senzor zahrnutý v Peňaženke zdravia.\n",
+      "reference": "Finančný príspevok na glukózové senzory sa vzťahuje iba na doplatky za glukózové senzory. Pri 6-7 a 10 dňových senzoroch poistencom vznikajú doplatky, pričom pri 14 dňových senzoroch doplatky nevznikajú. Z toho dôvodu nie je tento senzor zahrnutý v Peňaženke zdravia."
+    },
+    {
+      "question": "Je možné získať finančný príspevok aj na doplatky za glukózové senzory pre dieťa?",
+      "score": 1.0,
+      "response": "Áno, tento finančný príspevok sa vzťahuje aj na deti, aj na dospelých.",
+      "reference": "Áno, tento finančný príspevok sa vzťahuje aj na deti, aj na dospelých."
+    },
+    {
+      "question": "Pre akú skupinu diabetikov platí finančný príspevok?",
+      "score": 0.7955,
+      "response": "Finančný príspevok môžu využiť diabetici 1. typu na inzulínovej pumpe, intenzifikovanej inzulínovej terapii alebo riziková skupina diabetikov z kardiovaskulárneho hľadiska (diabetici 1. typu). Ide o všetkých diabetikov, ktorí majú nárok na glukózový senzor s doplatkom.",
+      "reference": "Finančný príspevok môžu využiť diabetici 1. typu na inzulínovej pumpe, intenzifikovanej inzulínovej terapii alebo riziková skupina diabetikov z kardiovaskulárneho hľadiska (diabetici 1. typu). Ide o všetkých diabetikov, ktorí majú nárok na glukózový senzor s doplatkom."
+    },
+    {
+      "question": "Za akých podmienok môžem zmeniť Peňaženku zdravia MINI na MAXI alebo\nnaopak?",
+      "score": null,
+      "response": "Prechod z Peňaženky zdravia MINI do MAXI je možný kedykoľvek po splnení podmienok Peňaženky zdravia MAXI, t.j. vytvorenie skupiny minimálne 3 členov s nárokom.\n\nPrechod z Peňaženky zdravia MAXI do MINI počas kalendárneho roka je podmienený splnením podmienky, že v skupine nebola podaná ešte žiadna žiadosť o finančný príspevok a člen zo skupiny odišiel. Ak už v skupine bola podaná žiadosť o finančný príspevok z Peňaženky zdravia MAXI, člen môže opustiť skupinu a požiadať o MINI až od 1.1. nasledujúceho kalendárneho roka.\n",
+      "reference": "Prechod z Peňaženky zdravia MINI do MAXI je veľmi jednoduchý a je možný kedykoľvek po splnení podmienok Peňaženky zdravia MAXI, t. j. vytvorenie skupiny minimálne 3 členov s nárokom. Prechod z Peňaženky zdravia MAXI do MINI počas kalendárneho roka je podmienený splnením podmienky, že v skupine nebola podaná ešte žiadna žiadosť o finančný príspevok a člen zo skupiny odišiel. V prípade, ak už v skupine bola podaná žiadosť o finančný príspevok z Peňaženky zdravia MAXI, člen môže opustiť skupinu a požiadať o MINI až od 1.1. nasledujúceho kalendárneho roka."
+    },
+    {
+      "question": "Ako často môžem meniť Peňaženku zdravia MINI a MAXI počas kalendárneho\nroka?",
+      "score": 0.625,
+      "response": "V prípade splnenia vyššie uvedených podmienok bez obmedzenia.",
+      "reference": "V prípade splnenia vyššie uvedených podmienok bez obmedzenia."
+    },
+    {
+      "question": "Čo sa stane s mojimi finančnými prostriedkami, ktoré som čerpal pred zmenou typu Peňaženky zdravia MINI a MAXI? Budú mi odrátané?",
+      "score": 0.9986,
+      "response": "V prípade prechodu z Peňaženky zdravia MINI do MAXI vám budú čerpané finančné príspevky odčítané z limitu 100 €. Pokiaľ ste teda pred vstupom do skupiny už vyčerpali nejakú časť finančných príspevkov z Peňaženky zdravia MINI, táto sa vám len jednoducho odpočíta z vášho limitu 100 €, ktorý prinášate svojim vstupom do Peňaženky zdravia MAXI.\n",
+      "reference": "V prípade prechodu z Peňaženky zdravia MINI do MAXI vám budú čerpané finančné príspevky odčítané z limitu 100 €. Pokiaľ ste teda pred vstupom do skupiny už vyčerpali nejakú časť finančných príspevkov z Peňaženky zdravia MINI, táto sa Vám len jednoducho odpočíta z Vášho limitu 100 €, ktorý prinášate svojim vstupom do Peňaženky zdravia MAXI."
+    }
+  ]
+}

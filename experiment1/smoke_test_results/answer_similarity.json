@@ -1,0 +1,26 @@
+{
+  "metric": "answer_similarity",
+  "aggregated": 0.9817410011354123,
+  "num_scored": 3,
+  "num_skipped": 0,
+  "per_question": [
+    {
+      "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+      "score": 0.951,
+      "response": "Peňaženku zdravia nájdete vo voľne dostupnej mobilnej aplikácii VšZP a v ePobočke. Využívať ju môžete po zaregistrovaní a aktivácii týchto elektronických služieb. Nie je spoplatnená.",
+      "reference": "Peňaženku zdravia nájdete vo voľne dostupnej mobilnej aplikácii VšZP a v ePobočke. Využívať ju môžete po zaregistrovaní a aktivácii týchto elektronických služieb. Stačí si v mobilnej aplikácii alebo ePobočke zvoliť Peňaženku zdravia, v ktorej môžete podávať žiadosti o finančné príspevky, získať informácie o stave žiadosti, čerpaní alebo aktuálnom zostatku finančného príspevku za kalendárny rok. Mobilná aplikácia je dostupná v App Store alebo Google Play."
+    },
+    {
+      "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+      "score": 0.9999,
+      "response": "Mobilná aplikácia vám umožní rýchly prístup k Peňaženke zdravia, kdekoľvek sa nachádzate. Pokiaľ vám viac vyhovuje webové rozhranie, stačí si aktivovať elektronické služby VšZP, teda mať aktívnu ePobočku.",
+      "reference": "Mobilná aplikácia vám umožní rýchly prístup k Peňaženke zdravia, kdekoľvek sa nachádzate. Pokiaľ vám viac vyhovuje webové rozhranie, stačí si aktivovať elektronické služby VšZP, teda mať aktívnu ePobočku."
+    },
+    {
+      "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+      "score": 0.9943,
+      "response": "Na čerpanie príspevkov z Peňaženky zdravia stačí, ak máte zriadenú ePobočku.\n",
+      "reference": "Na čerpanie príspevkov z Peňaženky zdravia stačí, ak máte zriadenú ePobočku."
+    }
+  ]
+}

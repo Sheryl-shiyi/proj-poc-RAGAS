@@ -1,0 +1,1474 @@
+{
+  "context_precision": {
+    "metric": "context_precision",
+    "aggregated": 0.9682539682249288,
+    "num_scored": 182,
+    "num_skipped": 0,
+    "per_question": [
+      {
+        "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+        "score": 0.9167
+      },
+      {
+        "question": "Ak som sa opäť vrátil do VšZP, môžem pre Peňaženku zdravia využívať svoje\nstaré konto v ePobočke?",
+        "score": 1.0
+      },
+      {
+        "question": "Som váš dlhoročný poistenec, prečo aj ja nemám nárok na Peňaženku\nzdravia?",
+        "score": 0.75
+      },
+      {
+        "question": "Aktualizácia mobilnej aplikácie prebehne automaticky, alebo si novú verziu\nmusím stiahnuť sám? Prečo sa aplikácia neaktualizuje sama?",
+        "score": 1.0
+      },
+      {
+        "question": "Máte kontakt na podporu pre klientov? Mám problémy s inštaláciou mobilnej\naplikácie, pomôžete mi?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je potrebná aktivácia mobilnej aplikácie? Nie je to zbytočná strata\nčasu?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak mám nový telefón, musím si opätovne aktivovať mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak si nanovo zaktivujem aplikáciu, musím si opätovne vytvoriť aj skupinu v\nPeňaženke zdravia MAXI?",
+        "score": 0.8056
+      },
+      {
+        "question": "Budú sa finančné príspevky časom meniť?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo musím potvrdiť nejaké súhlasy, ak chcem čerpať príspevky z\nPeňaženky zdravia? Na čo slúžia?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo slúži e-mailová adresa? Je to povinný údaj? Budem dostávať z\nmobilnej aplikácie nejaké správy?",
+        "score": 0.5
+      },
+      {
+        "question": "Kde nájdem presný zoznam finančných príspevkov, ktoré môžem čerpať z\nPeňaženky zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem čerpať finančné príspevky z Peňaženky zdravia aj bez vytvárania\nskupiny, teda ako jednotlivec?",
+        "score": 1.0
+      },
+      {
+        "question": "Aký limit finančných prostriedkov mám k dispozícii?",
+        "score": 0.5833
+      },
+      {
+        "question": "Kto môže čerpať finančné príspevky v Peňaženke zdravia MINI?",
+        "score": 0.5833
+      },
+      {
+        "question": "Mám pozvánku do skupiny. Môžem v tomto štádiu čerpať finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Začal som vytvárať skupinu, sme zatiaľ 2 a neviem, kedy sa nám podarí vytvoriť skupinu 3 členov,\nmôžem zatiaľ čerpať finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže finančné príspevky z Peňaženky zdravia MINI čerpať aj dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Aký je postup čerpania finančných príspevkov z Peňaženky zdravia MINI pre dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem ako dospelý v Peňaženke zdravia MINI konať aj za dieťa, ktoré mi bolo zverené súdom do\nstarostlivosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže požiadať o čerpanie finančných príspevkov z Peňaženky zdravia MINI aj osoba pozbavená\nspôsobilosti na právne úkony?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o finančný príspevok ako fyzická osoba, ak som ako FO – podnikateľ, teda SZČO,\ndlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+        "score": 0.9167
+      },
+      {
+        "question": "Po príchode zo zahraničia sa poistím vo VšZP. Môžem požiadať o finančný príspevok z Peňaženky\nzdravia MINI? Dostanem aj ja 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi žiadosť o finančný príspevok v prípade, že odídem do zahraničia a ukončím poistenie\nvo VšZP? Čo sa stane s mojimi 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Dostal som pozvánku do skupiny, môžem v tomto štádiu čerpať nejaké finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako požiadam o finančný príspevok?",
+        "score": 0.8056
+      },
+      {
+        "question": "Do akej doby musím podať žiadosť?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+        "score": 1.0
+      },
+      {
+        "question": "Sú obmedzenia pri podávaní prílohy k žiadosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako zistím, kto je zmluvný lekár?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si podať žiadosť o finančný príspevok aj v prípade, že som navštívil súkromného lekára\nalebo zariadenie?",
+        "score": 0.9167
+      },
+      {
+        "question": "Musím mať absolvované všetky preventívne prehliadky?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+        "score": 0.8056
+      },
+      {
+        "question": "Ako si pozriem, koľko som už na príspevky vyčerpal?",
+        "score": 0.8056
+      },
+      {
+        "question": "Ako si do Peňaženky zdravia MINI vložím číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem zmeniť číslo účtu?",
+        "score": 0.8333
+      },
+      {
+        "question": "Pošlete mi peniaze aj na zahraničný účet?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy zasielate finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+        "score": 1.0
+      },
+      {
+        "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+        "score": 0.9167
+      },
+      {
+        "question": "Môžem podať viac žiadostí na jeden doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+        "score": 0.9167
+      },
+      {
+        "question": "Budem musieť vrátiť príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MINI?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo je určený finančný príspevok na zuby 1× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 1× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem použiť príspevok 1× 30 € ročne na strojček pre dieťa z Peňaženky zdravia MINI?",
+        "score": 1.0
+      },
+      {
+        "question": "Finančné príspevky na lieky bude môcť čerpať dospelý poistenec aj dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa finančný príspevok na lieky aj na dietetické potraviny?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Čerpanie finančného príspevku na lieky je maximálne vo výške 20 € na poistenca na kalendárny rok\nalebo na celé obdobie poistenia vo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+        "score": 1.0
+      },
+      {
+        "question": "V lekárni mi namiešali masť alebo kvapky. Môžem v tomto prípade požiadať o finančný príspevok\nna lieky?",
+        "score": 1.0
+      },
+      {
+        "question": "Má dieťa nárok na finančný príspevok z Peňaženky zdravia MINI v prípade, že absolvovalo lekárske\nvyšetrenie u zmluvného oftalmológa v decembri a okuliare budú zakúpené až v januári nasledujúci\nrok?",
+        "score": 0.9167
+      },
+      {
+        "question": "Môžem získať z Peňaženky zdravia MINI príspevok na kontaktné šošovky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si prevziať okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+        "score": 0.9167
+      },
+      {
+        "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké podmienky musím splniť, aby som dostal príspevok na okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+        "score": 1.0
+      },
+      {
+        "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné čerpať finančný príspevok aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+        "score": 1.0
+      },
+      {
+        "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+        "score": 0.75
+      },
+      {
+        "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si požičať monitor dychu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aká je maximálna výška príspevku, ktorú môže žena získať na moderné cytologické vyšetrenie LBC?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako môžem začať používať skupinovú Peňaženku zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Dokedy si môžem vytvoriť skupinu v Peňaženke zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Kto je správca? Čo bude robiť?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa stanem správcom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako pridám člena? Aké údaje o ňom musím vedieť?",
+        "score": 1.0
+      },
+      {
+        "question": "Pridá sa mi dieťa do skupiny automaticky?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa stanem členom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako uvidím, že ma niekto pozval do skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Keď si pridám do Peňaženky zdravia MAXI člena, ktorý nemá nainštalovanú mobilnú aplikáciu ani\nzriadenú ePobočku, dokedy musí potvrdiť súhlas, že bude členom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa správca dozvie, že som potvrdil prijatie do skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Chcem niekoho pridať, ale ukazuje mi, že už je v inej skupine. Ako si ho pridám?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si pridať do skupiny v Peňaženke zdravia MAXI okrem rodiny a príbuzných aj napríklad\ndobrých známych?",
+        "score": 0.8333
+      },
+      {
+        "question": "Peňaženka zdravia MAXI je založená na princípe solidarity. Čo to znamená?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo so staršími ľuďmi, ktorí nemajú mobil? Ako môžu využiť finančné príspevky z Peňaženky zdravia\nMAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Je Peňaženka zdravia MAXI iba pre poistencov?",
+        "score": 1.0
+      },
+      {
+        "question": "Keď chcem pridať do svojej skupiny osobu pozbavenú spôsobilosti na právne úkony, bude to\nmožné?",
+        "score": 1.0
+      },
+      {
+        "question": "V roku 2024 som bol v skupine. Prečo ju teraz nevidím?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak som už členom/správcom aktívnej skupiny, bude táto skupina pokračovať aj v nasledujúcom\nroku?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem presný zoznam poskytovaných finančných príspevkov v rámci Peňaženky zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy môže skupina začať čerpať finančný príspevok z Peňaženky zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Akým spôsobom je možné zdieľať 50 % sumy medzi členmi v skupine? Je potrebné na to vyvinúť\nnejakú konkrétnu aktivitu?",
+        "score": 1.0
+      },
+      {
+        "question": "Má na to právo len správca skupiny alebo kto o tom rozhoduje?",
+        "score": 1.0
+      },
+      {
+        "question": "Zdieľanú sumu je možné využiť na akýkoľvek finančný príspevok?",
+        "score": 0.9167
+      },
+      {
+        "question": "V prípade, že člen už určitú časť svojej sumy minul a má k dispozícii napríklad už len 70 €, môže\nzdieľať 50 % len z tejto sumy alebo môže zdieľať celých 50 €?",
+        "score": 0.9167
+      },
+      {
+        "question": "Môže si moje neplnoleté dieťa pridať do skupiny niekto iný, keď mu to odsúhlasím cez mobilnú\naplikáciu alebo cez ePobočku (pokiaľ nie je zatiaľ v žiadnej skupine)?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem sa stať členom Peňaženky zdravia MAXI ako fyzická osoba, ak som ako FO – podnikateľ,\nteda SZČO, dlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+        "score": 0.75
+      },
+      {
+        "question": "Môžem odísť zo skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže správca niekoho vyradiť zo skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak prídem zo zahraničia a poistím sa vo VšZP? Môžem sa pripojiť do skupiny? Dostanem aj ja 100\n€?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo keď odídem do zahraničia a ukončím poistenie vo VšZP? Dostanem finančný príspevok? Čo sa\nstane s mojimi 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak správca prestane byť poistencom, zomrie alebo odíde do zahraničia?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak sme 3 členovia s nárokom v skupine a niekto odíde do zahraničia/zomrie?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako požiadam o čerpanie finančných príspevkov?",
+        "score": 1.0
+      },
+      {
+        "question": "Som správca, musím podať žiadosť o finančný príspevok za každého člena individuálne?",
+        "score": 1.0
+      },
+      {
+        "question": "Je nejaký čas, dokedy musím žiadosť podať?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+        "score": 1.0
+      },
+      {
+        "question": "Sú nejaké obmedzenia pri podávaní prílohy k žiadosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo si nemôžem podať žiadosť sám?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako zistím, kto je zmluvný lekár?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si dať preplatiť doklad o úhrade aj od súkromného lekára alebo zariadenia?",
+        "score": 1.0
+      },
+      {
+        "question": "Som správcom skupiny. Ako si pozriem, kto a koľko si už na príspevky vyčerpal?",
+        "score": 0.8056
+      },
+      {
+        "question": "Kde uvidím, koľko si dali preplatiť iní členovia skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Musím mať absolvované všetky preventívne prehliadky?",
+        "score": 1.0
+      },
+      {
+        "question": "Som správca skupiny a podávam žiadosť za člena. Musíme mať všetci absolvované preventívne\nprehliadky, aby mal člen nárok na finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+        "score": 1.0
+      },
+      {
+        "question": "Musia mať všetci v našej skupine preventívne prehliadky?",
+        "score": 1.0
+      },
+      {
+        "question": "Máme v skupine dlžníka. Čo máme robiť?",
+        "score": 0.9167
+      },
+      {
+        "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+        "score": 0.8056
+      },
+      {
+        "question": "Na aký účet prídu peniaze?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si do Peňaženky zdravia MAXI vložím číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem zmeniť číslo účtu?",
+        "score": 0.8333
+      },
+      {
+        "question": "Pošlete mi peniaze aj na zahraničný účet?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy mi uhradíte finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam viac, ako je výška sumy v našej skupine?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+        "score": 1.0
+      },
+      {
+        "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať viac žiadostí na jeden doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+        "score": 1.0
+      },
+      {
+        "question": "Budem musieť vrátiť finančný príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo je určený finančný príspevok na zuby 2× 40 ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 2× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o príspevok na strojček pre dieťa z Peňaženky zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Sú v limite 450 € na strojček pre dieťa zahrnuté aj kontroly?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné u dieťaťa čerpať benefit z Peňaženky zdravia MAXI na strojček, ak je výkon absolvovaný u\nzmluvného čeľustného ortopéda a poistenec má nezmluvného stomatológa, ktorý výkon odporučí?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak je suma na doklade za dentálnu hygienu vyššia ako 40 €, môžem ju rozdeliť do dvoch žiadosti?",
+        "score": 0.75
+      },
+      {
+        "question": "Finančné príspevky vo výške 200 € na lieky, dietetické potraviny budú môcť čerpať v Peňaženke\nzdravia MAXI deti aj obaja ich rodičia?",
+        "score": 1.0
+      },
+      {
+        "question": "Majú nárok na finančný príspevok na lieky v Peňaženke zdravia MAXI aj dospelí, ktorí nie sú\nzákonnými zástupcami detí?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia\nMAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Čerpanie finančného príspevku na lieky a dietetické potraviny pre deti a ich zákonných zástupcov vo\nvýške 200 € a príspevku na lieky pre dospelých vo výške 20 € je v Peňaženke zdravia MAXI na\nkalendárny rok alebo na celé obdobie poistenia vo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+        "score": 0.9167
+      },
+      {
+        "question": "Môžem čerpať finančný príspevok na lieky a dietetické potraviny ako zákonný zástupca dieťaťa,\nktoré je poistené v inej zdravotnej poisťovni, a zatiaľ nie som rozhodnutá, že by som dieťa prepoistila\ndo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "V lekárni mi namiešali masť alebo kvapky, môžem pri nich požiadať o finančný príspevok na lieky?",
+        "score": 1.0
+      },
+      {
+        "question": "Má dieťa nárok na príspevok z Peňaženky zdravia MAXI v prípade, že absolvovalo vyšetrenie u\nzmluvného oftalmológa v decembri, ale okuliare budú uhradené až v januári nasledujúceho roka?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem získať z Peňaženky zdravia MAXI príspevok na kontaktné šošovky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si zakúpiť okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné absolvovať laserovú operáciu očí aj na nezmluvnej klinike?",
+        "score": 1.0
+      },
+      {
+        "question": "Mám sivý zákal oka. Je možné príspevok na laserovú operáciu použiť aj na tento úkon?",
+        "score": 1.0
+      },
+      {
+        "question": "Mám dcéru, ktorá má 16 rokov. Je možné použiť príspevok na laserovú operáciu aj pre ňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste stanovili podmienku na absolvovanie laserovej operácie očí od výšky dioptrií +1/-1?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné získať príspevok do maximálnej výšky 450 € aj na operáciu dioptrickej vady, pri ktorej sa\npoužíva kombinácia excimerového a femtosekundového laseru?",
+        "score": 1.0
+      },
+      {
+        "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké podmienky musím splniť, aby som príspevok na okuliarový rám pre dospelých dostal?",
+        "score": 1.0
+      },
+      {
+        "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+        "score": 1.0
+      },
+      {
+        "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+        "score": 1.0
+      },
+      {
+        "question": "Dá sa finančný príspevok uplatniť aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+        "score": 0.9167
+      },
+      {
+        "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+        "score": 1.0
+      },
+      {
+        "question": "Kto si môže uplatniť finančný príspevok z Peňaženky zdravia na očkovanie proti vírusu HPV?",
+        "score": 1.0
+      },
+      {
+        "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+        "score": 0.75
+      },
+      {
+        "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+        "score": 0.9167
+      },
+      {
+        "question": "Ako si požičať monitor dychu?",
+        "score": 1.0
+      },
+      {
+        "question": "Do akej maximálnej výšky a na aké typy testov si môžem uplatniť finančný príspevok na prenatálne\ntestovanie?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže získať finančný príspevok na prenatálne testovanie aj žena vo veku 30 rokov v 5. mesiaci\ntehotenstva?",
+        "score": 1.0
+      },
+      {
+        "question": "Aká je maximálna výška finančného príspevku, ktorú môže žena získať na moderné cytologické\nvyšetrenie LBC?",
+        "score": 1.0
+      },
+      {
+        "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie finančného príspevku na 4.cyklus\nasistovanej reprodukcie?",
+        "score": 1.0
+      },
+      {
+        "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie príspevku na 4.cyklus asistovanej\nreprodukcie?",
+        "score": 1.0
+      },
+      {
+        "question": "Dá sa získať finančný príspevok aj na 4. cyklus asistovanej reprodukcie IVF mimo Slovenska?",
+        "score": 1.0
+      },
+      {
+        "question": "Má nárok na získanie finančný príspevku na 4.cyklus asistovanej reprodukcie IVF aj žena vo veku 40\nrokov?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné v rámci finančného príspevku 100 €/ročne na doplatky za glukózové senzory ho využiť aj\npo čiastkach?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je stanovená podmienka uplatnenia finančného príspevku na glukózové senzory iba na 6-7 a\n10 dňové senzory?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné získať finančný príspevok aj na doplatky za glukózové senzory pre dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Pre akú skupinu diabetikov platí finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Za akých podmienok môžem zmeniť Peňaženku zdravia MINI na MAXI alebo\nnaopak?",
+        "score": 0.75
+      },
+      {
+        "question": "Ako často môžem meniť Peňaženku zdravia MINI a MAXI počas kalendárneho\nroka?",
+        "score": 0.8056
+      },
+      {
+        "question": "Čo sa stane s mojimi finančnými prostriedkami, ktoré som čerpal pred zmenou typu Peňaženky zdravia MINI a MAXI? Budú mi odrátané?",
+        "score": 1.0
+      }
+    ]
+  },
+  "context_recall": {
+    "metric": "context_recall",
+    "aggregated": 0.989266,
+    "num_scored": 177,
+    "num_skipped": 5,
+    "per_question": [
+      {
+        "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak som sa opäť vrátil do VšZP, môžem pre Peňaženku zdravia využívať svoje\nstaré konto v ePobočke?",
+        "score": 1.0
+      },
+      {
+        "question": "Som váš dlhoročný poistenec, prečo aj ja nemám nárok na Peňaženku\nzdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Aktualizácia mobilnej aplikácie prebehne automaticky, alebo si novú verziu\nmusím stiahnuť sám? Prečo sa aplikácia neaktualizuje sama?",
+        "score": 1.0
+      },
+      {
+        "question": "Máte kontakt na podporu pre klientov? Mám problémy s inštaláciou mobilnej\naplikácie, pomôžete mi?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je potrebná aktivácia mobilnej aplikácie? Nie je to zbytočná strata\nčasu?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak mám nový telefón, musím si opätovne aktivovať mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak si nanovo zaktivujem aplikáciu, musím si opätovne vytvoriť aj skupinu v\nPeňaženke zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Budú sa finančné príspevky časom meniť?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo musím potvrdiť nejaké súhlasy, ak chcem čerpať príspevky z\nPeňaženky zdravia? Na čo slúžia?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo slúži e-mailová adresa? Je to povinný údaj? Budem dostávať z\nmobilnej aplikácie nejaké správy?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem presný zoznam finančných príspevkov, ktoré môžem čerpať z\nPeňaženky zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem čerpať finančné príspevky z Peňaženky zdravia aj bez vytvárania\nskupiny, teda ako jednotlivec?",
+        "score": 1.0
+      },
+      {
+        "question": "Aký limit finančných prostriedkov mám k dispozícii?",
+        "score": 1.0
+      },
+      {
+        "question": "Kto môže čerpať finančné príspevky v Peňaženke zdravia MINI?",
+        "score": 1.0
+      },
+      {
+        "question": "Mám pozvánku do skupiny. Môžem v tomto štádiu čerpať finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Začal som vytvárať skupinu, sme zatiaľ 2 a neviem, kedy sa nám podarí vytvoriť skupinu 3 členov,\nmôžem zatiaľ čerpať finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže finančné príspevky z Peňaženky zdravia MINI čerpať aj dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Aký je postup čerpania finančných príspevkov z Peňaženky zdravia MINI pre dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem ako dospelý v Peňaženke zdravia MINI konať aj za dieťa, ktoré mi bolo zverené súdom do\nstarostlivosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže požiadať o čerpanie finančných príspevkov z Peňaženky zdravia MINI aj osoba pozbavená\nspôsobilosti na právne úkony?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o finančný príspevok ako fyzická osoba, ak som ako FO – podnikateľ, teda SZČO,\ndlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+        "score": 1.0
+      },
+      {
+        "question": "Po príchode zo zahraničia sa poistím vo VšZP. Môžem požiadať o finančný príspevok z Peňaženky\nzdravia MINI? Dostanem aj ja 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi žiadosť o finančný príspevok v prípade, že odídem do zahraničia a ukončím poistenie\nvo VšZP? Čo sa stane s mojimi 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Dostal som pozvánku do skupiny, môžem v tomto štádiu čerpať nejaké finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako požiadam o finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Do akej doby musím podať žiadosť?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+        "score": null
+      },
+      {
+        "question": "Sú obmedzenia pri podávaní prílohy k žiadosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako zistím, kto je zmluvný lekár?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si podať žiadosť o finančný príspevok aj v prípade, že som navštívil súkromného lekára\nalebo zariadenie?",
+        "score": 1.0
+      },
+      {
+        "question": "Musím mať absolvované všetky preventívne prehliadky?",
+        "score": null
+      },
+      {
+        "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si pozriem, koľko som už na príspevky vyčerpal?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si do Peňaženky zdravia MINI vložím číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem zmeniť číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Pošlete mi peniaze aj na zahraničný účet?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy zasielate finančné príspevky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+        "score": 1.0
+      },
+      {
+        "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať viac žiadostí na jeden doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+        "score": 1.0
+      },
+      {
+        "question": "Budem musieť vrátiť príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MINI?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo je určený finančný príspevok na zuby 1× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 1× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem použiť príspevok 1× 30 € ročne na strojček pre dieťa z Peňaženky zdravia MINI?",
+        "score": 1.0
+      },
+      {
+        "question": "Finančné príspevky na lieky bude môcť čerpať dospelý poistenec aj dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa finančný príspevok na lieky aj na dietetické potraviny?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Čerpanie finančného príspevku na lieky je maximálne vo výške 20 € na poistenca na kalendárny rok\nalebo na celé obdobie poistenia vo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+        "score": 1.0
+      },
+      {
+        "question": "V lekárni mi namiešali masť alebo kvapky. Môžem v tomto prípade požiadať o finančný príspevok\nna lieky?",
+        "score": 1.0
+      },
+      {
+        "question": "Má dieťa nárok na finančný príspevok z Peňaženky zdravia MINI v prípade, že absolvovalo lekárske\nvyšetrenie u zmluvného oftalmológa v decembri a okuliare budú zakúpené až v januári nasledujúci\nrok?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem získať z Peňaženky zdravia MINI príspevok na kontaktné šošovky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si prevziať okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké podmienky musím splniť, aby som dostal príspevok na okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+        "score": 1.0
+      },
+      {
+        "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné čerpať finančný príspevok aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+        "score": 1.0
+      },
+      {
+        "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si požičať monitor dychu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aká je maximálna výška príspevku, ktorú môže žena získať na moderné cytologické vyšetrenie LBC?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako môžem začať používať skupinovú Peňaženku zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Dokedy si môžem vytvoriť skupinu v Peňaženke zdravia MAXI?",
+        "score": 0.6
+      },
+      {
+        "question": "Kto je správca? Čo bude robiť?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa stanem správcom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako pridám člena? Aké údaje o ňom musím vedieť?",
+        "score": 1.0
+      },
+      {
+        "question": "Pridá sa mi dieťa do skupiny automaticky?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa stanem členom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako uvidím, že ma niekto pozval do skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Keď si pridám do Peňaženky zdravia MAXI člena, ktorý nemá nainštalovanú mobilnú aplikáciu ani\nzriadenú ePobočku, dokedy musí potvrdiť súhlas, že bude členom?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako sa správca dozvie, že som potvrdil prijatie do skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Chcem niekoho pridať, ale ukazuje mi, že už je v inej skupine. Ako si ho pridám?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si pridať do skupiny v Peňaženke zdravia MAXI okrem rodiny a príbuzných aj napríklad\ndobrých známych?",
+        "score": 1.0
+      },
+      {
+        "question": "Peňaženka zdravia MAXI je založená na princípe solidarity. Čo to znamená?",
+        "score": null
+      },
+      {
+        "question": "Čo so staršími ľuďmi, ktorí nemajú mobil? Ako môžu využiť finančné príspevky z Peňaženky zdravia\nMAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Je Peňaženka zdravia MAXI iba pre poistencov?",
+        "score": 0.0
+      },
+      {
+        "question": "Keď chcem pridať do svojej skupiny osobu pozbavenú spôsobilosti na právne úkony, bude to\nmožné?",
+        "score": 1.0
+      },
+      {
+        "question": "V roku 2024 som bol v skupine. Prečo ju teraz nevidím?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak som už členom/správcom aktívnej skupiny, bude táto skupina pokračovať aj v nasledujúcom\nroku?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem presný zoznam poskytovaných finančných príspevkov v rámci Peňaženky zdravia?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy môže skupina začať čerpať finančný príspevok z Peňaženky zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Akým spôsobom je možné zdieľať 50 % sumy medzi členmi v skupine? Je potrebné na to vyvinúť\nnejakú konkrétnu aktivitu?",
+        "score": 1.0
+      },
+      {
+        "question": "Má na to právo len správca skupiny alebo kto o tom rozhoduje?",
+        "score": 1.0
+      },
+      {
+        "question": "Zdieľanú sumu je možné využiť na akýkoľvek finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "V prípade, že člen už určitú časť svojej sumy minul a má k dispozícii napríklad už len 70 €, môže\nzdieľať 50 % len z tejto sumy alebo môže zdieľať celých 50 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže si moje neplnoleté dieťa pridať do skupiny niekto iný, keď mu to odsúhlasím cez mobilnú\naplikáciu alebo cez ePobočku (pokiaľ nie je zatiaľ v žiadnej skupine)?",
+        "score": 0.5
+      },
+      {
+        "question": "Môžem sa stať členom Peňaženky zdravia MAXI ako fyzická osoba, ak som ako FO – podnikateľ,\nteda SZČO, dlžníkom a ručím celým svojím majetkom fyzickej osoby?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem odísť zo skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže správca niekoho vyradiť zo skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak prídem zo zahraničia a poistím sa vo VšZP? Môžem sa pripojiť do skupiny? Dostanem aj ja 100\n€?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo keď odídem do zahraničia a ukončím poistenie vo VšZP? Dostanem finančný príspevok? Čo sa\nstane s mojimi 100 €?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak správca prestane byť poistencom, zomrie alebo odíde do zahraničia?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak sme 3 členovia s nárokom v skupine a niekto odíde do zahraničia/zomrie?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako požiadam o čerpanie finančných príspevkov?",
+        "score": 1.0
+      },
+      {
+        "question": "Som správca, musím podať žiadosť o finančný príspevok za každého člena individuálne?",
+        "score": 1.0
+      },
+      {
+        "question": "Je nejaký čas, dokedy musím žiadosť podať?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo potrebujem k podaniu žiadosti? Kde a ako mám žiadosť vyplniť?",
+        "score": null
+      },
+      {
+        "question": "Sú nejaké obmedzenia pri podávaní prílohy k žiadosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo si nemôžem podať žiadosť sám?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako zistím, kto je zmluvný lekár?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si dať preplatiť doklad o úhrade aj od súkromného lekára alebo zariadenia?",
+        "score": null
+      },
+      {
+        "question": "Som správcom skupiny. Ako si pozriem, kto a koľko si už na príspevky vyčerpal?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde uvidím, koľko si dali preplatiť iní členovia skupiny?",
+        "score": 1.0
+      },
+      {
+        "question": "Musím mať absolvované všetky preventívne prehliadky?",
+        "score": 1.0
+      },
+      {
+        "question": "Som správca skupiny a podávam žiadosť za člena. Musíme mať všetci absolvované preventívne\nprehliadky, aby mal člen nárok na finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo ak mám absolvovanú preventívnu prehliadku u nezmluvného lekára?",
+        "score": 1.0
+      },
+      {
+        "question": "Musia mať všetci v našej skupine preventívne prehliadky?",
+        "score": 1.0
+      },
+      {
+        "question": "Máme v skupine dlžníka. Čo máme robiť?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo keď mi lekár nedá za ošetrenie doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Na aký účet prídu peniaze?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si do Peňaženky zdravia MAXI vložím číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem zmeniť číslo účtu?",
+        "score": 1.0
+      },
+      {
+        "question": "Pošlete mi peniaze aj na zahraničný účet?",
+        "score": 1.0
+      },
+      {
+        "question": "Kedy mi uhradíte finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam viac, ako je výška sumy v našej skupine?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať žiadosť, aj keď žiadam o finančný príspevok v sume vyššej, ako je suma, na ktorú\nmám nárok?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste mi finančný príspevok ešte neuhradili?",
+        "score": 1.0
+      },
+      {
+        "question": "Akou formou sa dozviem o stave mojej žiadosti o finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady, čo mám robiť? Ako zistím dôvod?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem podať viac žiadostí na jeden doklad?",
+        "score": 1.0
+      },
+      {
+        "question": "Žiadosť ste mi ukončili bez úhrady. Môžem ju podať znova?",
+        "score": 1.0
+      },
+      {
+        "question": "Budem musieť vrátiť finančný príspevok, ak v nasledujúcom roku zmením poisťovňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké finančné príspevky na zuby môžem čerpať v Peňaženke zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Kde nájdem zmluvných zubárov, u ktorých môžem absolvovať dentálnu hygienu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čo je určený finančný príspevok na zuby 2× 40 ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Na ktoré výkony dentálnej hygieny sa vzťahuje limit 2× 40 € ročne?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o príspevok na strojček pre dieťa z Peňaženky zdravia MAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Sú v limite 450 € na strojček pre dieťa zahrnuté aj kontroly?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné u dieťaťa čerpať benefit z Peňaženky zdravia MAXI na strojček, ak je výkon absolvovaný u\nzmluvného čeľustného ortopéda a poistenec má nezmluvného stomatológa, ktorý výkon odporučí?",
+        "score": 1.0
+      },
+      {
+        "question": "Ak je suma na doklade za dentálnu hygienu vyššia ako 40 €, môžem ju rozdeliť do dvoch žiadosti?",
+        "score": 1.0
+      },
+      {
+        "question": "Finančné príspevky vo výške 200 € na lieky, dietetické potraviny budú môcť čerpať v Peňaženke\nzdravia MAXI deti aj obaja ich rodičia?",
+        "score": 1.0
+      },
+      {
+        "question": "Majú nárok na finančný príspevok na lieky v Peňaženke zdravia MAXI aj dospelí, ktorí nie sú\nzákonnými zástupcami detí?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako je to s doplatkami za lieky zo zákona? Strhnú sa mi zo sumy príspevku v Peňaženke zdravia\nMAXI?",
+        "score": 1.0
+      },
+      {
+        "question": "Čerpanie finančného príspevku na lieky a dietetické potraviny pre deti a ich zákonných zástupcov vo\nvýške 200 € a príspevku na lieky pre dospelých vo výške 20 € je v Peňaženke zdravia MAXI na\nkalendárny rok alebo na celé obdobie poistenia vo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte mi aj drahšie lieky? Ak si vyberiem v lekárni liek na predpis a uhradím zaň vyšší doplatok\nako za najlacnejší náhradný liek, bude mi táto suma za drahší liek vrátená?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem čerpať finančný príspevok na lieky a dietetické potraviny ako zákonný zástupca dieťaťa,\nktoré je poistené v inej zdravotnej poisťovni, a zatiaľ nie som rozhodnutá, že by som dieťa prepoistila\ndo VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "V lekárni mi namiešali masť alebo kvapky, môžem pri nich požiadať o finančný príspevok na lieky?",
+        "score": 1.0
+      },
+      {
+        "question": "Má dieťa nárok na príspevok z Peňaženky zdravia MAXI v prípade, že absolvovalo vyšetrenie u\nzmluvného oftalmológa v decembri, ale okuliare budú uhradené až v januári nasledujúceho roka?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem získať z Peňaženky zdravia MAXI príspevok na kontaktné šošovky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem si zakúpiť okuliare aj v optike, ktorá nie je zmluvným partnerom VšZP?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+        "score": 1.0
+      },
+      {
+        "question": "Vzťahuje sa príspevok do výšky 450 € na laserovú operáciu excimerovým alebo femtosekudovým\nlaserom iba na jedno oko, ale mám nárok na 900 € na obe oči dokopy?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné absolvovať laserovú operáciu očí aj na nezmluvnej klinike?",
+        "score": 1.0
+      },
+      {
+        "question": "Mám sivý zákal oka. Je možné príspevok na laserovú operáciu použiť aj na tento úkon?",
+        "score": 1.0
+      },
+      {
+        "question": "Mám dcéru, ktorá má 16 rokov. Je možné použiť príspevok na laserovú operáciu aj pre ňu?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo ste stanovili podmienku na absolvovanie laserovej operácie očí od výšky dioptrií +1/-1?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné získať príspevok do maximálnej výšky 450 € aj na operáciu dioptrickej vady, pri ktorej sa\npoužíva kombinácia excimerového a femtosekundového laseru?",
+        "score": 1.0
+      },
+      {
+        "question": "Je nejaké obmedzenie výšky dioptrie na príspevok okuliarový rám pre dospelých?",
+        "score": 1.0
+      },
+      {
+        "question": "Aké podmienky musím splniť, aby som príspevok na okuliarový rám pre dospelých dostal?",
+        "score": 1.0
+      },
+      {
+        "question": "Príspevok pre deti 100 € platí samostatne na okuliarový rám a aj na okuliarové šošovky pre deti?",
+        "score": 1.0
+      },
+      {
+        "question": "Je členstvo v športovom klube podmienkou na príspevok na športovú prehliadku?",
+        "score": 1.0
+      },
+      {
+        "question": "Dá sa finančný príspevok uplatniť aj pri preočkovaní, napríklad pri kliešťovej encefalitíde?",
+        "score": 1.0
+      },
+      {
+        "question": "Preplatíte každú dávku očkovania alebo musím mať všetky odporúčané vakcíny podľa očkovacej\nschémy?",
+        "score": 1.0
+      },
+      {
+        "question": "Kto si môže uplatniť finančný príspevok z Peňaženky zdravia na očkovanie proti vírusu HPV?",
+        "score": 1.0
+      },
+      {
+        "question": "Na aké špeciálne samotesty si môžem finančný príspevok uplatniť a do akej výšky?",
+        "score": 1.0
+      },
+      {
+        "question": "Môžem požiadať o preplatenie očkovania proti ovčím kiahňam?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako si požičať monitor dychu?",
+        "score": 1.0
+      },
+      {
+        "question": "Do akej maximálnej výšky a na aké typy testov si môžem uplatniť finančný príspevok na prenatálne\ntestovanie?",
+        "score": 1.0
+      },
+      {
+        "question": "Môže získať finančný príspevok na prenatálne testovanie aj žena vo veku 30 rokov v 5. mesiaci\ntehotenstva?",
+        "score": 1.0
+      },
+      {
+        "question": "Aká je maximálna výška finančného príspevku, ktorú môže žena získať na moderné cytologické\nvyšetrenie LBC?",
+        "score": 1.0
+      },
+      {
+        "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie finančného príspevku na 4.cyklus\nasistovanej reprodukcie?",
+        "score": 1.0
+      },
+      {
+        "question": "Je potrebný predchádzajúci súhlas poisťovne na získanie príspevku na 4.cyklus asistovanej\nreprodukcie?",
+        "score": 1.0
+      },
+      {
+        "question": "Dá sa získať finančný príspevok aj na 4. cyklus asistovanej reprodukcie IVF mimo Slovenska?",
+        "score": 1.0
+      },
+      {
+        "question": "Má nárok na získanie finančný príspevku na 4.cyklus asistovanej reprodukcie IVF aj žena vo veku 40\nrokov?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné v rámci finančného príspevku 100 €/ročne na doplatky za glukózové senzory ho využiť aj\npo čiastkach?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je stanovená podmienka uplatnenia finančného príspevku na glukózové senzory iba na 6-7 a\n10 dňové senzory?",
+        "score": 1.0
+      },
+      {
+        "question": "Je možné získať finančný príspevok aj na doplatky za glukózové senzory pre dieťa?",
+        "score": 1.0
+      },
+      {
+        "question": "Pre akú skupinu diabetikov platí finančný príspevok?",
+        "score": 1.0
+      },
+      {
+        "question": "Za akých podmienok môžem zmeniť Peňaženku zdravia MINI na MAXI alebo\nnaopak?",
+        "score": 1.0
+      },
+      {
+        "question": "Ako často môžem meniť Peňaženku zdravia MINI a MAXI počas kalendárneho\nroka?",
+        "score": 1.0
+      },
+      {
+        "question": "Čo sa stane s mojimi finančnými prostriedkami, ktoré som čerpal pred zmenou typu Peňaženky zdravia MINI a MAXI? Budú mi odrátané?",
+        "score": 1.0
+      }
+    ]
+  }
+}
