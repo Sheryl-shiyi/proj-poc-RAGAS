@@ -1,0 +1,7 @@
+{
+  "experiment_id": "experiment3",
+  "description": "Qwen3-32B",
+  "timestamp": "2026-05-09T17:09:04.576181",
+  "eval_model": "vllm-inference/Gemma-3-27B-BF16-Distributed",
+  "num_questions": 182
+}

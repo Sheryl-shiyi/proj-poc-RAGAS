@@ -1,0 +1,7 @@
+{
+  "experiment_id": "experiment2",
+  "description": "Baseline: EuroLLM-22B-instruct",
+  "timestamp": "2026-05-08T17:13:49.317891",
+  "eval_model": "vllm-inference/Gemma-3-27B-BF16-Distributed",
+  "num_questions": 182
+}

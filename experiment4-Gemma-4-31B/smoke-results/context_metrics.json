@@ -1,0 +1,42 @@
+{
+  "context_precision": {
+    "metric": "context_precision",
+    "aggregated": 0.9722222221953704,
+    "num_scored": 3,
+    "num_skipped": 0,
+    "per_question": [
+      {
+        "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+        "score": 0.9167
+      }
+    ]
+  },
+  "context_recall": {
+    "metric": "context_recall",
+    "aggregated": 1.0,
+    "num_scored": 3,
+    "num_skipped": 0,
+    "per_question": [
+      {
+        "question": "Kde nájdem Peňaženku zdravia? Je spoplatnená?",
+        "score": 1.0
+      },
+      {
+        "question": "Prečo je Peňaženka zdravia viazaná na mobilnú aplikáciu?",
+        "score": 1.0
+      },
+      {
+        "question": "Na čerpanie príspevkov z Peňaženky zdravia musím mať mobilnú aplikáciu,\nalebo mi stačí ePobočka?",
+        "score": 1.0
+      }
+    ]
+  }
+}

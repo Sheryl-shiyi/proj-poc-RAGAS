@@ -1,0 +1,7 @@
+{
+  "experiment_id": "experiment4",
+  "description": " Gemma-4-31b-it",
+  "timestamp": "2026-05-09T19:31:51.441458",
+  "eval_model": "vllm-inference/Gemma-3-27B-BF16-Distributed",
+  "num_questions": 182
+}

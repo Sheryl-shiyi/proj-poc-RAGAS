@@ -1,0 +1,7 @@
+{
+  "experiment_id": "experiment1",
+  "description": "Baseline: Gemma-3-27B with default prompt",
+  "timestamp": "2026-05-09T14:19:14.169143",
+  "eval_model": "vllm-inference/Gemma-3-27B-BF16-Distributed",
+  "num_questions": 3
+}
