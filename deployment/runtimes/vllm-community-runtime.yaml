@@ -1,0 +1,55 @@
+apiVersion: serving.kserve.io/v1alpha1
+kind: ServingRuntime
+metadata:
+  annotations:
+    opendatahub.io/apiProtocol: REST
+    opendatahub.io/recommended-accelerators: '["nvidia.com/gpu"]'
+    opendatahub.io/template-display-name: vLLM Community GPU ServingRuntime
+    opendatahub.io/template-name: vllm-community-runtime-template
+    openshift.io/display-name: vLLM Community GPU ServingRuntime (v0.20.2)
+  labels:
+    opendatahub.io/dashboard: "true"
+  name: vllm-community
+  namespace: vszp
+spec:
+  annotations:
+    opendatahub.io/kserve-runtime: vllm
+    prometheus.io/path: /metrics
+    prometheus.io/port: "8080"
+  containers:
+  - args:
+    - --port=8080
+    - --model=/mnt/models
+    - --served-model-name={{.Name}}
+    command:
+    - python3
+    - -m
+    - vllm.entrypoints.openai.api_server
+    env:
+    - name: HF_HOME
+      value: /tmp/hf_home
+    - name: TRANSFORMERS_CACHE
+      value: /tmp/transformers_cache
+    - name: HOME
+      value: /tmp
+    - name: XDG_CACHE_HOME
+      value: /tmp/.cache
+    - name: VLLM_CACHE_ROOT
+      value: /tmp/.cache/vllm
+    image: docker.io/vllm/vllm-openai:v0.20.2
+    name: kserve-container
+    ports:
+    - containerPort: 8080
+      protocol: TCP
+    volumeMounts:
+    - mountPath: /dev/shm
+      name: dshm
+  multiModel: false
+  supportedModelFormats:
+  - autoSelect: true
+    name: vLLM
+  volumes:
+  - emptyDir:
+      medium: Memory
+      sizeLimit: 12Gi
+    name: dshm

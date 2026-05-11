@@ -1,0 +1,67 @@
+apiVersion: llamastack.io/v1alpha1
+kind: LlamaStackDistribution
+metadata:
+  name: llama-stack-ragas-inline
+  namespace: ragas-eval
+spec:
+  replicas: 1
+  network:
+    allowedFrom:
+      namespaces:
+        - ragas-eval
+  server:
+    containerSpec:
+      resources:
+        requests:
+          cpu: 4
+          memory: "12Gi"
+        limits:
+          cpu: 6
+          memory: "14Gi"
+      env:
+        # Inference model — set to your judge model's --served-model-name
+        # Use internal Service URL to avoid HAProxy 30s timeout on long generations
+        - name: INFERENCE_MODEL
+          value: <SERVED_MODEL_NAME>        # e.g. Gemma-3-27B-BF16-Distributed
+        - name: VLLM_URL
+          value: http://<model>-predictor.<model-namespace>.svc.cluster.local:8080/v1
+        - name: VLLM_API_TOKEN
+          value: fake
+        - name: VLLM_TLS_VERIFY
+          value: "false"
+
+        # Embedding model (Qwen via vLLM)
+        - name: EMBEDDING_MODEL
+          value: qwen3-4b-embedding
+        - name: EMBEDDING_PROVIDER
+          value: vllm-embedding
+        - name: EMBEDDING_PROVIDER_MODEL_ID
+          value: qwen3-4b-embedding
+        - name: EMBEDDING_DIMENSION
+          value: "2048"
+        - name: VLLM_EMBEDDING_URL
+          value: http://<embedding-model>-predictor.<model-namespace>.svc.cluster.local:8080/v1
+        - name: VLLM_EMBEDDING_API_TOKEN
+          value: fake
+        - name: VLLM_EMBEDDING_TLS_VERIFY
+          value: "false"
+
+        # Ragas inline provider — activates the RAGAS eval metrics
+        - name: TRUSTYAI_EMBEDDING_MODEL
+          value: vllm-embedding/qwen3-4b-embedding
+
+        # PostgreSQL storage — adjust to your pgvector instance
+        - name: POSTGRES_HOST
+          value: pgvector.<rag-namespace>.svc.cluster.local
+        - name: POSTGRES_PORT
+          value: "5432"
+        - name: POSTGRES_DB
+          value: ragas_eval
+        - name: POSTGRES_USER
+          value: postgres
+        - name: POSTGRES_PASSWORD
+          value: <your-password>
+      name: llama-stack
+      port: 8321
+    distribution:
+      name: rh-dev

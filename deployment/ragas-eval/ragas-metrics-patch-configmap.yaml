@@ -1,0 +1,39 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ragas-metrics-patch
+  namespace: ragas-eval
+data:
+  constants.py: |
+    from ragas.metrics import (
+        answer_correctness,
+        answer_relevancy,
+        answer_similarity,
+        context_precision,
+        context_recall,
+        faithfulness,
+    )
+
+    PROVIDER_TYPE = "trustyai_ragas"
+    PROVIDER_ID_INLINE = "trustyai_ragas_inline"
+    PROVIDER_ID_REMOTE = "trustyai_ragas_remote"
+
+    METRIC_MAPPING = {
+        metric_func.name: metric_func
+        for metric_func in [
+            answer_relevancy,
+            answer_similarity,
+            answer_correctness,
+            context_precision,
+            faithfulness,
+            context_recall,
+        ]
+    }
+    METRIC_MAPPING["answer_similarity"] = answer_similarity
+
+    AVAILABLE_METRICS = list(METRIC_MAPPING.keys())
+
+    RAGAS_PROVIDER_IMAGE_CONFIGMAP_NAME = "trustyai-service-operator-config"
+    RAGAS_PROVIDER_IMAGE_CONFIGMAP_KEY = "ragas-provider-image"
+    DEFAULT_RAGAS_PROVIDER_IMAGE = "quay.io/trustyai/llama-stack-provider-ragas:latest"
+    KUBEFLOW_CANDIDATE_NAMESPACES = ["redhat-ods-applications", "opendatahub"]
