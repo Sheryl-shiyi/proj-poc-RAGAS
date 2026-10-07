@@ -2,6 +2,8 @@
 
 A proof-of-concept that evaluates how different LLMs perform as the generation backbone of a Retrieval-Augmented Generation (RAG) system. Four models are tested against 182 Slovak health insurance FAQ pairs using [RAGAS](https://github.com/explodinggradients/ragas) metrics, with a consistent judge model (Gemma 3 27B) scoring all experiments.
 
+**Slides:** [Retrieval, Rails, Results](https://sheryl-shiyi.github.io/Sheryl-Slides/retrieval-rails-results.html) — the architecture, evaluation method and results as a presentation.
+
 ## Architecture
 
 ```
